@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Abu_Dhabi GP,3.0,1.225,103.658,101.909,Red Bull Racing,6.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Abu_Dhabi GP,1.0,1.0684,103.7,101.357,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2018,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Abu_Dhabi GP,7.0,2.4572,105.45,102.876,Sauber,8.0,,0,2,2,1
+Oscar Piastri,PIA,2018,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Abu_Dhabi GP,6.0,3.3809,104.836,101.351,Renault,11.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Abu_Dhabi GP,11.0,2.6772,106.042,102.393,McLaren,15.0,,1,2,2,1
+Pierre Gasly,GAS,2018,Abu_Dhabi GP,16.0,1.8942,106.301,103.988,Toro Rosso,17.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Abu_Dhabi GP,17.0,2.4692,106.069,103.591,Racing Point,9.0,,1,2,2,1
+Nico Hülkenberg,HUL,2018,Abu_Dhabi GP,20.0,N/A,N/A,N/A,Renault,10.0,,1,0,0,-1
+Alex Albon,ALB,2018,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Abu_Dhabi GP,13.0,1.6803,106.524,104.033,Williams,20.0,,1,2,2,1
+Max Verstappen,VER,2019,Abu_Dhabi GP,2.0,0.5592,102.449,101.119,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Abu_Dhabi GP,1.0,0.6625,102.186,99.283,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2019,Abu_Dhabi GP,8.0,0.5535,104.452,103.026,McLaren,6.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Abu_Dhabi GP,3.0,0.8933,102.572,100.442,Ferrari,3.0,,0,3,3,2
+Oscar Piastri,PIA,2019,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Abu_Dhabi GP,17.0,2.7829,105.728,103.074,Williams,18.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Abu_Dhabi GP,10.0,1.4002,104.227,101.294,McLaren,8.0,,1,3,3,2
+Yuki Tsunoda,TSU,2019,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Abu_Dhabi GP,18.0,1.5594,104.922,102.414,Toro Rosso,11.0,,1,1,1,0
+Esteban Ocon,OCO,2019,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Abu_Dhabi GP,12.0,0.6179,104.589,103.274,Renault,9.0,,1,2,2,1
+Alex Albon,ALB,2019,Abu_Dhabi GP,6.0,0.6031,103.379,102.219,Red Bull Racing,5.0,,0,2,2,1
+Liam Lawson,LAW,2019,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Abu_Dhabi GP,20.0,1.8748,105.455,103.326,Racing Point,12.0,,1,3,3,2
+Max Verstappen,VER,2020,Abu_Dhabi GP,1.0,0.1903,101.652,100.958,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2020,Abu_Dhabi GP,3.0,0.3237,102.127,101.42,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2020,Abu_Dhabi GP,5.0,0.5989,103.136,101.964,McLaren,4.0,,0,2,2,1
+Charles Leclerc,LEC,2020,Abu_Dhabi GP,13.0,1.6941,103.939,101.908,Ferrari,12.0,,1,2,2,1
+Oscar Piastri,PIA,2020,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Abu_Dhabi GP,15.0,1.4886,104.801,103.328,Williams,16.0,,1,2,2,1
+Carlos Sainz,SAI,2020,Abu_Dhabi GP,6.0,0.7606,103.199,101.947,McLaren,6.0,,0,2,2,1
+Yuki Tsunoda,TSU,2020,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Abu_Dhabi GP,8.0,0.8672,103.703,102.474,AlphaTauri,9.0,,0,2,2,1
+Esteban Ocon,OCO,2020,Abu_Dhabi GP,9.0,1.0398,103.991,102.894,Renault,10.0,,0,2,2,1
+Nico Hülkenberg,HUL,2020,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Abu_Dhabi GP,4.0,0.5471,102.19,101.227,Red Bull Racing,5.0,,0,2,2,1
+Liam Lawson,LAW,2020,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Abu_Dhabi GP,10.0,0.8673,103.949,101.866,Racing Point,8.0,,0,2,2,1
+Max Verstappen,VER,2021,Abu_Dhabi GP,1.0,0.8952,87.838,86.103,Red Bull Racing,1.0,,0,4,2,3
+Lewis Hamilton,HAM,2021,Abu_Dhabi GP,2.0,1.2403,87.945,86.615,Mercedes,2.0,,0,2,2,1
+Lando Norris,NOR,2021,Abu_Dhabi GP,7.0,1.137,89.275,86.762,McLaren,3.0,,0,3,3,2
+Charles Leclerc,LEC,2021,Abu_Dhabi GP,10.0,0.553,89.657,88.433,Ferrari,7.0,,0,3,3,2
+Oscar Piastri,PIA,2021,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Abu_Dhabi GP,18.0,0.8656,91.748,90.647,Williams,17.0,,1,1,1,0
+Carlos Sainz,SAI,2021,Abu_Dhabi GP,3.0,0.8681,89.205,87.618,Ferrari,5.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Abu_Dhabi GP,4.0,1.2126,89.323,87.496,AlphaTauri,8.0,,0,3,3,2
+Fernando Alonso,ALO,2021,Abu_Dhabi GP,8.0,0.9241,89.905,87.607,Alpine,11.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Abu_Dhabi GP,5.0,1.6705,89.617,87.342,AlphaTauri,12.0,,0,3,3,2
+Esteban Ocon,OCO,2021,Abu_Dhabi GP,9.0,0.7118,89.76,88.249,Alpine,9.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Abu_Dhabi GP,13.0,1.347,90.2,88.567,Aston Martin,13.0,,1,3,3,2
+Max Verstappen,VER,2022,Abu_Dhabi GP,1.0,0.2851,90.336,89.392,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Abu_Dhabi GP,18.0,0.6774,90.729,89.788,Mercedes,5.0,,1,2,2,1
+Lando Norris,NOR,2022,Abu_Dhabi GP,6.0,0.9919,90.862,88.391,McLaren,7.0,,0,3,2,2
+Charles Leclerc,LEC,2022,Abu_Dhabi GP,2.0,0.3764,90.457,89.719,Ferrari,3.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Abu_Dhabi GP,5.0,0.8978,90.395,88.836,Mercedes,6.0,,0,3,2,2
+Carlos Sainz,SAI,2022,Abu_Dhabi GP,4.0,0.6058,90.315,88.879,Ferrari,4.0,,0,3,2,2
+Yuki Tsunoda,TSU,2022,Abu_Dhabi GP,11.0,0.6981,91.408,89.489,AlphaTauri,11.0,,0,3,3,2
+Fernando Alonso,ALO,2022,Abu_Dhabi GP,20.0,0.5783,92.019,90.579,Alpine,10.0,,1,2,2,1
+Pierre Gasly,GAS,2022,Abu_Dhabi GP,14.0,0.6713,92.206,91.081,AlphaTauri,17.0,,1,2,2,1
+Esteban Ocon,OCO,2022,Abu_Dhabi GP,7.0,1.011,90.876,89.333,Alpine,8.0,,0,3,2,2
+Nico Hülkenberg,HUL,2022,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Abu_Dhabi GP,13.0,1.1372,91.776,89.939,Williams,19.0,,1,3,2,2
+Liam Lawson,LAW,2022,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Abu_Dhabi GP,8.0,0.6764,91.163,89.62,Aston Martin,14.0,,0,3,2,2
+Max Verstappen,VER,2023,Abu_Dhabi GP,1.0,1.0402,89.202,86.993,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,Abu_Dhabi GP,9.0,0.9393,89.881,88.372,Mercedes,11.0,,0,3,2,2
+Lando Norris,NOR,2023,Abu_Dhabi GP,5.0,0.7398,89.573,88.164,McLaren,5.0,,0,3,2,2
+Charles Leclerc,LEC,2023,Abu_Dhabi GP,2.0,0.8689,89.494,88.199,Ferrari,2.0,,0,3,2,2
+Oscar Piastri,PIA,2023,Abu_Dhabi GP,6.0,1.0744,89.751,88.138,McLaren,3.0,,0,3,2,2
+George Russell,RUS,2023,Abu_Dhabi GP,3.0,0.8482,89.536,88.187,Mercedes,4.0,,0,3,2,2
+Carlos Sainz,SAI,2023,Abu_Dhabi GP,18.0,0.6522,90.505,89.452,Ferrari,16.0,,0,2,1,1
+Yuki Tsunoda,TSU,2023,Abu_Dhabi GP,8.0,0.4968,90.271,89.256,AlphaTauri,6.0,,0,2,2,1
+Fernando Alonso,ALO,2023,Abu_Dhabi GP,7.0,0.8634,89.807,88.256,Aston Martin,7.0,,0,3,2,2
+Pierre Gasly,GAS,2023,Abu_Dhabi GP,13.0,0.7346,90.334,89.016,Alpine,10.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Abu_Dhabi GP,12.0,0.263,90.664,90.033,Alpine,12.0,,0,2,2,1
+Nico Hülkenberg,HUL,2023,Abu_Dhabi GP,15.0,0.7121,90.537,89.217,Haas F1 Team,8.0,,0,3,2,2
+Alex Albon,ALB,2023,Abu_Dhabi GP,14.0,1.2818,90.231,87.845,Williams,14.0,,0,3,2,2
+Liam Lawson,LAW,2023,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Abu_Dhabi GP,10.0,0.9954,90.122,88.05,Aston Martin,13.0,,0,3,2,2
+Max Verstappen,VER,2024,Abu_Dhabi GP,6.0,0.81,89.035,87.765,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Abu_Dhabi GP,4.0,1.314,88.989,87.278,Mercedes,16.0,,0,2,2,1
+Lando Norris,NOR,2024,Abu_Dhabi GP,1.0,0.3776,88.517,87.438,McLaren,1.0,,0,2,2,1
+Charles Leclerc,LEC,2024,Abu_Dhabi GP,3.0,0.4836,88.938,88.018,Ferrari,19.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Abu_Dhabi GP,10.0,0.7341,89.007,87.69,McLaren,2.0,,0,2,1,1
+George Russell,RUS,2024,Abu_Dhabi GP,5.0,0.5454,89.131,88.195,Mercedes,6.0,,0,2,2,1
+Carlos Sainz,SAI,2024,Abu_Dhabi GP,2.0,0.2617,88.573,87.765,Ferrari,3.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Abu_Dhabi GP,12.0,0.5027,90.124,89.2,RB,11.0,,1,2,2,1
+Fernando Alonso,ALO,2024,Abu_Dhabi GP,9.0,0.721,89.375,87.948,Aston Martin,8.0,,0,3,2,2
+Pierre Gasly,GAS,2024,Abu_Dhabi GP,7.0,0.1586,89.77,89.251,Alpine,5.0,,0,2,2,1
+Esteban Ocon,OCO,2024,Abu_Dhabi GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2024,Abu_Dhabi GP,8.0,0.1608,89.786,89.152,Haas F1 Team,7.0,,0,2,2,1
+Alex Albon,ALB,2024,Abu_Dhabi GP,11.0,0.2913,90.102,89.438,Williams,18.0,,1,2,2,1
+Liam Lawson,LAW,2024,Abu_Dhabi GP,17.0,0.7076,89.893,88.751,RB,12.0,,0,3,2,2
+Lance Stroll,STR,2024,Abu_Dhabi GP,14.0,0.475,89.763,88.604,Aston Martin,13.0,,1,3,2,2

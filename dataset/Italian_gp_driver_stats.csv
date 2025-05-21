@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Italian GP,5.0,0.4789,84.57,83.609,Red Bull Racing,5.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Italian GP,1.0,0.4697,84.362,82.497,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2018,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Italian GP,11.0,1.2997,86.111,84.504,Sauber,15.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Italian GP,8.0,0.6726,85.821,84.056,Renault,7.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Italian GP,18.0,0.4912,87.749,87.009,McLaren,13.0,,1,1,1,0
+Pierre Gasly,GAS,2018,Italian GP,14.0,1.0087,86.417,84.767,Toro Rosso,9.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Italian GP,6.0,0.6665,85.436,84.179,Racing Point,8.0,,0,2,2,1
+Nico Hülkenberg,HUL,2018,Italian GP,13.0,0.9726,86.326,84.059,Renault,20.0,,1,2,2,1
+Alex Albon,ALB,2018,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Italian GP,9.0,0.7225,85.973,84.58,Williams,10.0,,1,2,2,1
+Max Verstappen,VER,2019,Italian GP,8.0,0.8715,84.74,83.143,Red Bull Racing,19.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Italian GP,3.0,0.575,84.397,81.779,Mercedes,2.0,,0,3,2,2
+Lando Norris,NOR,2019,Italian GP,10.0,1.8431,85.674,84.044,McLaren,16.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Italian GP,1.0,0.4971,84.168,83.009,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Italian GP,14.0,1.7863,86.518,84.842,Williams,14.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Italian GP,20.0,0.1787,86.131,85.637,McLaren,7.0,,1,1,1,0
+Yuki Tsunoda,TSU,2019,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Italian GP,11.0,2.7625,85.878,83.885,Toro Rosso,17.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Italian GP,5.0,0.9483,85.215,83.641,Renault,6.0,,0,2,2,1
+Alex Albon,ALB,2019,Italian GP,6.0,1.8491,85.033,83.364,Red Bull Racing,8.0,,0,2,2,1
+Liam Lawson,LAW,2019,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Italian GP,12.0,5.2041,85.676,84.165,Racing Point,9.0,,1,3,2,2
+Max Verstappen,VER,2020,Italian GP,17.0,79.4692,88.243,85.539,Red Bull Racing,5.0,,1,3,2,2
+Lewis Hamilton,HAM,2020,Italian GP,7.0,0.6352,84.4,82.746,Mercedes,1.0,,0,3,3,2
+Lando Norris,NOR,2020,Italian GP,4.0,54.6439,86.291,84.232,McLaren,6.0,,0,3,2,2
+Charles Leclerc,LEC,2020,Italian GP,18.0,0.1655,86.646,86.026,Ferrari,13.0,,1,2,2,1
+Oscar Piastri,PIA,2020,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Italian GP,14.0,28.9738,87.019,84.421,Williams,19.0,,0,2,1,1
+Carlos Sainz,SAI,2020,Italian GP,2.0,51.9465,86.074,83.882,McLaren,3.0,,0,3,2,2
+Yuki Tsunoda,TSU,2020,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Italian GP,1.0,68.2024,86.481,84.037,AlphaTauri,10.0,,0,3,3,2
+Esteban Ocon,OCO,2020,Italian GP,8.0,33.2079,86.403,84.49,Renault,12.0,,0,2,1,1
+Nico Hülkenberg,HUL,2020,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Italian GP,15.0,27.1686,86.846,84.926,Red Bull Racing,9.0,,0,2,2,1
+Liam Lawson,LAW,2020,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Italian GP,3.0,0.8197,85.197,83.897,Racing Point,8.0,,0,2,2,1
+Max Verstappen,VER,2021,Italian GP,18.0,0.273,86.611,85.173,Red Bull Racing,1.0,,1,2,2,1
+Lewis Hamilton,HAM,2021,Italian GP,17.0,0.164,86.728,85.87,Mercedes,4.0,,1,1,1,0
+Lando Norris,NOR,2021,Italian GP,2.0,0.3809,86.27,84.971,McLaren,3.0,,0,2,2,1
+Charles Leclerc,LEC,2021,Italian GP,4.0,0.4306,86.497,85.319,Ferrari,5.0,,0,2,2,1
+Oscar Piastri,PIA,2021,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Italian GP,9.0,0.6661,87.217,85.835,Williams,14.0,,0,2,2,1
+Carlos Sainz,SAI,2021,Italian GP,6.0,0.7686,86.806,85.559,Ferrari,6.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Italian GP,20.0,N/A,N/A,N/A,AlphaTauri,0.0,,1,0,0,-1
+Fernando Alonso,ALO,2021,Italian GP,8.0,0.7017,87.077,85.472,Alpine,10.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Italian GP,19.0,N/A,N/A,N/A,AlphaTauri,0.0,,1,1,1,0
+Esteban Ocon,OCO,2021,Italian GP,10.0,0.6847,87.207,85.566,Alpine,12.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Italian GP,7.0,0.5657,86.987,85.853,Aston Martin,9.0,,0,2,2,1
+Max Verstappen,VER,2022,Italian GP,1.0,0.2257,85.367,84.745,Red Bull Racing,7.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Italian GP,5.0,1.6533,86.686,84.434,Mercedes,19.0,,0,2,2,1
+Lando Norris,NOR,2022,Italian GP,7.0,1.116,86.74,84.718,McLaren,3.0,,0,2,2,1
+Charles Leclerc,LEC,2022,Italian GP,2.0,0.2994,85.391,84.336,Ferrari,1.0,,0,3,2,2
+Oscar Piastri,PIA,2022,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Italian GP,3.0,0.1459,86.077,85.288,Mercedes,2.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Italian GP,4.0,1.227,86.217,84.446,Ferrari,18.0,,0,2,2,1
+Yuki Tsunoda,TSU,2022,Italian GP,14.0,0.3118,87.473,86.857,AlphaTauri,20.0,,1,2,2,1
+Fernando Alonso,ALO,2022,Italian GP,19.0,0.1002,87.703,87.203,Alpine,6.0,,1,1,1,0
+Pierre Gasly,GAS,2022,Italian GP,8.0,0.2085,87.33,86.718,AlphaTauri,5.0,,0,2,2,1
+Esteban Ocon,OCO,2022,Italian GP,11.0,0.3359,87.377,86.593,Alpine,14.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2022,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Italian GP,18.0,0.1705,87.941,87.467,Aston Martin,12.0,,1,2,2,1
+Max Verstappen,VER,2023,Italian GP,1.0,0.4372,86.182,85.24,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2023,Italian GP,6.0,0.4008,86.814,85.582,Mercedes,8.0,,0,2,2,1
+Lando Norris,NOR,2023,Italian GP,8.0,0.2208,87.01,86.144,McLaren,9.0,,0,2,2,1
+Charles Leclerc,LEC,2023,Italian GP,4.0,0.3199,86.37,85.58,Ferrari,3.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Italian GP,12.0,0.4058,86.797,85.072,McLaren,7.0,,0,3,2,2
+George Russell,RUS,2023,Italian GP,5.0,0.1578,86.497,85.847,Mercedes,4.0,,0,2,2,1
+Carlos Sainz,SAI,2023,Italian GP,3.0,0.348,86.371,85.501,Ferrari,1.0,,0,2,2,1
+Yuki Tsunoda,TSU,2023,Italian GP,20.0,N/A,N/A,N/A,AlphaTauri,11.0,,1,0,0,-1
+Fernando Alonso,ALO,2023,Italian GP,9.0,0.1885,86.955,86.105,Aston Martin,10.0,,0,2,2,1
+Pierre Gasly,GAS,2023,Italian GP,15.0,0.3386,87.061,85.758,Alpine,17.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Italian GP,19.0,0.4087,87.767,86.963,Alpine,18.0,,1,2,2,1
+Nico Hülkenberg,HUL,2023,Italian GP,17.0,0.5264,87.319,85.894,Haas F1 Team,13.0,,1,3,2,2
+Alex Albon,ALB,2023,Italian GP,7.0,0.1609,86.991,86.389,Williams,6.0,,0,2,2,1
+Liam Lawson,LAW,2023,Italian GP,11.0,0.3441,86.957,85.842,AlphaTauri,12.0,,0,3,2,2
+Lance Stroll,STR,2023,Italian GP,16.0,0.8839,87.64,86.617,Aston Martin,20.0,,0,2,2,1
+Max Verstappen,VER,2024,Italian GP,6.0,1.231,84.124,81.745,Red Bull Racing,7.0,,0,3,2,2
+Lewis Hamilton,HAM,2024,Italian GP,5.0,1.3713,83.897,81.512,Mercedes,6.0,,0,3,2,2
+Lando Norris,NOR,2024,Italian GP,3.0,1.0522,83.579,81.432,McLaren,1.0,,0,3,2,2
+Charles Leclerc,LEC,2024,Italian GP,1.0,0.3883,83.949,83.226,Ferrari,4.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Italian GP,2.0,0.8863,83.542,81.943,McLaren,2.0,,0,3,2,2
+George Russell,RUS,2024,Italian GP,7.0,1.3418,83.955,82.036,Mercedes,3.0,,0,3,2,2
+Carlos Sainz,SAI,2024,Italian GP,4.0,0.5838,84.212,83.219,Ferrari,5.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Italian GP,20.0,0.7559,87.218,86.198,RB,16.0,,1,1,1,0
+Fernando Alonso,ALO,2024,Italian GP,11.0,1.0727,84.737,82.944,Aston Martin,11.0,,0,3,2,2
+Pierre Gasly,GAS,2024,Italian GP,15.0,0.7259,85.263,83.755,Alpine,14.0,,1,3,2,2
+Esteban Ocon,OCO,2024,Italian GP,14.0,0.669,85.765,84.343,Alpine,15.0,,1,2,2,1
+Nico Hülkenberg,HUL,2024,Italian GP,17.0,1.2072,85.058,83.275,Haas F1 Team,10.0,,1,3,2,2
+Alex Albon,ALB,2024,Italian GP,9.0,0.5484,85.113,83.918,Williams,9.0,,0,2,2,1
+Liam Lawson,LAW,2024,Italian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Italian GP,19.0,1.5258,85.259,82.232,Aston Martin,17.0,,1,4,3,3

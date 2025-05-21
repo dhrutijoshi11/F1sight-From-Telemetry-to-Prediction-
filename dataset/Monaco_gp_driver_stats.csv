@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Monaco GP,9.0,2.4665,78.572,74.26,Red Bull Racing,20.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Monaco GP,3.0,0.7632,78.588,76.27,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2018,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Monaco GP,18.0,0.641,79.165,77.71,Sauber,14.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Monaco GP,10.0,0.6366,79.221,77.491,Renault,8.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Monaco GP,20.0,0.8133,79.111,77.018,McLaren,7.0,,1,2,2,1
+Pierre Gasly,GAS,2018,Monaco GP,7.0,0.8747,78.595,77.099,Toro Rosso,10.0,,0,2,2,1
+Esteban Ocon,OCO,2018,Monaco GP,6.0,0.583,78.581,77.027,Force India,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2018,Monaco GP,8.0,1.2797,78.606,76.061,Renault,11.0,,0,2,2,1
+Alex Albon,ALB,2018,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Monaco GP,17.0,3.7297,79.004,74.944,Williams,17.0,,1,4,3,3
+Max Verstappen,VER,2019,Monaco GP,4.0,0.59,77.642,76.229,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Monaco GP,1.0,0.5787,77.633,76.167,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2019,Monaco GP,11.0,2.4216,78.689,76.413,McLaren,12.0,,0,2,2,1
+Charles Leclerc,LEC,2019,Monaco GP,20.0,55.5256,82.85,79.151,Ferrari,15.0,,1,2,2,1
+Oscar Piastri,PIA,2019,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Monaco GP,15.0,5.9001,79.39,77.038,Williams,19.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Monaco GP,6.0,0.8549,78.448,75.891,McLaren,9.0,,0,2,2,1
+Yuki Tsunoda,TSU,2019,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Monaco GP,5.0,2.391,77.515,74.279,Red Bull Racing,8.0,,0,3,2,2
+Esteban Ocon,OCO,2019,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Monaco GP,13.0,5.6868,79.082,76.276,Renault,11.0,,1,2,2,1
+Alex Albon,ALB,2019,Monaco GP,8.0,1.2256,78.464,75.607,Toro Rosso,10.0,,0,2,2,1
+Liam Lawson,LAW,2019,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Monaco GP,16.0,3.0142,79.309,76.379,Racing Point,17.0,,1,2,2,1
+Max Verstappen,VER,2020,Monaco GP,17.0,79.4692,88.243,85.539,Red Bull Racing,5.0,,1,3,2,2
+Lewis Hamilton,HAM,2020,Monaco GP,7.0,0.6352,84.4,82.746,Mercedes,1.0,,0,3,3,2
+Lando Norris,NOR,2020,Monaco GP,4.0,54.6439,86.291,84.232,McLaren,6.0,,0,3,2,2
+Charles Leclerc,LEC,2020,Monaco GP,18.0,0.1655,86.646,86.026,Ferrari,13.0,,1,2,2,1
+Oscar Piastri,PIA,2020,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Monaco GP,14.0,28.9738,87.019,84.421,Williams,19.0,,0,2,1,1
+Carlos Sainz,SAI,2020,Monaco GP,2.0,51.9465,86.074,83.882,McLaren,3.0,,0,3,2,2
+Yuki Tsunoda,TSU,2020,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Monaco GP,1.0,68.2024,86.481,84.037,AlphaTauri,10.0,,0,3,3,2
+Esteban Ocon,OCO,2020,Monaco GP,8.0,33.2079,86.403,84.49,Renault,12.0,,0,2,1,1
+Nico Hülkenberg,HUL,2020,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Monaco GP,15.0,27.1686,86.846,84.926,Red Bull Racing,9.0,,0,2,2,1
+Liam Lawson,LAW,2020,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Monaco GP,3.0,0.8197,85.197,83.897,Racing Point,8.0,,0,2,2,1
+Max Verstappen,VER,2021,Monaco GP,1.0,0.5474,75.758,74.649,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2021,Monaco GP,7.0,1.1428,76.387,72.909,Mercedes,7.0,,0,3,2,2
+Lando Norris,NOR,2021,Monaco GP,3.0,0.6245,75.943,74.67,McLaren,5.0,,0,2,2,1
+Charles Leclerc,LEC,2021,Monaco GP,20.0,N/A,N/A,N/A,Ferrari,1.0,,1,0,0,-1
+Oscar Piastri,PIA,2021,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Monaco GP,14.0,2.0381,77.432,75.539,Williams,15.0,,1,2,2,1
+Carlos Sainz,SAI,2021,Monaco GP,2.0,0.6279,75.829,74.621,Ferrari,4.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Monaco GP,16.0,2.2398,77.589,74.037,AlphaTauri,16.0,,1,2,2,1
+Fernando Alonso,ALO,2021,Monaco GP,13.0,1.7573,77.219,75.026,Alpine,17.0,,1,2,2,1
+Pierre Gasly,GAS,2021,Monaco GP,6.0,0.4851,76.367,75.412,AlphaTauri,6.0,,0,2,2,1
+Esteban Ocon,OCO,2021,Monaco GP,9.0,1.1993,77.23,75.316,Alpine,11.0,,1,2,2,1
+Nico Hülkenberg,HUL,2021,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Monaco GP,8.0,1.2653,76.739,74.674,Aston Martin,13.0,,1,2,2,1
+Max Verstappen,VER,2022,Monaco GP,3.0,102.5269,84.798,76.052,Red Bull Racing,4.0,,0,3,3,2
+Lewis Hamilton,HAM,2022,Monaco GP,8.0,91.7542,85.781,77.203,Mercedes,8.0,,0,3,3,2
+Lando Norris,NOR,2022,Monaco GP,6.0,109.8197,84.895,74.693,McLaren,5.0,,0,4,3,3
+Charles Leclerc,LEC,2022,Monaco GP,4.0,96.1057,84.704,76.249,Ferrari,1.0,,0,3,2,2
+Oscar Piastri,PIA,2022,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Monaco GP,5.0,100.3924,85.029,76.83,Mercedes,6.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Monaco GP,2.0,101.3503,85.385,76.421,Ferrari,2.0,,0,2,1,1
+Yuki Tsunoda,TSU,2022,Monaco GP,17.0,85.2546,86.806,75.334,AlphaTauri,11.0,,1,4,4,3
+Fernando Alonso,ALO,2022,Monaco GP,7.0,91.3344,86.25,75.882,Alpine,7.0,,0,2,2,1
+Pierre Gasly,GAS,2022,Monaco GP,11.0,78.2455,85.736,77.344,AlphaTauri,17.0,,0,2,1,1
+Esteban Ocon,OCO,2022,Monaco GP,12.0,97.1918,86.559,77.571,Alpine,10.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Monaco GP,18.0,116.0479,89.154,78.023,Williams,16.0,,1,3,2,2
+Liam Lawson,LAW,2022,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Monaco GP,14.0,71.216,85.757,77.672,Aston Martin,18.0,,0,2,1,1
+Max Verstappen,VER,2023,Monaco GP,1.0,72.2669,82.814,76.604,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2023,Monaco GP,4.0,78.0526,83.481,75.65,Mercedes,5.0,,0,3,3,2
+Lando Norris,NOR,2023,Monaco GP,9.0,57.2433,83.425,77.844,McLaren,10.0,,1,3,3,2
+Charles Leclerc,LEC,2023,Monaco GP,6.0,74.9745,83.527,75.773,Ferrari,6.0,,0,3,3,2
+Oscar Piastri,PIA,2023,Monaco GP,10.0,63.6735,83.752,77.513,McLaren,11.0,,1,2,2,1
+George Russell,RUS,2023,Monaco GP,5.0,72.3228,83.46,76.798,Mercedes,8.0,,0,2,2,1
+Carlos Sainz,SAI,2023,Monaco GP,8.0,76.2175,83.485,76.449,Ferrari,4.0,,0,3,3,2
+Yuki Tsunoda,TSU,2023,Monaco GP,15.0,121.1173,85.226,77.68,AlphaTauri,9.0,,1,2,2,1
+Fernando Alonso,ALO,2023,Monaco GP,2.0,64.1017,82.437,76.674,Aston Martin,2.0,,0,2,2,1
+Pierre Gasly,GAS,2023,Monaco GP,7.0,76.0616,83.312,75.831,Alpine,7.0,,0,3,3,2
+Esteban Ocon,OCO,2023,Monaco GP,3.0,79.2976,83.467,76.528,Alpine,3.0,,0,3,3,2
+Nico Hülkenberg,HUL,2023,Monaco GP,17.0,69.7027,84.349,76.991,Haas F1 Team,18.0,,1,3,3,2
+Alex Albon,ALB,2023,Monaco GP,14.0,81.6691,84.614,76.672,Williams,13.0,,1,3,3,2
+Liam Lawson,LAW,2023,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Monaco GP,20.0,6.485,79.704,77.769,Aston Martin,14.0,,1,2,2,1
+Max Verstappen,VER,2024,Monaco GP,6.0,5.5888,78.384,74.569,Red Bull Racing,6.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Monaco GP,7.0,6.3658,78.385,74.165,Mercedes,7.0,,0,2,2,1
+Lando Norris,NOR,2024,Monaco GP,4.0,2.8408,78.549,75.742,McLaren,4.0,,0,1,1,0
+Charles Leclerc,LEC,2024,Monaco GP,1.0,2.847,78.439,75.162,Ferrari,1.0,,0,1,1,0
+Oscar Piastri,PIA,2024,Monaco GP,2.0,2.4924,78.524,76.281,McLaren,2.0,,0,1,1,0
+George Russell,RUS,2024,Monaco GP,5.0,4.3844,78.59,75.228,Mercedes,5.0,,0,1,1,0
+Carlos Sainz,SAI,2024,Monaco GP,3.0,3.0549,78.523,74.726,Ferrari,3.0,,0,1,1,0
+Yuki Tsunoda,TSU,2024,Monaco GP,8.0,4.3025,79.975,74.72,RB,8.0,,1,1,1,0
+Fernando Alonso,ALO,2024,Monaco GP,11.0,2.9968,80.524,77.939,Aston Martin,14.0,,1,1,1,0
+Pierre Gasly,GAS,2024,Monaco GP,10.0,3.0875,80.246,75.625,Alpine,10.0,,1,1,1,0
+Esteban Ocon,OCO,2024,Monaco GP,17.0,N/A,N/A,N/A,Alpine,11.0,,1,0,0,-1
+Nico Hülkenberg,HUL,2024,Monaco GP,19.0,N/A,N/A,N/A,Haas F1 Team,19.0,,1,0,0,-1
+Alex Albon,ALB,2024,Monaco GP,9.0,2.975,80.167,77.06,Williams,9.0,,1,1,1,0
+Liam Lawson,LAW,2024,Monaco GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Monaco GP,14.0,3.7575,79.942,76.71,Aston Martin,13.0,,1,3,3,2

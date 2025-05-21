@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Qatar GP,1.0,0.3705,68.52,67.442,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Qatar GP,16.0,0.3501,68.66,67.241,Mercedes,2.0,,1,3,3,2
+Lando Norris,NOR,2018,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Qatar GP,9.0,0.6164,70.033,69.006,Sauber,18.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Qatar GP,12.0,0.595,70.024,68.766,Renault,9.0,,1,3,3,2
+Yuki Tsunoda,TSU,2018,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Qatar GP,8.0,1.0488,70.071,68.661,McLaren,13.0,,1,2,2,1
+Pierre Gasly,GAS,2018,Qatar GP,11.0,0.7197,70.292,69.295,Toro Rosso,12.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Qatar GP,6.0,0.4458,69.963,68.85,Force India,11.0,,1,2,2,1
+Nico Hülkenberg,HUL,2018,Qatar GP,20.0,1.2363,71.2,70.38,Renault,10.0,,1,1,1,0
+Alex Albon,ALB,2018,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Qatar GP,14.0,0.6364,70.581,69.203,Williams,14.0,,1,3,3,2
+Max Verstappen,VER,2019,Qatar GP,1.0,0.7801,68.926,67.475,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Qatar GP,5.0,0.3938,69.149,68.05,Mercedes,4.0,,0,2,2,1
+Lando Norris,NOR,2019,Qatar GP,6.0,0.4884,69.92,68.699,McLaren,5.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Qatar GP,2.0,0.2321,69.018,67.994,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Qatar GP,18.0,0.9273,71.086,69.926,Williams,0.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Qatar GP,8.0,1.1828,70.136,68.117,McLaren,19.0,,1,2,2,1
+Yuki Tsunoda,TSU,2019,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Qatar GP,7.0,0.547,70.007,68.79,Red Bull Racing,8.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Qatar GP,13.0,0.5267,70.287,69.248,Renault,15.0,,1,2,2,1
+Alex Albon,ALB,2019,Qatar GP,15.0,1.4097,70.362,68.946,Toro Rosso,18.0,,1,2,2,1
+Liam Lawson,LAW,2019,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Qatar GP,14.0,0.7005,70.381,69.288,Racing Point,14.0,,1,2,2,1
+Max Verstappen,VER,2020,Qatar GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1,1,1,0
+Lewis Hamilton,HAM,2020,Qatar GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2020,Qatar GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0,3,3,2
+Charles Leclerc,LEC,2020,Qatar GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0,3,3,2
+Oscar Piastri,PIA,2020,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Qatar GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1,2,2,1
+Carlos Sainz,SAI,2020,Qatar GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0,3,3,2
+Yuki Tsunoda,TSU,2020,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Qatar GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0,3,2,2
+Esteban Ocon,OCO,2020,Qatar GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0,3,2,2
+Nico Hülkenberg,HUL,2020,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Qatar GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1,3,2,2
+Liam Lawson,LAW,2020,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Qatar GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1,1,1,0
+Max Verstappen,VER,2021,Qatar GP,2.0,1.775,87.263,83.196,Red Bull Racing,7.0,,0,4,3,3
+Lewis Hamilton,HAM,2021,Qatar GP,1.0,1.1718,87.249,85.084,Mercedes,1.0,,0,3,2,2
+Lando Norris,NOR,2021,Qatar GP,9.0,2.6202,88.935,85.746,McLaren,4.0,,1,3,3,2
+Charles Leclerc,LEC,2021,Qatar GP,8.0,2.9192,89.028,86.555,Ferrari,13.0,,0,2,2,1
+Oscar Piastri,PIA,2021,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Qatar GP,17.0,2.4408,90.031,85.768,Williams,15.0,,1,3,2,2
+Carlos Sainz,SAI,2021,Qatar GP,7.0,2.3392,89.155,86.57,Ferrari,5.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Qatar GP,13.0,1.9087,89.301,87.043,AlphaTauri,8.0,,1,3,3,2
+Fernando Alonso,ALO,2021,Qatar GP,3.0,2.0574,88.794,86.682,Alpine,3.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Qatar GP,11.0,1.8497,88.904,87.019,AlphaTauri,2.0,,1,3,2,2
+Esteban Ocon,OCO,2021,Qatar GP,5.0,1.8974,89.162,87.061,Alpine,9.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Qatar GP,6.0,2.0341,89.113,87.356,Aston Martin,12.0,,0,2,2,1
+Max Verstappen,VER,2022,Qatar GP,2.0,0.8052,69.93,67.275,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2022,Qatar GP,3.0,0.7313,70.565,69.0,Mercedes,8.0,,0,2,1,1
+Lando Norris,NOR,2022,Qatar GP,7.0,0.7121,71.029,69.304,McLaren,10.0,,1,2,2,1
+Charles Leclerc,LEC,2022,Qatar GP,1.0,0.8367,69.889,67.583,Ferrari,2.0,,0,3,2,2
+Oscar Piastri,PIA,2022,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Qatar GP,4.0,0.5954,70.678,69.075,Mercedes,4.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Qatar GP,18.0,0.409,70.329,68.649,Ferrari,3.0,,1,2,2,1
+Yuki Tsunoda,TSU,2022,Qatar GP,16.0,0.8044,71.577,70.023,AlphaTauri,16.0,,1,2,1,1
+Fernando Alonso,ALO,2022,Qatar GP,10.0,1.4553,71.168,68.558,Alpine,19.0,,1,3,2,2
+Pierre Gasly,GAS,2022,Qatar GP,15.0,0.5035,71.395,70.104,AlphaTauri,14.0,,1,2,2,1
+Esteban Ocon,OCO,2022,Qatar GP,5.0,0.4376,71.05,69.559,Alpine,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Qatar GP,12.0,0.5858,71.41,69.669,Williams,15.0,,1,3,2,2
+Liam Lawson,LAW,2022,Qatar GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Qatar GP,13.0,0.7704,71.54,70.048,Aston Martin,12.0,,1,2,1,1
+Max Verstappen,VER,2023,Qatar GP,1.0,2.3104,87.238,84.319,Red Bull Racing,1.0,,0,4,2,3
+Lewis Hamilton,HAM,2023,Qatar GP,19.0,N/A,N/A,N/A,Mercedes,3.0,,1,0,0,-1
+Lando Norris,NOR,2023,Qatar GP,3.0,3.9848,87.377,84.842,McLaren,10.0,,0,4,2,3
+Charles Leclerc,LEC,2023,Qatar GP,5.0,2.6529,87.84,84.992,Ferrari,5.0,,0,4,2,3
+Oscar Piastri,PIA,2023,Qatar GP,2.0,2.7906,87.13,84.921,McLaren,6.0,,0,4,2,3
+George Russell,RUS,2023,Qatar GP,4.0,3.6117,87.789,85.77,Mercedes,2.0,,0,4,3,3
+Carlos Sainz,SAI,2023,Qatar GP,20.0,N/A,N/A,N/A,Ferrari,12.0,,1,N/A,N/A,N/A
+Yuki Tsunoda,TSU,2023,Qatar GP,15.0,1.9203,89.045,87.174,AlphaTauri,11.0,,1,4,2,3
+Fernando Alonso,ALO,2023,Qatar GP,6.0,1.8075,87.84,86.045,Aston Martin,4.0,,0,4,2,3
+Pierre Gasly,GAS,2023,Qatar GP,12.0,1.9033,88.336,86.31,Alpine,7.0,,0,4,2,3
+Esteban Ocon,OCO,2023,Qatar GP,7.0,1.5884,88.2,86.45,Alpine,8.0,,0,4,2,3
+Nico Hülkenberg,HUL,2023,Qatar GP,16.0,2.055,88.806,86.489,Haas F1 Team,14.0,,1,4,2,3
+Alex Albon,ALB,2023,Qatar GP,13.0,2.4553,88.519,86.666,Williams,13.0,,0,4,2,3
+Liam Lawson,LAW,2023,Qatar GP,17.0,2.8489,89.732,87.113,AlphaTauri,17.0,,1,3,2,2
+Lance Stroll,STR,2023,Qatar GP,11.0,3.5798,88.899,86.352,Aston Martin,16.0,,0,3,2,2
+Max Verstappen,VER,2024,Qatar GP,1.0,1.1893,84.673,82.905,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Qatar GP,12.0,1.6454,86.073,83.865,Mercedes,6.0,,0,3,2,2
+Lando Norris,NOR,2024,Qatar GP,10.0,1.3335,84.9,82.384,McLaren,3.0,,0,3,2,2
+Charles Leclerc,LEC,2024,Qatar GP,2.0,1.7048,85.06,83.242,Ferrari,5.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Qatar GP,3.0,1.3906,85.01,83.218,McLaren,4.0,,0,2,2,1
+George Russell,RUS,2024,Qatar GP,4.0,1.4428,85.288,83.355,Mercedes,1.0,,0,3,2,2
+Carlos Sainz,SAI,2024,Qatar GP,6.0,1.5057,85.385,83.465,Ferrari,7.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Qatar GP,13.0,0.7814,87.407,86.144,RB,14.0,,0,2,2,1
+Fernando Alonso,ALO,2024,Qatar GP,7.0,2.0725,86.055,83.667,Aston Martin,8.0,,0,2,1,1
+Pierre Gasly,GAS,2024,Qatar GP,5.0,2.6301,85.96,83.705,Alpine,11.0,,0,2,2,1
+Esteban Ocon,OCO,2024,Qatar GP,20.0,N/A,N/A,N/A,Alpine,20.0,,1,0,0,-1
+Nico Hülkenberg,HUL,2024,Qatar GP,16.0,1.4925,87.579,85.767,Haas F1 Team,18.0,,1,2,2,1
+Alex Albon,ALB,2024,Qatar GP,15.0,1.3478,87.389,85.559,Williams,16.0,,1,2,2,1
+Liam Lawson,LAW,2024,Qatar GP,14.0,2.9653,87.416,86.076,RB,17.0,,0,2,2,1
+Lance Stroll,STR,2024,Qatar GP,18.0,1.6744,92.229,90.935,Aston Martin,15.0,,1,1,1,0

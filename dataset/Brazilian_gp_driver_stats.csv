@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Brazilian GP,2.0,1.9117,73.261,71.578,Red Bull Racing,5.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Brazilian GP,1.0,0.7875,73.305,71.795,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2018,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Brazilian GP,7.0,0.8417,73.854,72.082,Sauber,7.0,,0,2,2,1
+Oscar Piastri,PIA,2018,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Brazilian GP,12.0,1.2162,74.813,72.169,Renault,15.0,,1,3,3,2
+Yuki Tsunoda,TSU,2018,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Brazilian GP,17.0,1.1756,75.084,72.643,McLaren,17.0,,1,3,3,2
+Pierre Gasly,GAS,2018,Brazilian GP,13.0,0.6147,75.193,73.822,Toro Rosso,9.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Brazilian GP,15.0,5.9869,74.734,72.352,Racing Point,18.0,,1,3,2,2
+Nico Hülkenberg,HUL,2018,Brazilian GP,19.0,0.5727,75.367,74.029,Renault,13.0,,1,1,1,0
+Alex Albon,ALB,2018,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Brazilian GP,18.0,1.6108,75.487,71.751,Williams,19.0,,1,3,3,2
+Max Verstappen,VER,2019,Brazilian GP,1.0,0.804,72.674,70.862,Red Bull Racing,1.0,,0,4,2,3
+Lewis Hamilton,HAM,2019,Brazilian GP,7.0,0.8145,72.865,71.082,Mercedes,3.0,,0,4,2,3
+Lando Norris,NOR,2019,Brazilian GP,8.0,0.7887,74.736,72.328,McLaren,10.0,,0,3,3,2
+Charles Leclerc,LEC,2019,Brazilian GP,18.0,0.9519,73.666,71.423,Ferrari,14.0,,1,3,3,2
+Oscar Piastri,PIA,2019,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Brazilian GP,12.0,1.0031,75.918,74.124,Williams,18.0,,0,4,2,3
+Carlos Sainz,SAI,2019,Brazilian GP,3.0,0.7535,74.657,73.158,McLaren,20.0,,0,2,2,1
+Yuki Tsunoda,TSU,2019,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Brazilian GP,2.0,0.6623,74.186,72.425,Toro Rosso,6.0,,0,3,2,2
+Esteban Ocon,OCO,2019,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Brazilian GP,15.0,0.859,74.87,72.934,Renault,13.0,,0,4,3,3
+Alex Albon,ALB,2019,Brazilian GP,14.0,3.0184,73.585,71.087,Red Bull Racing,5.0,,0,3,2,2
+Liam Lawson,LAW,2019,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Brazilian GP,19.0,0.7687,74.848,72.603,Racing Point,17.0,,1,3,2,2
+Max Verstappen,VER,2020,Brazilian GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2020,Brazilian GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2020,Brazilian GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0,2,2,1
+Charles Leclerc,LEC,2020,Brazilian GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0,3,3,2
+Oscar Piastri,PIA,2020,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Brazilian GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1,1,1,0
+Carlos Sainz,SAI,2020,Brazilian GP,20.0,N/A,N/A,N/A,McLaren,7.0,,1,0,0,-1
+Yuki Tsunoda,TSU,2020,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Brazilian GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0,2,2,1
+Esteban Ocon,OCO,2020,Brazilian GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2020,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Brazilian GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0,2,2,1
+Liam Lawson,LAW,2020,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Brazilian GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0,2,2,1
+Max Verstappen,VER,2021,Brazilian GP,2.0,0.6152,73.771,72.486,Red Bull Racing,2.0,,0,4,2,3
+Lewis Hamilton,HAM,2021,Brazilian GP,1.0,0.8686,73.577,71.982,Mercedes,10.0,,0,4,2,3
+Lando Norris,NOR,2021,Brazilian GP,10.0,1.4031,75.48,73.761,McLaren,5.0,,1,3,1,2
+Charles Leclerc,LEC,2021,Brazilian GP,5.0,1.1461,74.448,72.822,Ferrari,6.0,,0,4,2,3
+Oscar Piastri,PIA,2021,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Brazilian GP,13.0,1.9238,76.242,74.355,Williams,17.0,,1,3,2,2
+Carlos Sainz,SAI,2021,Brazilian GP,6.0,1.2989,74.468,72.71,Ferrari,3.0,,0,4,2,3
+Yuki Tsunoda,TSU,2021,Brazilian GP,15.0,1.4844,75.936,74.204,AlphaTauri,15.0,,1,3,2,2
+Fernando Alonso,ALO,2021,Brazilian GP,9.0,2.2154,75.55,73.922,Alpine,12.0,,1,3,2,2
+Pierre Gasly,GAS,2021,Brazilian GP,7.0,0.811,74.936,73.227,AlphaTauri,7.0,,1,4,2,3
+Esteban Ocon,OCO,2021,Brazilian GP,8.0,0.75,75.579,74.43,Alpine,8.0,,1,3,2,2
+Nico Hülkenberg,HUL,2021,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Brazilian GP,20.0,0.8145,76.42,75.344,Aston Martin,14.0,,1,3,2,2
+Max Verstappen,VER,2022,Brazilian GP,6.0,0.8381,75.992,74.195,Red Bull Racing,3.0,,0,3,2,2
+Lewis Hamilton,HAM,2022,Brazilian GP,2.0,0.9981,75.719,73.942,Mercedes,2.0,,0,3,2,2
+Lando Norris,NOR,2022,Brazilian GP,18.0,0.4326,77.286,75.855,McLaren,6.0,,1,3,2,2
+Charles Leclerc,LEC,2022,Brazilian GP,4.0,0.7338,75.913,74.253,Ferrari,5.0,,0,3,2,2
+Oscar Piastri,PIA,2022,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Brazilian GP,1.0,0.7881,75.677,73.785,Mercedes,1.0,,0,3,2,2
+Carlos Sainz,SAI,2022,Brazilian GP,3.0,0.8534,75.754,73.953,Ferrari,7.0,,0,4,2,3
+Yuki Tsunoda,TSU,2022,Brazilian GP,17.0,1.7513,77.468,75.508,AlphaTauri,0.0,,1,4,2,3
+Fernando Alonso,ALO,2022,Brazilian GP,5.0,1.3908,76.317,74.164,Alpine,17.0,,0,4,2,3
+Pierre Gasly,GAS,2022,Brazilian GP,14.0,0.6668,77.011,75.327,AlphaTauri,10.0,,0,4,2,3
+Esteban Ocon,OCO,2022,Brazilian GP,8.0,0.9281,76.772,75.093,Alpine,16.0,,0,3,2,2
+Nico Hülkenberg,HUL,2022,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Brazilian GP,15.0,0.9704,77.594,75.613,Williams,19.0,,0,3,1,2
+Liam Lawson,LAW,2022,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Brazilian GP,10.0,1.4362,77.096,74.831,Aston Martin,15.0,,0,3,2,2
+Max Verstappen,VER,2023,Brazilian GP,1.0,51.2702,76.2,73.422,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,Brazilian GP,8.0,37.9418,76.936,74.739,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2023,Brazilian GP,2.0,48.3037,76.251,72.486,McLaren,6.0,,0,3,2,2
+Charles Leclerc,LEC,2023,Brazilian GP,20.0,N/A,N/A,N/A,Ferrari,2.0,,1,0,0,-1
+Oscar Piastri,PIA,2023,Brazilian GP,14.0,1.0801,76.273,74.31,McLaren,10.0,,1,3,2,2
+George Russell,RUS,2023,Brazilian GP,15.0,30.9765,77.395,74.934,Mercedes,8.0,,1,3,2,2
+Carlos Sainz,SAI,2023,Brazilian GP,6.0,21.0703,76.562,74.406,Ferrari,7.0,,0,3,2,2
+Yuki Tsunoda,TSU,2023,Brazilian GP,9.0,1.7465,76.275,74.231,AlphaTauri,16.0,,0,3,2,2
+Fernando Alonso,ALO,2023,Brazilian GP,3.0,34.9316,76.499,74.442,Aston Martin,4.0,,0,3,2,2
+Pierre Gasly,GAS,2023,Brazilian GP,7.0,1.3556,76.115,74.521,Alpine,15.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Brazilian GP,10.0,1.3578,76.275,74.206,Alpine,14.0,,1,4,2,3
+Nico Hülkenberg,HUL,2023,Brazilian GP,12.0,1.4252,76.813,75.036,Haas F1 Team,11.0,,1,3,1,2
+Alex Albon,ALB,2023,Brazilian GP,19.0,N/A,N/A,N/A,Williams,13.0,,1,0,0,-1
+Liam Lawson,LAW,2023,Brazilian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Brazilian GP,5.0,35.4722,76.582,74.007,Aston Martin,3.0,,0,3,2,2
+Max Verstappen,VER,2024,Brazilian GP,1.0,11.577,84.018,80.472,Red Bull Racing,17.0,,0,2,1,1
+Lewis Hamilton,HAM,2024,Brazilian GP,10.0,14.8441,85.431,82.041,Mercedes,14.0,,0,3,1,2
+Lando Norris,NOR,2024,Brazilian GP,6.0,2.3598,83.954,81.517,McLaren,1.0,,0,2,1,1
+Charles Leclerc,LEC,2024,Brazilian GP,5.0,7.1621,84.377,81.631,Ferrari,6.0,,0,3,1,2
+Oscar Piastri,PIA,2024,Brazilian GP,8.0,11.58,84.924,81.532,McLaren,8.0,,0,3,1,2
+George Russell,RUS,2024,Brazilian GP,4.0,4.8795,84.127,81.645,Mercedes,2.0,,0,2,1,1
+Carlos Sainz,SAI,2024,Brazilian GP,16.0,16.7924,87.059,84.201,Ferrari,20.0,,1,3,1,2
+Yuki Tsunoda,TSU,2024,Brazilian GP,7.0,7.7242,84.762,81.828,RB,3.0,,0,2,1,1
+Fernando Alonso,ALO,2024,Brazilian GP,14.0,14.2952,85.386,82.293,Aston Martin,9.0,,0,3,1,2
+Pierre Gasly,GAS,2024,Brazilian GP,3.0,9.7264,84.583,81.645,Alpine,13.0,,0,2,1,1
+Esteban Ocon,OCO,2024,Brazilian GP,2.0,7.3027,84.313,81.771,Alpine,4.0,,0,2,1,1
+Nico Hülkenberg,HUL,2024,Brazilian GP,20.0,1.1037,85.136,83.764,Haas F1 Team,18.0,,1,1,1,0
+Alex Albon,ALB,2024,Brazilian GP,18.0,N/A,N/A,N/A,Williams,7.0,,1,N/A,N/A,N/A
+Liam Lawson,LAW,2024,Brazilian GP,9.0,7.5283,85.005,82.123,RB,5.0,,0,2,1,1
+Lance Stroll,STR,2024,Brazilian GP,19.0,N/A,N/A,N/A,Aston Martin,10.0,,1,0,0,-1

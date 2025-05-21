@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Miami GP,5.0,0.4789,84.57,83.609,Red Bull Racing,5.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Miami GP,1.0,0.4697,84.362,82.497,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2018,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Miami GP,11.0,1.2997,86.111,84.504,Sauber,15.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Miami GP,8.0,0.6726,85.821,84.056,Renault,7.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Miami GP,18.0,0.4912,87.749,87.009,McLaren,13.0,,1,1,1,0
+Pierre Gasly,GAS,2018,Miami GP,14.0,1.0087,86.417,84.767,Toro Rosso,9.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Miami GP,6.0,0.6665,85.436,84.179,Racing Point,8.0,,0,2,2,1
+Nico Hülkenberg,HUL,2018,Miami GP,13.0,0.9726,86.326,84.059,Renault,20.0,,1,2,2,1
+Alex Albon,ALB,2018,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Miami GP,9.0,0.7225,85.973,84.58,Williams,10.0,,1,2,2,1
+Max Verstappen,VER,2019,Miami GP,8.0,0.8715,84.74,83.143,Red Bull Racing,19.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Miami GP,3.0,0.575,84.397,81.779,Mercedes,2.0,,0,3,2,2
+Lando Norris,NOR,2019,Miami GP,10.0,1.8431,85.674,84.044,McLaren,16.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Miami GP,1.0,0.4971,84.168,83.009,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Miami GP,14.0,1.7863,86.518,84.842,Williams,14.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Miami GP,20.0,0.1787,86.131,85.637,McLaren,7.0,,1,1,1,0
+Yuki Tsunoda,TSU,2019,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Miami GP,11.0,2.7625,85.878,83.885,Toro Rosso,17.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Miami GP,5.0,0.9483,85.215,83.641,Renault,6.0,,0,2,2,1
+Alex Albon,ALB,2019,Miami GP,6.0,1.8491,85.033,83.364,Red Bull Racing,8.0,,0,2,2,1
+Liam Lawson,LAW,2019,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Miami GP,12.0,5.2041,85.676,84.165,Racing Point,9.0,,1,3,2,2
+Max Verstappen,VER,2020,Miami GP,17.0,79.4692,88.243,85.539,Red Bull Racing,5.0,,1,3,2,2
+Lewis Hamilton,HAM,2020,Miami GP,7.0,0.6352,84.4,82.746,Mercedes,1.0,,0,3,3,2
+Lando Norris,NOR,2020,Miami GP,4.0,54.6439,86.291,84.232,McLaren,6.0,,0,3,2,2
+Charles Leclerc,LEC,2020,Miami GP,18.0,0.1655,86.646,86.026,Ferrari,13.0,,1,2,2,1
+Oscar Piastri,PIA,2020,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Miami GP,14.0,28.9738,87.019,84.421,Williams,19.0,,0,2,1,1
+Carlos Sainz,SAI,2020,Miami GP,2.0,51.9465,86.074,83.882,McLaren,3.0,,0,3,2,2
+Yuki Tsunoda,TSU,2020,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Miami GP,1.0,68.2024,86.481,84.037,AlphaTauri,10.0,,0,3,3,2
+Esteban Ocon,OCO,2020,Miami GP,8.0,33.2079,86.403,84.49,Renault,12.0,,0,2,1,1
+Nico Hülkenberg,HUL,2020,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Miami GP,15.0,27.1686,86.846,84.926,Red Bull Racing,9.0,,0,2,2,1
+Liam Lawson,LAW,2020,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Miami GP,3.0,0.8197,85.197,83.897,Racing Point,8.0,,0,2,2,1
+Max Verstappen,VER,2021,Miami GP,18.0,0.273,86.611,85.173,Red Bull Racing,1.0,,1,2,2,1
+Lewis Hamilton,HAM,2021,Miami GP,17.0,0.164,86.728,85.87,Mercedes,4.0,,1,1,1,0
+Lando Norris,NOR,2021,Miami GP,2.0,0.3809,86.27,84.971,McLaren,3.0,,0,2,2,1
+Charles Leclerc,LEC,2021,Miami GP,4.0,0.4306,86.497,85.319,Ferrari,5.0,,0,2,2,1
+Oscar Piastri,PIA,2021,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Miami GP,9.0,0.6661,87.217,85.835,Williams,14.0,,0,2,2,1
+Carlos Sainz,SAI,2021,Miami GP,6.0,0.7686,86.806,85.559,Ferrari,6.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Miami GP,20.0,N/A,N/A,N/A,AlphaTauri,0.0,,1,0,0,-1
+Fernando Alonso,ALO,2021,Miami GP,8.0,0.7017,87.077,85.472,Alpine,10.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Miami GP,19.0,N/A,N/A,N/A,AlphaTauri,0.0,,1,1,1,0
+Esteban Ocon,OCO,2021,Miami GP,10.0,0.6847,87.207,85.566,Alpine,12.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Miami GP,7.0,0.5657,86.987,85.853,Aston Martin,9.0,,0,2,2,1
+Max Verstappen,VER,2022,Miami GP,1.0,0.9415,93.189,91.361,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Miami GP,6.0,1.1061,94.451,92.941,Mercedes,6.0,,0,2,2,1
+Lando Norris,NOR,2022,Miami GP,19.0,0.7395,95.328,93.411,McLaren,8.0,,1,2,2,1
+Charles Leclerc,LEC,2022,Miami GP,2.0,1.0571,93.358,91.488,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Miami GP,5.0,1.8719,94.652,92.195,Mercedes,12.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Miami GP,3.0,0.8578,93.726,91.79,Ferrari,2.0,,0,2,2,1
+Yuki Tsunoda,TSU,2022,Miami GP,12.0,1.7345,95.394,93.035,AlphaTauri,9.0,,0,3,3,2
+Fernando Alonso,ALO,2022,Miami GP,11.0,0.6076,94.969,93.331,Alpine,11.0,,0,2,2,1
+Pierre Gasly,GAS,2022,Miami GP,18.0,0.637,95.388,94.487,AlphaTauri,7.0,,1,2,2,1
+Esteban Ocon,OCO,2022,Miami GP,8.0,1.16,95.255,93.163,Alpine,20.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Miami GP,9.0,1.2928,95.221,93.447,Williams,18.0,,0,2,2,1
+Liam Lawson,LAW,2022,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Miami GP,10.0,1.5433,95.422,93.312,Aston Martin,0.0,,0,2,2,1
+Max Verstappen,VER,2023,Miami GP,1.0,0.8358,91.751,89.708,Red Bull Racing,9.0,,0,2,2,1
+Lewis Hamilton,HAM,2023,Miami GP,6.0,1.0973,92.634,90.669,Mercedes,13.0,,0,2,2,1
+Lando Norris,NOR,2023,Miami GP,17.0,0.2375,93.128,92.401,McLaren,16.0,,0,2,2,1
+Charles Leclerc,LEC,2023,Miami GP,7.0,0.7157,92.684,91.434,Ferrari,7.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Miami GP,19.0,0.7551,93.717,92.006,McLaren,19.0,,1,2,2,1
+George Russell,RUS,2023,Miami GP,4.0,0.635,92.343,91.015,Mercedes,6.0,,0,2,2,1
+Carlos Sainz,SAI,2023,Miami GP,5.0,0.4542,92.441,91.362,Ferrari,3.0,,0,2,2,1
+Yuki Tsunoda,TSU,2023,Miami GP,11.0,0.8595,92.839,91.038,AlphaTauri,17.0,,0,2,2,1
+Fernando Alonso,ALO,2023,Miami GP,3.0,0.5839,92.277,90.519,Aston Martin,2.0,,0,2,2,1
+Pierre Gasly,GAS,2023,Miami GP,8.0,0.4938,92.754,91.971,Alpine,5.0,,0,2,2,1
+Esteban Ocon,OCO,2023,Miami GP,9.0,0.7719,92.785,91.143,Alpine,8.0,,0,2,2,1
+Nico Hülkenberg,HUL,2023,Miami GP,15.0,0.7501,92.999,90.901,Haas F1 Team,12.0,,0,2,2,1
+Alex Albon,ALB,2023,Miami GP,14.0,0.6711,93.003,91.852,Williams,11.0,,0,2,2,1
+Liam Lawson,LAW,2023,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Miami GP,12.0,1.131,92.808,90.862,Aston Martin,18.0,,0,2,2,1
+Max Verstappen,VER,2024,Miami GP,2.0,0.5704,92.183,91.261,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Miami GP,6.0,1.3406,92.744,91.233,Mercedes,8.0,,0,2,2,1
+Lando Norris,NOR,2024,Miami GP,1.0,1.0447,92.13,90.98,McLaren,5.0,,0,2,2,1
+Charles Leclerc,LEC,2024,Miami GP,3.0,0.6412,92.245,91.084,Ferrari,2.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Miami GP,13.0,0.6096,92.472,90.634,McLaren,6.0,,0,3,2,2
+George Russell,RUS,2024,Miami GP,8.0,0.781,93.096,91.921,Mercedes,7.0,,0,2,2,1
+Carlos Sainz,SAI,2024,Miami GP,5.0,0.7294,92.328,90.928,Ferrari,3.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Miami GP,7.0,1.0392,93.013,91.682,RB,10.0,,0,2,2,1
+Fernando Alonso,ALO,2024,Miami GP,9.0,1.05,93.312,91.727,Aston Martin,15.0,,0,2,2,1
+Pierre Gasly,GAS,2024,Miami GP,12.0,0.5359,93.304,92.055,Alpine,12.0,,0,2,2,1
+Esteban Ocon,OCO,2024,Miami GP,10.0,0.8312,93.339,92.037,Alpine,13.0,,0,2,2,1
+Nico Hülkenberg,HUL,2024,Miami GP,11.0,0.7424,93.177,91.941,Haas F1 Team,9.0,,0,3,2,2
+Alex Albon,ALB,2024,Miami GP,18.0,0.7356,93.419,90.849,Williams,14.0,,0,3,3,2
+Liam Lawson,LAW,2024,Miami GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Miami GP,17.0,0.7381,93.25,91.588,Aston Martin,11.0,,0,3,2,2

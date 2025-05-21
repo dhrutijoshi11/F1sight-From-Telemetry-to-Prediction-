@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Canadian GP,3.0,0.683,75.203,73.864,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Canadian GP,5.0,0.6326,75.43,74.183,Mercedes,4.0,,0,2,2,1
+Lando Norris,NOR,2018,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Canadian GP,10.0,0.8187,76.849,75.351,Sauber,13.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Canadian GP,8.0,0.5133,76.695,75.666,Renault,9.0,,1,2,2,1
+Yuki Tsunoda,TSU,2018,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Canadian GP,18.0,0.7353,77.174,76.18,McLaren,14.0,,1,2,2,1
+Pierre Gasly,GAS,2018,Canadian GP,11.0,0.7771,76.913,75.699,Toro Rosso,16.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Canadian GP,9.0,0.538,76.707,75.498,Force India,8.0,,1,2,2,1
+Nico Hülkenberg,HUL,2018,Canadian GP,7.0,0.5007,76.64,75.488,Renault,7.0,,1,2,2,1
+Alex Albon,ALB,2018,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Canadian GP,20.0,N/A,N/A,N/A,Williams,17.0,,1,0,0,-1
+Max Verstappen,VER,2019,Canadian GP,5.0,0.7033,76.787,74.767,Red Bull Racing,9.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Canadian GP,1.0,0.6965,76.016,74.813,Mercedes,2.0,,0,2,2,1
+Lando Norris,NOR,2019,Canadian GP,20.0,7.9816,79.741,78.023,McLaren,8.0,,1,1,1,0
+Charles Leclerc,LEC,2019,Canadian GP,3.0,0.9096,76.045,74.356,Ferrari,3.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Canadian GP,16.0,1.6584,78.899,77.241,Williams,18.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Canadian GP,11.0,0.5635,77.559,76.471,McLaren,11.0,,1,2,2,1
+Yuki Tsunoda,TSU,2019,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Canadian GP,8.0,0.5387,77.296,76.157,Red Bull Racing,5.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Canadian GP,7.0,0.5448,77.136,75.995,Renault,7.0,,1,2,2,1
+Alex Albon,ALB,2019,Canadian GP,19.0,0.9036,78.55,77.151,Toro Rosso,13.0,,1,1,1,0
+Liam Lawson,LAW,2019,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Canadian GP,9.0,0.8281,77.506,76.043,Racing Point,17.0,,1,2,2,1
+Max Verstappen,VER,2020,Canadian GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0,3,3,2
+Lewis Hamilton,HAM,2020,Canadian GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0,4,3,3
+Lando Norris,NOR,2020,Canadian GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1,3,3,2
+Charles Leclerc,LEC,2020,Canadian GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1,2,2,1
+Oscar Piastri,PIA,2020,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Canadian GP,18.0,11.488,83.108,79.984,Williams,12.0,,1,4,3,3
+Carlos Sainz,SAI,2020,Canadian GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1,3,3,2
+Yuki Tsunoda,TSU,2020,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Canadian GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1,2,2,1
+Esteban Ocon,OCO,2020,Canadian GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1,3,3,2
+Nico Hülkenberg,HUL,2020,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Canadian GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0,3,3,2
+Liam Lawson,LAW,2020,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Canadian GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0,4,3,3
+Max Verstappen,VER,2021,Canadian GP,9.0,2.1754,83.503,80.945,Red Bull Racing,3.0,,0,3,2,2
+Lewis Hamilton,HAM,2021,Canadian GP,2.0,3.3417,82.159,78.715,Mercedes,1.0,,0,3,2,2
+Lando Norris,NOR,2021,Canadian GP,15.0,N/A,N/A,N/A,McLaren,6.0,,1,0,0,-1
+Charles Leclerc,LEC,2021,Canadian GP,18.0,N/A,N/A,N/A,Ferrari,7.0,,1,0,0,-1
+Oscar Piastri,PIA,2021,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Canadian GP,8.0,1.188,83.79,82.112,Williams,17.0,,0,2,2,1
+Carlos Sainz,SAI,2021,Canadian GP,3.0,1.7361,82.865,81.423,Ferrari,15.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Canadian GP,6.0,2.278,83.805,82.45,AlphaTauri,16.0,,0,2,2,1
+Fernando Alonso,ALO,2021,Canadian GP,4.0,2.0011,82.865,80.359,Alpine,9.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Canadian GP,5.0,2.1877,83.196,78.394,AlphaTauri,5.0,,0,3,3,2
+Esteban Ocon,OCO,2021,Canadian GP,1.0,0.9516,82.72,81.421,Alpine,8.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Canadian GP,19.0,N/A,N/A,N/A,Aston Martin,12.0,,1,0,0,-1
+Max Verstappen,VER,2022,Canadian GP,1.0,0.655,77.262,75.839,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2022,Canadian GP,3.0,0.76,77.645,76.167,Mercedes,4.0,,0,3,2,2
+Lando Norris,NOR,2022,Canadian GP,15.0,0.8036,79.194,77.495,McLaren,14.0,,0,3,2,2
+Charles Leclerc,LEC,2022,Canadian GP,5.0,1.5309,78.4,75.901,Ferrari,19.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Canadian GP,4.0,0.6947,77.754,76.418,Mercedes,8.0,,0,3,2,2
+Carlos Sainz,SAI,2022,Canadian GP,2.0,0.7147,77.347,75.749,Ferrari,3.0,,0,3,2,2
+Yuki Tsunoda,TSU,2022,Canadian GP,18.0,0.4734,79.345,78.309,AlphaTauri,20.0,,1,2,2,1
+Fernando Alonso,ALO,2022,Canadian GP,9.0,0.6565,78.49,77.01,Alpine,2.0,,0,3,2,2
+Pierre Gasly,GAS,2022,Canadian GP,14.0,0.8884,79.046,77.81,AlphaTauri,15.0,,0,3,2,2
+Esteban Ocon,OCO,2022,Canadian GP,6.0,0.5896,78.504,77.11,Alpine,7.0,,0,3,2,2
+Nico Hülkenberg,HUL,2022,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Canadian GP,13.0,0.574,79.269,77.951,Williams,12.0,,0,3,2,2
+Liam Lawson,LAW,2022,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Canadian GP,10.0,0.8306,79.136,77.421,Aston Martin,17.0,,0,2,2,1
+Max Verstappen,VER,2023,Canadian GP,1.0,0.401,76.602,75.594,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,Canadian GP,3.0,0.5561,76.843,75.396,Mercedes,3.0,,0,3,2,2
+Lando Norris,NOR,2023,Canadian GP,13.0,0.7144,77.733,76.374,McLaren,7.0,,0,3,2,2
+Charles Leclerc,LEC,2023,Canadian GP,4.0,1.0025,77.062,75.907,Ferrari,10.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Canadian GP,11.0,0.8077,77.743,76.598,McLaren,8.0,,0,3,2,2
+George Russell,RUS,2023,Canadian GP,19.0,0.3583,78.03,77.097,Mercedes,4.0,,1,2,2,1
+Carlos Sainz,SAI,2023,Canadian GP,5.0,0.8672,77.067,75.911,Ferrari,11.0,,0,2,2,1
+Yuki Tsunoda,TSU,2023,Canadian GP,14.0,0.6004,77.687,76.666,AlphaTauri,19.0,,0,1,1,0
+Fernando Alonso,ALO,2023,Canadian GP,2.0,0.49,76.767,75.779,Aston Martin,2.0,,0,3,2,2
+Pierre Gasly,GAS,2023,Canadian GP,12.0,0.7928,77.608,76.425,Alpine,15.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Canadian GP,8.0,0.4295,77.648,76.782,Alpine,6.0,,0,3,2,2
+Nico Hülkenberg,HUL,2023,Canadian GP,15.0,0.5031,78.237,77.232,Haas F1 Team,5.0,,1,3,2,2
+Alex Albon,ALB,2023,Canadian GP,7.0,0.4911,77.959,76.917,Williams,9.0,,0,2,2,1
+Liam Lawson,LAW,2023,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Canadian GP,9.0,0.6475,77.64,76.564,Aston Martin,16.0,,0,3,2,2
+Max Verstappen,VER,2024,Canadian GP,1.0,35.8345,84.629,75.569,Red Bull Racing,2.0,,0,3,2,2
+Lewis Hamilton,HAM,2024,Canadian GP,4.0,41.1049,84.946,74.856,Mercedes,7.0,,0,4,3,3
+Lando Norris,NOR,2024,Canadian GP,2.0,35.7873,84.735,75.558,McLaren,3.0,,0,3,2,2
+Charles Leclerc,LEC,2024,Canadian GP,19.0,17.2602,90.829,86.012,Ferrari,11.0,,1,2,1,1
+Oscar Piastri,PIA,2024,Canadian GP,5.0,35.5592,84.941,76.247,McLaren,4.0,,0,3,2,2
+George Russell,RUS,2024,Canadian GP,3.0,32.9207,84.846,74.895,Mercedes,1.0,,0,4,3,3
+Carlos Sainz,SAI,2024,Canadian GP,16.0,26.6837,88.825,78.957,Ferrari,12.0,,1,3,2,2
+Yuki Tsunoda,TSU,2024,Canadian GP,14.0,36.9044,86.833,77.309,RB,8.0,,0,2,2,1
+Fernando Alonso,ALO,2024,Canadian GP,6.0,35.1007,85.557,76.303,Aston Martin,6.0,,0,3,2,2
+Pierre Gasly,GAS,2024,Canadian GP,9.0,43.143,86.519,77.013,Alpine,15.0,,0,3,2,2
+Esteban Ocon,OCO,2024,Canadian GP,10.0,40.0425,86.661,77.012,Alpine,18.0,,0,2,2,1
+Nico Hülkenberg,HUL,2024,Canadian GP,11.0,38.4878,86.212,76.683,Haas F1 Team,17.0,,0,4,3,3
+Alex Albon,ALB,2024,Canadian GP,17.0,27.0267,88.783,79.359,Williams,10.0,,1,3,2,2
+Liam Lawson,LAW,2024,Canadian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Canadian GP,7.0,39.8311,86.357,76.762,Aston Martin,9.0,,0,3,2,2

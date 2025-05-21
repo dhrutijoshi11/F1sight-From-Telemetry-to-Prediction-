@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Chinese GP,5.0,2.1613,97.485,96.206,Red Bull Racing,5.0,,0,3,3,2
+Lewis Hamilton,HAM,2018,Chinese GP,4.0,0.4778,97.839,96.978,Mercedes,4.0,,0,2,2,1
+Lando Norris,NOR,2018,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Chinese GP,19.0,0.1347,100.138,99.628,Sauber,19.0,,0,2,2,1
+Oscar Piastri,PIA,2018,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Chinese GP,9.0,0.5543,98.511,97.754,Renault,9.0,,0,3,3,2
+Yuki Tsunoda,TSU,2018,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Chinese GP,7.0,0.5116,98.219,97.234,McLaren,13.0,,0,2,2,1
+Pierre Gasly,GAS,2018,Chinese GP,18.0,1.6689,99.579,98.367,Toro Rosso,17.0,,0,3,3,2
+Esteban Ocon,OCO,2018,Chinese GP,11.0,0.6274,98.85,97.985,Force India,12.0,,0,3,2,2
+Nico Hülkenberg,HUL,2018,Chinese GP,6.0,0.4388,97.9,96.881,Renault,7.0,,0,3,3,2
+Alex Albon,ALB,2018,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Chinese GP,14.0,0.8857,99.365,98.5,Williams,18.0,,0,2,2,1
+Max Verstappen,VER,2019,Chinese GP,4.0,1.2214,97.895,96.143,Red Bull Racing,5.0,,0,3,2,2
+Lewis Hamilton,HAM,2019,Chinese GP,1.0,1.1446,97.467,95.892,Mercedes,2.0,,0,3,2,2
+Lando Norris,NOR,2019,Chinese GP,18.0,0.7393,99.897,98.346,McLaren,15.0,,1,3,3,2
+Charles Leclerc,LEC,2019,Chinese GP,5.0,2.2331,97.944,94.86,Ferrari,4.0,,0,3,2,2
+Oscar Piastri,PIA,2019,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Chinese GP,16.0,1.9143,101.449,97.283,Williams,17.0,,1,3,3,2
+Carlos Sainz,SAI,2019,Chinese GP,14.0,1.2585,99.666,97.502,McLaren,14.0,,1,2,2,1
+Yuki Tsunoda,TSU,2019,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Chinese GP,6.0,1.5401,98.617,94.742,Red Bull Racing,6.0,,0,4,3,3
+Esteban Ocon,OCO,2019,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Chinese GP,20.0,0.3099,100.72,99.677,Renault,8.0,,1,2,2,1
+Alex Albon,ALB,2019,Chinese GP,10.0,0.6708,100.101,98.901,Toro Rosso,0.0,,1,2,2,1
+Liam Lawson,LAW,2019,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Chinese GP,12.0,1.4758,99.879,96.678,Racing Point,16.0,,1,3,3,2
+Max Verstappen,VER,2020,Chinese GP,2.0,1.3656,99.486,97.332,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2020,Chinese GP,3.0,0.959,99.593,98.075,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2020,Chinese GP,15.0,3.0557,101.865,97.377,McLaren,8.0,,1,2,2,1
+Charles Leclerc,LEC,2020,Chinese GP,6.0,1.1436,100.628,99.053,Ferrari,10.0,,0,2,2,1
+Oscar Piastri,PIA,2020,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Chinese GP,18.0,3.4684,102.545,97.352,Williams,13.0,,1,3,3,2
+Carlos Sainz,SAI,2020,Chinese GP,19.0,N/A,N/A,N/A,McLaren,6.0,,1,0,0,-1
+Yuki Tsunoda,TSU,2020,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Chinese GP,9.0,1.6968,100.806,97.231,AlphaTauri,9.0,,0,3,3,2
+Esteban Ocon,OCO,2020,Chinese GP,7.0,0.9633,100.773,99.216,Renault,7.0,,0,2,2,1
+Nico Hülkenberg,HUL,2020,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Chinese GP,10.0,4.1656,101.238,98.377,Red Bull Racing,15.0,,0,2,2,1
+Liam Lawson,LAW,2020,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Chinese GP,20.0,N/A,N/A,N/A,Racing Point,12.0,,1,0,0,-1
+Max Verstappen,VER,2021,Chinese GP,1.0,0.4977,74.452,73.275,Red Bull Racing,1.0,,0,3,3,2
+Lewis Hamilton,HAM,2021,Chinese GP,2.0,0.7333,74.413,71.097,Mercedes,2.0,,0,4,2,3
+Lando Norris,NOR,2021,Chinese GP,10.0,1.9281,76.405,74.236,McLaren,13.0,,1,2,2,1
+Charles Leclerc,LEC,2021,Chinese GP,5.0,0.641,75.94,74.78,Ferrari,5.0,,1,2,2,1
+Oscar Piastri,PIA,2021,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Chinese GP,17.0,0.8444,76.985,75.628,Williams,11.0,,1,2,2,1
+Carlos Sainz,SAI,2021,Chinese GP,7.0,0.5458,76.363,75.26,Ferrari,6.0,,1,2,2,1
+Yuki Tsunoda,TSU,2021,Chinese GP,19.0,0.6997,77.356,75.783,AlphaTauri,14.0,,1,2,2,1
+Fernando Alonso,ALO,2021,Chinese GP,6.0,1.0911,76.357,74.323,Alpine,9.0,,1,2,2,1
+Pierre Gasly,GAS,2021,Chinese GP,4.0,0.4267,75.922,74.818,AlphaTauri,4.0,,1,2,2,1
+Esteban Ocon,OCO,2021,Chinese GP,9.0,1.0148,76.428,74.675,Alpine,8.0,,1,2,2,1
+Nico Hülkenberg,HUL,2021,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Chinese GP,12.0,1.0157,77.031,75.611,Aston Martin,12.0,,1,2,2,1
+Max Verstappen,VER,2022,Chinese GP,1.0,1.8407,107.25,104.911,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Chinese GP,5.0,3.1508,108.834,105.53,Mercedes,6.0,,0,2,2,1
+Lando Norris,NOR,2022,Chinese GP,10.0,0.4433,109.709,108.175,McLaren,10.0,,0,1,1,0
+Charles Leclerc,LEC,2022,Chinese GP,3.0,2.4528,108.406,104.489,Ferrari,2.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Chinese GP,8.0,4.0279,108.854,107.004,Mercedes,8.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Chinese GP,19.0,N/A,N/A,N/A,Ferrari,3.0,,1,0,0,-1
+Yuki Tsunoda,TSU,2022,Chinese GP,13.0,6.8484,109.235,105.893,AlphaTauri,13.0,,0,3,2,2
+Fernando Alonso,ALO,2022,Chinese GP,7.0,7.5422,108.255,104.412,Alpine,7.0,,0,3,2,2
+Pierre Gasly,GAS,2022,Chinese GP,18.0,6.5115,109.457,105.387,AlphaTauri,17.0,,0,3,2,2
+Esteban Ocon,OCO,2022,Chinese GP,4.0,2.4099,108.868,106.559,Alpine,5.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Chinese GP,20.0,N/A,N/A,N/A,Williams,16.0,,1,0,0,-1
+Liam Lawson,LAW,2022,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Chinese GP,12.0,8.5356,109.214,105.205,Aston Martin,19.0,,0,3,2,2
+Max Verstappen,VER,2023,Chinese GP,1.0,1.0385,97.217,94.183,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,Chinese GP,5.0,1.0375,98.218,95.611,Mercedes,7.0,,0,3,2,2
+Lando Norris,NOR,2023,Chinese GP,2.0,1.209,97.525,95.247,McLaren,3.0,,0,3,2,2
+Charles Leclerc,LEC,2023,Chinese GP,4.0,0.8076,98.209,96.362,Ferrari,4.0,,0,3,2,2
+Oscar Piastri,PIA,2023,Chinese GP,3.0,0.8994,98.106,96.328,McLaren,2.0,,0,3,2,2
+George Russell,RUS,2023,Chinese GP,7.0,0.5596,98.888,97.653,Mercedes,8.0,,0,2,2,1
+Carlos Sainz,SAI,2023,Chinese GP,6.0,1.0506,98.303,96.187,Ferrari,6.0,,0,3,2,2
+Yuki Tsunoda,TSU,2023,Chinese GP,12.0,1.2269,99.342,97.768,AlphaTauri,9.0,,1,3,3,2
+Fernando Alonso,ALO,2023,Chinese GP,8.0,0.9996,98.744,97.203,Aston Martin,10.0,,0,3,2,2
+Pierre Gasly,GAS,2023,Chinese GP,10.0,2.1148,98.786,96.371,Alpine,12.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Chinese GP,9.0,1.6019,99.211,97.398,Alpine,14.0,,0,2,1,1
+Nico Hülkenberg,HUL,2023,Chinese GP,14.0,1.1371,98.824,97.25,Haas F1 Team,18.0,,1,4,3,3
+Alex Albon,ALB,2023,Chinese GP,16.0,0.5535,100.49,99.185,Williams,13.0,,1,2,2,1
+Liam Lawson,LAW,2023,Chinese GP,11.0,0.799,99.27,98.267,AlphaTauri,11.0,,1,3,3,2
+Lance Stroll,STR,2023,Chinese GP,18.0,0.1923,99.91,99.05,Aston Martin,17.0,,1,2,2,1
+Max Verstappen,VER,2024,Chinese GP,1.0,0.7453,99.779,98.406,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2024,Chinese GP,9.0,0.8654,101.888,100.835,Mercedes,18.0,,0,3,3,2
+Lando Norris,NOR,2024,Chinese GP,2.0,1.3398,100.646,98.751,McLaren,4.0,,0,2,2,1
+Charles Leclerc,LEC,2024,Chinese GP,4.0,1.1845,100.979,99.384,Ferrari,6.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Chinese GP,8.0,0.6755,101.64,99.739,McLaren,5.0,,0,3,2,2
+George Russell,RUS,2024,Chinese GP,6.0,0.8313,101.19,100.112,Mercedes,8.0,,0,3,2,2
+Carlos Sainz,SAI,2024,Chinese GP,5.0,1.2329,101.203,99.764,Ferrari,7.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Chinese GP,19.0,0.416,102.916,101.593,RB,19.0,,1,2,2,1
+Fernando Alonso,ALO,2024,Chinese GP,7.0,1.6304,100.771,97.81,Aston Martin,3.0,,0,4,3,3
+Pierre Gasly,GAS,2024,Chinese GP,13.0,1.5768,101.491,99.198,Alpine,15.0,,0,4,2,3
+Esteban Ocon,OCO,2024,Chinese GP,11.0,0.5521,101.94,100.937,Alpine,13.0,,0,3,2,2
+Nico Hülkenberg,HUL,2024,Chinese GP,10.0,0.5328,101.81,100.815,Haas F1 Team,9.0,,0,3,2,2
+Alex Albon,ALB,2024,Chinese GP,12.0,0.7045,102.147,100.79,Williams,14.0,,0,3,2,2
+Liam Lawson,LAW,2024,Chinese GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Chinese GP,15.0,1.1498,101.365,99.444,Aston Martin,11.0,,0,4,3,3

@@ -1,0 +1,2416 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Abu_Dhabi GP,3.0,1.225,103.658,101.909,Red Bull Racing,6.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Abu_Dhabi GP,1.0,1.0684,103.7,101.357,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Abu_Dhabi GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Abu_Dhabi GP,7.0,2.4572,105.45,102.876,Sauber,8.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Abu_Dhabi GP,,,,,,,,,,,
+George Russell,RUS,2018,Abu_Dhabi GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Abu_Dhabi GP,6.0,3.3809,104.836,101.351,Renault,11.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Abu_Dhabi GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Abu_Dhabi GP,11.0,2.6772,106.042,102.393,McLaren,15.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Abu_Dhabi GP,16.0,1.8942,106.301,103.988,Toro Rosso,17.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Abu_Dhabi GP,17.0,2.4692,106.069,103.591,Racing Point,9.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Abu_Dhabi GP,20.0,,,,Renault,10.0,,1.0,0.0,0.0,-1.0
+Alex Albon,ALB,2018,Abu_Dhabi GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Abu_Dhabi GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Abu_Dhabi GP,13.0,1.6803,106.524,104.033,Williams,20.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Abu_Dhabi GP,2.0,0.5592,102.449,101.119,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Abu_Dhabi GP,1.0,0.6625,102.186,99.283,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Abu_Dhabi GP,8.0,0.5535,104.452,103.026,McLaren,6.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Abu_Dhabi GP,3.0,0.8933,102.572,100.442,Ferrari,3.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2019,Abu_Dhabi GP,,,,,,,,,,,
+George Russell,RUS,2019,Abu_Dhabi GP,17.0,2.7829,105.728,103.074,Williams,18.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Abu_Dhabi GP,10.0,1.4002,104.227,101.294,McLaren,8.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2019,Abu_Dhabi GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Abu_Dhabi GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Abu_Dhabi GP,18.0,1.5594,104.922,102.414,Toro Rosso,11.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2019,Abu_Dhabi GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Abu_Dhabi GP,12.0,0.6179,104.589,103.274,Renault,9.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Abu_Dhabi GP,6.0,0.6031,103.379,102.219,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Abu_Dhabi GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Abu_Dhabi GP,20.0,1.8748,105.455,103.326,Racing Point,12.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2020,Abu_Dhabi GP,1.0,0.1903,101.652,100.958,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Abu_Dhabi GP,3.0,0.3237,102.127,101.42,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Abu_Dhabi GP,5.0,0.5989,103.136,101.964,McLaren,4.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Abu_Dhabi GP,13.0,1.6941,103.939,101.908,Ferrari,12.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Abu_Dhabi GP,,,,,,,,,,,
+George Russell,RUS,2020,Abu_Dhabi GP,15.0,1.4886,104.801,103.328,Williams,16.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,Abu_Dhabi GP,6.0,0.7606,103.199,101.947,McLaren,6.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2020,Abu_Dhabi GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Abu_Dhabi GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Abu_Dhabi GP,8.0,0.8672,103.703,102.474,AlphaTauri,9.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Abu_Dhabi GP,9.0,1.0398,103.991,102.894,Renault,10.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Abu_Dhabi GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Abu_Dhabi GP,4.0,0.5471,102.19,101.227,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Abu_Dhabi GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Abu_Dhabi GP,10.0,0.8673,103.949,101.866,Racing Point,8.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Abu_Dhabi GP,1.0,0.8952,87.838,86.103,Red Bull Racing,1.0,,0.0,4.0,2.0,3.0
+Lewis Hamilton,HAM,2021,Abu_Dhabi GP,2.0,1.2403,87.945,86.615,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2021,Abu_Dhabi GP,7.0,1.137,89.275,86.762,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2021,Abu_Dhabi GP,10.0,0.553,89.657,88.433,Ferrari,7.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2021,Abu_Dhabi GP,,,,,,,,,,,
+George Russell,RUS,2021,Abu_Dhabi GP,18.0,0.8656,91.748,90.647,Williams,17.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2021,Abu_Dhabi GP,3.0,0.8681,89.205,87.618,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Abu_Dhabi GP,4.0,1.2126,89.323,87.496,AlphaTauri,8.0,,0.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2021,Abu_Dhabi GP,8.0,0.9241,89.905,87.607,Alpine,11.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Abu_Dhabi GP,5.0,1.6705,89.617,87.342,AlphaTauri,12.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2021,Abu_Dhabi GP,9.0,0.7118,89.76,88.249,Alpine,9.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Abu_Dhabi GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Abu_Dhabi GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Abu_Dhabi GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Abu_Dhabi GP,13.0,1.347,90.2,88.567,Aston Martin,13.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2022,Abu_Dhabi GP,1.0,0.2851,90.336,89.392,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Abu_Dhabi GP,18.0,0.6774,90.729,89.788,Mercedes,5.0,,1.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Abu_Dhabi GP,6.0,0.9919,90.862,88.391,McLaren,7.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2022,Abu_Dhabi GP,2.0,0.3764,90.457,89.719,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Abu_Dhabi GP,,,,,,,,,,,
+George Russell,RUS,2022,Abu_Dhabi GP,5.0,0.8978,90.395,88.836,Mercedes,6.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2022,Abu_Dhabi GP,4.0,0.6058,90.315,88.879,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2022,Abu_Dhabi GP,11.0,0.6981,91.408,89.489,AlphaTauri,11.0,,0.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2022,Abu_Dhabi GP,20.0,0.5783,92.019,90.579,Alpine,10.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Abu_Dhabi GP,14.0,0.6713,92.206,91.081,AlphaTauri,17.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Abu_Dhabi GP,7.0,1.011,90.876,89.333,Alpine,8.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2022,Abu_Dhabi GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Abu_Dhabi GP,13.0,1.1372,91.776,89.939,Williams,19.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Abu_Dhabi GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Abu_Dhabi GP,8.0,0.6764,91.163,89.62,Aston Martin,14.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Abu_Dhabi GP,1.0,1.0402,89.202,86.993,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Abu_Dhabi GP,9.0,0.9393,89.881,88.372,Mercedes,11.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Abu_Dhabi GP,5.0,0.7398,89.573,88.164,McLaren,5.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Abu_Dhabi GP,2.0,0.8689,89.494,88.199,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Abu_Dhabi GP,6.0,1.0744,89.751,88.138,McLaren,3.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Abu_Dhabi GP,3.0,0.8482,89.536,88.187,Mercedes,4.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Abu_Dhabi GP,18.0,0.6522,90.505,89.452,Ferrari,16.0,,0.0,2.0,1.0,1.0
+Yuki Tsunoda,TSU,2023,Abu_Dhabi GP,8.0,0.4968,90.271,89.256,AlphaTauri,6.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2023,Abu_Dhabi GP,7.0,0.8634,89.807,88.256,Aston Martin,7.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Abu_Dhabi GP,13.0,0.7346,90.334,89.016,Alpine,10.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Abu_Dhabi GP,12.0,0.263,90.664,90.033,Alpine,12.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Abu_Dhabi GP,15.0,0.7121,90.537,89.217,Haas F1 Team,8.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Abu_Dhabi GP,14.0,1.2818,90.231,87.845,Williams,14.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2023,Abu_Dhabi GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Abu_Dhabi GP,10.0,0.9954,90.122,88.05,Aston Martin,13.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,Abu_Dhabi GP,6.0,0.81,89.035,87.765,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Abu_Dhabi GP,4.0,1.314,88.989,87.278,Mercedes,16.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Abu_Dhabi GP,1.0,0.3776,88.517,87.438,McLaren,1.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Abu_Dhabi GP,3.0,0.4836,88.938,88.018,Ferrari,19.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Abu_Dhabi GP,10.0,0.7341,89.007,87.69,McLaren,2.0,,0.0,2.0,1.0,1.0
+George Russell,RUS,2024,Abu_Dhabi GP,5.0,0.5454,89.131,88.195,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Abu_Dhabi GP,2.0,0.2617,88.573,87.765,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Abu_Dhabi GP,12.0,0.5027,90.124,89.2,RB,11.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Abu_Dhabi GP,9.0,0.721,89.375,87.948,Aston Martin,8.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2024,Abu_Dhabi GP,7.0,0.1586,89.77,89.251,Alpine,5.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Abu_Dhabi GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2024,Abu_Dhabi GP,8.0,0.1608,89.786,89.152,Haas F1 Team,7.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Abu_Dhabi GP,11.0,0.2913,90.102,89.438,Williams,18.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Abu_Dhabi GP,17.0,0.7076,89.893,88.751,RB,12.0,,0.0,3.0,2.0,2.0
+Lance Stroll,STR,2024,Abu_Dhabi GP,14.0,0.475,89.763,88.604,Aston Martin,13.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Qatar GP,1.0,0.3705,68.52,67.442,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Qatar GP,16.0,0.3501,68.66,67.241,Mercedes,2.0,,1.0,3.0,3.0,2.0
+Lando Norris,NOR,2018,Qatar GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Qatar GP,9.0,0.6164,70.033,69.006,Sauber,18.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Qatar GP,,,,,,,,,,,
+George Russell,RUS,2018,Qatar GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Qatar GP,12.0,0.595,70.024,68.766,Renault,9.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2018,Qatar GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Qatar GP,8.0,1.0488,70.071,68.661,McLaren,13.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Qatar GP,11.0,0.7197,70.292,69.295,Toro Rosso,12.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Qatar GP,6.0,0.4458,69.963,68.85,Force India,11.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Qatar GP,20.0,1.2363,71.2,70.38,Renault,10.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2018,Qatar GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Qatar GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Qatar GP,14.0,0.6364,70.581,69.203,Williams,14.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2019,Qatar GP,1.0,0.7801,68.926,67.475,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Qatar GP,5.0,0.3938,69.149,68.05,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Qatar GP,6.0,0.4884,69.92,68.699,McLaren,5.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Qatar GP,2.0,0.2321,69.018,67.994,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Qatar GP,,,,,,,,,,,
+George Russell,RUS,2019,Qatar GP,18.0,0.9273,71.086,69.926,Williams,0.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Qatar GP,8.0,1.1828,70.136,68.117,McLaren,19.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Qatar GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Qatar GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Qatar GP,7.0,0.547,70.007,68.79,Red Bull Racing,8.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Qatar GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Qatar GP,13.0,0.5267,70.287,69.248,Renault,15.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Qatar GP,15.0,1.4097,70.362,68.946,Toro Rosso,18.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Qatar GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Qatar GP,14.0,0.7005,70.381,69.288,Racing Point,14.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Qatar GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2020,Qatar GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Qatar GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Qatar GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Qatar GP,,,,,,,,,,,
+George Russell,RUS,2020,Qatar GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,Qatar GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Qatar GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Qatar GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Qatar GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Qatar GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2020,Qatar GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Qatar GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2020,Qatar GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Qatar GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2021,Qatar GP,2.0,1.775,87.263,83.196,Red Bull Racing,7.0,,0.0,4.0,3.0,3.0
+Lewis Hamilton,HAM,2021,Qatar GP,1.0,1.1718,87.249,85.084,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Qatar GP,9.0,2.6202,88.935,85.746,McLaren,4.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2021,Qatar GP,8.0,2.9192,89.028,86.555,Ferrari,13.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Qatar GP,,,,,,,,,,,
+George Russell,RUS,2021,Qatar GP,17.0,2.4408,90.031,85.768,Williams,15.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2021,Qatar GP,7.0,2.3392,89.155,86.57,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Qatar GP,13.0,1.9087,89.301,87.043,AlphaTauri,8.0,,1.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2021,Qatar GP,3.0,2.0574,88.794,86.682,Alpine,3.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Qatar GP,11.0,1.8497,88.904,87.019,AlphaTauri,2.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2021,Qatar GP,5.0,1.8974,89.162,87.061,Alpine,9.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Qatar GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Qatar GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Qatar GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Qatar GP,6.0,2.0341,89.113,87.356,Aston Martin,12.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Qatar GP,2.0,0.8052,69.93,67.275,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Qatar GP,3.0,0.7313,70.565,69.0,Mercedes,8.0,,0.0,2.0,1.0,1.0
+Lando Norris,NOR,2022,Qatar GP,7.0,0.7121,71.029,69.304,McLaren,10.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Qatar GP,1.0,0.8367,69.889,67.583,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,Qatar GP,,,,,,,,,,,
+George Russell,RUS,2022,Qatar GP,4.0,0.5954,70.678,69.075,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Qatar GP,18.0,0.409,70.329,68.649,Ferrari,3.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Qatar GP,16.0,0.8044,71.577,70.023,AlphaTauri,16.0,,1.0,2.0,1.0,1.0
+Fernando Alonso,ALO,2022,Qatar GP,10.0,1.4553,71.168,68.558,Alpine,19.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Qatar GP,15.0,0.5035,71.395,70.104,AlphaTauri,14.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Qatar GP,5.0,0.4376,71.05,69.559,Alpine,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Qatar GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Qatar GP,12.0,0.5858,71.41,69.669,Williams,15.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Qatar GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Qatar GP,13.0,0.7704,71.54,70.048,Aston Martin,12.0,,1.0,2.0,1.0,1.0
+Max Verstappen,VER,2023,Qatar GP,1.0,2.3104,87.238,84.319,Red Bull Racing,1.0,,0.0,4.0,2.0,3.0
+Lewis Hamilton,HAM,2023,Qatar GP,19.0,,,,Mercedes,3.0,,1.0,0.0,0.0,-1.0
+Lando Norris,NOR,2023,Qatar GP,3.0,3.9848,87.377,84.842,McLaren,10.0,,0.0,4.0,2.0,3.0
+Charles Leclerc,LEC,2023,Qatar GP,5.0,2.6529,87.84,84.992,Ferrari,5.0,,0.0,4.0,2.0,3.0
+Oscar Piastri,PIA,2023,Qatar GP,2.0,2.7906,87.13,84.921,McLaren,6.0,,0.0,4.0,2.0,3.0
+George Russell,RUS,2023,Qatar GP,4.0,3.6117,87.789,85.77,Mercedes,2.0,,0.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2023,Qatar GP,20.0,,,,Ferrari,12.0,,1.0,,,
+Yuki Tsunoda,TSU,2023,Qatar GP,15.0,1.9203,89.045,87.174,AlphaTauri,11.0,,1.0,4.0,2.0,3.0
+Fernando Alonso,ALO,2023,Qatar GP,6.0,1.8075,87.84,86.045,Aston Martin,4.0,,0.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2023,Qatar GP,12.0,1.9033,88.336,86.31,Alpine,7.0,,0.0,4.0,2.0,3.0
+Esteban Ocon,OCO,2023,Qatar GP,7.0,1.5884,88.2,86.45,Alpine,8.0,,0.0,4.0,2.0,3.0
+Nico Hülkenberg,HUL,2023,Qatar GP,16.0,2.055,88.806,86.489,Haas F1 Team,14.0,,1.0,4.0,2.0,3.0
+Alex Albon,ALB,2023,Qatar GP,13.0,2.4553,88.519,86.666,Williams,13.0,,0.0,4.0,2.0,3.0
+Liam Lawson,LAW,2023,Qatar GP,17.0,2.8489,89.732,87.113,AlphaTauri,17.0,,1.0,3.0,2.0,2.0
+Lance Stroll,STR,2023,Qatar GP,11.0,3.5798,88.899,86.352,Aston Martin,16.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,Qatar GP,1.0,1.1893,84.673,82.905,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Qatar GP,12.0,1.6454,86.073,83.865,Mercedes,6.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Qatar GP,10.0,1.3335,84.9,82.384,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Qatar GP,2.0,1.7048,85.06,83.242,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Qatar GP,3.0,1.3906,85.01,83.218,McLaren,4.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,Qatar GP,4.0,1.4428,85.288,83.355,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Qatar GP,6.0,1.5057,85.385,83.465,Ferrari,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Qatar GP,13.0,0.7814,87.407,86.144,RB,14.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Qatar GP,7.0,2.0725,86.055,83.667,Aston Martin,8.0,,0.0,2.0,1.0,1.0
+Pierre Gasly,GAS,2024,Qatar GP,5.0,2.6301,85.96,83.705,Alpine,11.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Qatar GP,20.0,,,,Alpine,20.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2024,Qatar GP,16.0,1.4925,87.579,85.767,Haas F1 Team,18.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Qatar GP,15.0,1.3478,87.389,85.559,Williams,16.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Qatar GP,14.0,2.9653,87.416,86.076,RB,17.0,,0.0,2.0,2.0,1.0
+Lance Stroll,STR,2024,Qatar GP,18.0,1.6744,92.229,90.935,Aston Martin,15.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2018,Belgian GP,3.0,1.5833,108.627,106.946,Red Bull Racing,7.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Belgian GP,2.0,0.7425,108.143,106.721,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Belgian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Belgian GP,18.0,,,,Sauber,12.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2018,Belgian GP,,,,,,,,,,,
+George Russell,RUS,2018,Belgian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Belgian GP,11.0,2.3448,110.924,108.67,Renault,14.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Belgian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Belgian GP,19.0,,,,McLaren,15.0,,1.0,0.0,0.0,-1.0
+Pierre Gasly,GAS,2018,Belgian GP,9.0,1.9056,110.416,108.588,Toro Rosso,10.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Belgian GP,6.0,1.395,109.791,108.078,Racing Point,3.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Belgian GP,20.0,,,,Renault,20.0,,1.0,0.0,0.0,-1.0
+Alex Albon,ALB,2018,Belgian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Belgian GP,13.0,1.8598,111.063,109.287,Williams,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Belgian GP,20.0,,,,Red Bull Racing,5.0,,1.0,0.0,0.0,-1.0
+Lewis Hamilton,HAM,2019,Belgian GP,2.0,1.3496,108.327,106.58,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Belgian GP,11.0,1.2055,109.933,108.321,McLaren,11.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Belgian GP,1.0,0.9696,108.352,106.664,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Belgian GP,,,,,,,,,,,
+George Russell,RUS,2019,Belgian GP,15.0,2.7761,111.72,108.86,Williams,14.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Belgian GP,19.0,,,,McLaren,15.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2019,Belgian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Belgian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Belgian GP,9.0,0.8953,111.052,109.7,Toro Rosso,13.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Belgian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Belgian GP,8.0,1.8449,110.41,108.349,Renault,12.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2019,Belgian GP,5.0,3.1293,110.259,107.507,Red Bull Racing,17.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Belgian GP,10.0,2.1226,110.532,108.357,Racing Point,16.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2020,Belgian GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Belgian GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Belgian GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Belgian GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Belgian GP,,,,,,,,,,,
+George Russell,RUS,2020,Belgian GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2020,Belgian GP,20.0,,,,McLaren,7.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2020,Belgian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Belgian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Belgian GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Belgian GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Belgian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Belgian GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Belgian GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Belgian GP,1.0,,,,Red Bull Racing,1.0,,0.0,0.0,0.0,-1.0
+Lewis Hamilton,HAM,2021,Belgian GP,3.0,,,,Mercedes,3.0,,0.0,0.0,0.0,-1.0
+Lando Norris,NOR,2021,Belgian GP,14.0,,,,McLaren,15.0,,0.0,0.0,0.0,-1.0
+Charles Leclerc,LEC,2021,Belgian GP,8.0,,,,Ferrari,9.0,,0.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2021,Belgian GP,,,,,,,,,,,
+George Russell,RUS,2021,Belgian GP,2.0,,,,Williams,2.0,,0.0,0.0,0.0,-1.0
+Carlos Sainz,SAI,2021,Belgian GP,10.0,,,,Ferrari,11.0,,0.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2021,Belgian GP,15.0,,,,AlphaTauri,16.0,,0.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2021,Belgian GP,11.0,,,,Alpine,12.0,,0.0,0.0,0.0,-1.0
+Pierre Gasly,GAS,2021,Belgian GP,6.0,,,,AlphaTauri,6.0,,0.0,0.0,0.0,-1.0
+Esteban Ocon,OCO,2021,Belgian GP,7.0,,,,Alpine,8.0,,0.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2021,Belgian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Belgian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Belgian GP,20.0,,,,Aston Martin,19.0,,0.0,0.0,0.0,-1.0
+Max Verstappen,VER,2022,Belgian GP,1.0,1.1112,112.385,109.354,Red Bull Racing,14.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Belgian GP,20.0,,,,Mercedes,4.0,,1.0,0.0,0.0,-1.0
+Lando Norris,NOR,2022,Belgian GP,12.0,1.161,114.862,111.678,McLaren,17.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2022,Belgian GP,6.0,2.1213,113.913,109.984,Ferrari,15.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,Belgian GP,,,,,,,,,,,
+George Russell,RUS,2022,Belgian GP,4.0,1.1097,113.096,110.793,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2022,Belgian GP,3.0,0.7125,113.03,111.977,Ferrari,1.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2022,Belgian GP,13.0,1.4897,114.708,112.436,AlphaTauri,0.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2022,Belgian GP,5.0,0.7814,114.149,112.868,Alpine,3.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Belgian GP,9.0,0.8402,114.45,113.002,AlphaTauri,0.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2022,Belgian GP,7.0,1.535,114.182,111.717,Alpine,16.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2022,Belgian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Belgian GP,10.0,0.5699,114.758,113.055,Williams,6.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Belgian GP,11.0,1.0671,114.809,112.88,Aston Martin,9.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Belgian GP,1.0,2.0103,111.559,108.922,Red Bull Racing,6.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Belgian GP,4.0,2.6352,112.361,107.305,Mercedes,3.0,,0.0,4.0,2.0,3.0
+Lando Norris,NOR,2023,Belgian GP,7.0,1.5387,113.111,111.682,McLaren,7.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2023,Belgian GP,3.0,1.8218,112.433,110.436,Ferrari,1.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Belgian GP,20.0,,,,McLaren,5.0,,1.0,0.0,0.0,-1.0
+George Russell,RUS,2023,Belgian GP,6.0,2.9931,113.209,110.603,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Belgian GP,19.0,1.624,115.909,113.138,Ferrari,4.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Belgian GP,10.0,2.1587,113.402,111.394,AlphaTauri,11.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2023,Belgian GP,5.0,1.9266,112.754,110.938,Aston Martin,9.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Belgian GP,11.0,2.6213,113.659,110.911,Alpine,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,Belgian GP,8.0,2.9378,113.182,110.439,Alpine,14.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2023,Belgian GP,18.0,2.589,113.988,109.907,Haas F1 Team,20.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Belgian GP,14.0,2.7419,113.317,109.841,Williams,15.0,,0.0,4.0,2.0,3.0
+Liam Lawson,LAW,2023,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Belgian GP,9.0,2.3236,113.472,111.297,Aston Martin,10.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Belgian GP,4.0,1.57,108.183,106.128,Red Bull Racing,11.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Belgian GP,1.0,1.0206,108.005,106.653,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Belgian GP,5.0,1.9472,108.229,105.563,McLaren,4.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Belgian GP,3.0,1.2215,108.272,107.013,Ferrari,1.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2024,Belgian GP,2.0,1.7657,108.037,105.84,McLaren,5.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Belgian GP,20.0,1.0286,108.419,107.113,Mercedes,6.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Belgian GP,6.0,1.6087,108.481,106.364,Ferrari,7.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Belgian GP,16.0,1.4822,110.022,107.969,RB,20.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Belgian GP,8.0,0.9747,109.556,108.051,Aston Martin,8.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,Belgian GP,13.0,1.2785,109.378,107.418,Alpine,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2024,Belgian GP,9.0,1.8231,109.166,106.957,Alpine,9.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2024,Belgian GP,18.0,0.5568,109.9,108.954,Haas F1 Team,16.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Belgian GP,12.0,0.8592,109.419,107.996,Williams,10.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Belgian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Belgian GP,11.0,0.79,109.725,108.105,Aston Martin,15.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2018,Spanish GP,3.0,1.4336,81.135,79.422,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Spanish GP,1.0,0.742,80.729,79.133,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Spanish GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Spanish GP,10.0,1.4956,83.664,82.122,Sauber,14.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Spanish GP,,,,,,,,,,,
+George Russell,RUS,2018,Spanish GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Spanish GP,7.0,1.5769,83.02,81.324,Renault,9.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Spanish GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Spanish GP,8.0,2.013,83.114,80.727,McLaren,8.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Spanish GP,19.0,,,,Toro Rosso,12.0,,1.0,0.0,0.0,-1.0
+Esteban Ocon,OCO,2018,Spanish GP,16.0,1.5035,83.998,82.117,Force India,13.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Spanish GP,20.0,,,,Renault,16.0,,1.0,0.0,0.0,-1.0
+Alex Albon,ALB,2018,Spanish GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Spanish GP,11.0,1.6921,83.688,82.095,Williams,18.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Spanish GP,3.0,1.1968,81.873,79.769,Red Bull Racing,4.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2019,Spanish GP,1.0,1.2788,81.611,78.492,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Spanish GP,20.0,1.0754,84.243,82.561,McLaren,10.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Spanish GP,5.0,1.3683,82.226,80.002,Ferrari,5.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2019,Spanish GP,,,,,,,,,,,
+George Russell,RUS,2019,Spanish GP,17.0,2.8168,85.72,82.382,Williams,19.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2019,Spanish GP,8.0,1.6388,83.474,80.859,McLaren,12.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2019,Spanish GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Spanish GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Spanish GP,6.0,1.261,82.626,80.536,Red Bull Racing,6.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2019,Spanish GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Spanish GP,13.0,1.8612,83.801,81.282,Renault,0.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Spanish GP,11.0,1.4166,83.287,81.028,Toro Rosso,11.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2019,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Spanish GP,19.0,0.7377,84.233,83.226,Racing Point,16.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Spanish GP,2.0,0.9501,83.07,81.477,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2020,Spanish GP,1.0,1.4045,82.67,79.822,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Spanish GP,10.0,1.1232,84.532,82.392,McLaren,8.0,,1.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2020,Spanish GP,20.0,64.9667,86.989,83.968,Ferrari,9.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Spanish GP,,,,,,,,,,,
+George Russell,RUS,2020,Spanish GP,17.0,0.9984,85.096,82.503,Williams,18.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2020,Spanish GP,6.0,1.2501,84.297,81.771,McLaren,7.0,,1.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2020,Spanish GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Spanish GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Spanish GP,9.0,1.0856,84.513,82.543,AlphaTauri,10.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Spanish GP,13.0,1.5771,84.976,82.174,Renault,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Spanish GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Spanish GP,8.0,1.0573,84.541,82.194,Red Bull Racing,6.0,,1.0,3.0,3.0,2.0
+Liam Lawson,LAW,2020,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Spanish GP,4.0,1.2902,84.252,82.024,Racing Point,5.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2021,Spanish GP,2.0,1.0604,82.374,78.149,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Spanish GP,1.0,1.0969,82.197,80.665,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Spanish GP,8.0,1.4147,84.117,81.279,McLaren,9.0,,1.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2021,Spanish GP,4.0,0.9837,83.163,80.459,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2021,Spanish GP,,,,,,,,,,,
+George Russell,RUS,2021,Spanish GP,14.0,1.4912,85.158,83.208,Williams,15.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2021,Spanish GP,7.0,1.5731,83.541,81.568,Ferrari,6.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2021,Spanish GP,20.0,1.1153,86.127,84.825,AlphaTauri,16.0,,1.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2021,Spanish GP,17.0,1.0757,84.706,81.182,Alpine,10.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2021,Spanish GP,10.0,2.1262,84.185,81.375,AlphaTauri,12.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2021,Spanish GP,9.0,0.8227,84.667,83.311,Alpine,5.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Spanish GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Spanish GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Spanish GP,11.0,1.0697,84.417,82.607,Aston Martin,11.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,Spanish GP,1.0,2.1948,87.469,85.456,Red Bull Racing,2.0,,0.0,4.0,2.0,3.0
+Lewis Hamilton,HAM,2022,Spanish GP,5.0,3.1788,87.837,84.253,Mercedes,6.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2022,Spanish GP,8.0,1.5605,88.632,85.619,McLaren,11.0,,0.0,4.0,2.0,3.0
+Charles Leclerc,LEC,2022,Spanish GP,20.0,0.3672,88.039,87.03,Ferrari,1.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Spanish GP,,,,,,,,,,,
+George Russell,RUS,2022,Spanish GP,3.0,1.305,88.019,84.636,Mercedes,4.0,,0.0,4.0,2.0,3.0
+Carlos Sainz,SAI,2022,Spanish GP,4.0,5.3588,88.089,85.985,Ferrari,3.0,,0.0,4.0,2.0,3.0
+Yuki Tsunoda,TSU,2022,Spanish GP,10.0,1.1167,88.814,86.828,AlphaTauri,13.0,,1.0,4.0,2.0,3.0
+Fernando Alonso,ALO,2022,Spanish GP,9.0,1.3254,88.699,86.599,Alpine,20.0,,1.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2022,Spanish GP,13.0,1.6966,89.231,86.987,AlphaTauri,14.0,,1.0,4.0,2.0,3.0
+Esteban Ocon,OCO,2022,Spanish GP,7.0,1.3817,88.532,85.935,Alpine,12.0,,0.0,4.0,2.0,3.0
+Nico Hülkenberg,HUL,2022,Spanish GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Spanish GP,18.0,1.1853,90.458,88.281,Williams,18.0,,1.0,5.0,2.0,4.0
+Liam Lawson,LAW,2022,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Spanish GP,15.0,1.5669,89.378,86.876,Aston Martin,17.0,,1.0,4.0,2.0,3.0
+Max Verstappen,VER,2023,Spanish GP,1.0,1.0281,79.242,76.33,Red Bull Racing,1.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2023,Spanish GP,2.0,1.1102,79.513,76.676,Mercedes,4.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Spanish GP,17.0,1.3307,80.21,77.182,McLaren,3.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2023,Spanish GP,11.0,1.3128,80.12,78.357,Ferrari,19.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Spanish GP,13.0,1.0798,80.398,78.679,McLaren,9.0,,1.0,3.0,3.0,2.0
+George Russell,RUS,2023,Spanish GP,3.0,1.2784,79.649,77.875,Mercedes,12.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Spanish GP,5.0,0.9213,79.855,78.403,Ferrari,2.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2023,Spanish GP,12.0,0.7365,80.157,78.904,AlphaTauri,15.0,,0.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2023,Spanish GP,7.0,1.1916,80.112,78.083,Aston Martin,8.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Spanish GP,10.0,1.3494,80.144,78.375,Alpine,10.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2023,Spanish GP,8.0,0.8283,80.174,78.946,Alpine,6.0,,0.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2023,Spanish GP,15.0,1.4598,80.157,78.776,Haas F1 Team,7.0,,1.0,4.0,3.0,3.0
+Alex Albon,ALB,2023,Spanish GP,16.0,1.373,80.653,79.133,Williams,18.0,,1.0,3.0,3.0,2.0
+Liam Lawson,LAW,2023,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Spanish GP,6.0,0.7119,80.078,78.722,Aston Martin,5.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,Spanish GP,1.0,1.1157,79.574,77.776,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Spanish GP,3.0,1.1399,79.825,77.809,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Spanish GP,2.0,1.6095,79.597,77.115,McLaren,1.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Spanish GP,5.0,1.3722,79.876,77.897,Ferrari,5.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2024,Spanish GP,7.0,1.6496,79.981,77.874,McLaren,9.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Spanish GP,4.0,0.8896,79.847,78.29,Mercedes,4.0,,0.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2024,Spanish GP,6.0,0.7659,79.97,78.539,Ferrari,6.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2024,Spanish GP,19.0,1.6405,81.251,79.447,RB,17.0,,1.0,4.0,3.0,3.0
+Fernando Alonso,ALO,2024,Spanish GP,12.0,1.6215,80.877,78.334,Aston Martin,10.0,,1.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2024,Spanish GP,9.0,0.7877,80.399,79.045,Alpine,7.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2024,Spanish GP,10.0,0.9825,80.597,78.982,Alpine,8.0,,0.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2024,Spanish GP,11.0,1.0074,80.567,78.609,Haas F1 Team,13.0,,0.0,3.0,3.0,2.0
+Alex Albon,ALB,2024,Spanish GP,18.0,1.2303,81.383,79.132,Williams,20.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Spanish GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Spanish GP,14.0,1.0097,81.062,79.318,Aston Martin,14.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2018,Australian GP,6.0,2.6299,88.976,86.88,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Australian GP,2.0,0.8269,87.818,86.444,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Australian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Australian GP,13.0,2.2098,90.35,88.759,Sauber,18.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2018,Australian GP,,,,,,,,,,,
+George Russell,RUS,2018,Australian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Australian GP,10.0,1.4108,89.357,87.944,Renault,9.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Australian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Australian GP,5.0,1.7478,89.02,86.978,McLaren,10.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Australian GP,18.0,5.0,91.997,90.649,Toro Rosso,20.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2018,Australian GP,12.0,2.0965,89.874,87.6,Force India,14.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Australian GP,7.0,1.6771,89.073,87.081,Renault,7.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Australian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Australian GP,14.0,1.2762,90.46,88.511,Williams,13.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Australian GP,3.0,0.8918,88.253,86.256,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Australian GP,2.0,0.6363,88.211,86.057,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Australian GP,12.0,1.0108,90.191,88.555,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Australian GP,5.0,1.2874,88.842,86.926,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Australian GP,,,,,,,,,,,
+George Russell,RUS,2019,Australian GP,16.0,1.8539,91.305,88.713,Williams,19.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2019,Australian GP,20.0,0.1784,91.466,90.899,McLaren,18.0,,1.0,1.0,1.0,0.0
+Yuki Tsunoda,TSU,2019,Australian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Australian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Australian GP,11.0,1.4795,89.429,87.229,Red Bull Racing,17.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Australian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Australian GP,7.0,0.7338,89.458,88.444,Renault,11.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Australian GP,14.0,1.2175,90.217,88.188,Toro Rosso,13.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Australian GP,9.0,1.2455,89.448,87.568,Racing Point,16.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Australian GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2020,Australian GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Australian GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Australian GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Australian GP,,,,,,,,,,,
+George Russell,RUS,2020,Australian GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,Australian GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Australian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Australian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Australian GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Australian GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2020,Australian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Australian GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2020,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Australian GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2021,Australian GP,1.0,0.4188,68.788,66.2,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Australian GP,4.0,0.2553,69.441,68.126,Mercedes,4.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Australian GP,3.0,0.3708,69.279,68.471,McLaren,2.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Australian GP,8.0,1.0549,69.992,68.698,Ferrari,12.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Australian GP,,,,,,,,,,,
+George Russell,RUS,2021,Australian GP,11.0,0.9796,70.329,68.9,Williams,8.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Australian GP,5.0,1.3818,69.874,67.762,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Australian GP,12.0,1.0004,70.001,68.455,AlphaTauri,7.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2021,Australian GP,10.0,1.177,70.228,68.405,Alpine,14.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Australian GP,9.0,1.0676,69.667,68.146,AlphaTauri,6.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2021,Australian GP,20.0,,,,Alpine,17.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2021,Australian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Australian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Australian GP,13.0,1.1497,70.181,68.659,Aston Martin,9.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,Australian GP,18.0,1.0101,83.685,81.677,Red Bull Racing,2.0,,1.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Australian GP,4.0,1.8537,83.559,81.886,Mercedes,5.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Australian GP,5.0,1.4975,84.171,82.248,McLaren,4.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Australian GP,1.0,1.2885,82.595,80.26,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Australian GP,,,,,,,,,,,
+George Russell,RUS,2022,Australian GP,3.0,1.8913,83.571,81.495,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Australian GP,20.0,,,,Ferrari,9.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2022,Australian GP,15.0,1.1442,85.114,83.342,AlphaTauri,13.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2022,Australian GP,17.0,2.2678,84.92,80.846,Alpine,10.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Australian GP,9.0,1.3167,84.771,82.731,AlphaTauri,11.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Australian GP,7.0,1.5422,84.381,82.469,Alpine,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Australian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Australian GP,10.0,3.0046,84.874,82.589,Williams,20.0,,0.0,1.0,1.0,0.0
+Liam Lawson,LAW,2022,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Australian GP,12.0,1.5759,85.2,83.592,Aston Martin,19.0,,0.0,3.0,1.0,2.0
+Max Verstappen,VER,2023,Australian GP,1.0,1.4458,81.947,80.342,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Australian GP,2.0,38.4287,83.007,80.613,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2023,Australian GP,6.0,2.5615,82.68,81.173,McLaren,13.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,Australian GP,20.0,,,,Ferrari,7.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2023,Australian GP,8.0,2.865,83.086,81.335,McLaren,16.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2023,Australian GP,18.0,12.3557,84.86,82.68,Mercedes,2.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Australian GP,12.0,2.4089,82.247,80.467,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Australian GP,10.0,1.9595,83.536,81.789,AlphaTauri,12.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2023,Australian GP,3.0,1.9234,82.232,80.476,Aston Martin,4.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,Australian GP,13.0,2.0003,82.439,80.995,Alpine,9.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,Australian GP,14.0,3.5573,82.8,81.203,Alpine,11.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2023,Australian GP,7.0,2.1064,82.744,81.124,Haas F1 Team,10.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2023,Australian GP,19.0,0.1682,83.772,83.349,Williams,8.0,,1.0,1.0,1.0,0.0
+Liam Lawson,LAW,2023,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Australian GP,4.0,2.344,82.447,80.934,Aston Martin,6.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Australian GP,19.0,0.2421,83.607,83.115,Red Bull Racing,1.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2024,Australian GP,18.0,0.2787,83.22,82.444,Mercedes,11.0,,1.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Australian GP,3.0,0.9163,81.552,79.915,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Australian GP,2.0,0.8151,81.491,79.813,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2024,Australian GP,4.0,1.0714,81.799,80.199,McLaren,5.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Australian GP,17.0,0.8936,82.37,80.284,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Australian GP,1.0,0.5892,81.458,80.031,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Australian GP,7.0,0.6284,82.609,81.134,RB,8.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2024,Australian GP,8.0,1.0019,82.432,80.493,Aston Martin,10.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2024,Australian GP,13.0,1.3846,83.146,81.09,Alpine,17.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2024,Australian GP,16.0,0.6648,82.897,81.354,Alpine,15.0,,1.0,4.0,2.0,3.0
+Nico Hülkenberg,HUL,2024,Australian GP,9.0,0.9893,82.864,81.145,Haas F1 Team,16.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Australian GP,11.0,0.579,82.969,81.618,Williams,12.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Australian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Australian GP,6.0,0.8382,82.541,80.93,Aston Martin,9.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Las_vegas GP,2.0,1.0456,96.198,94.275,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Las_vegas GP,1.0,0.7943,96.102,94.509,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Las_vegas GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Las_vegas GP,10.0,2.0213,98.084,95.977,Sauber,8.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Las_vegas GP,,,,,,,,,,,
+George Russell,RUS,2018,Las_vegas GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Las_vegas GP,8.0,1.7347,97.902,95.638,Renault,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Las_vegas GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Las_vegas GP,16.0,4.044,99.55,95.133,McLaren,16.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Las_vegas GP,20.0,,,,Toro Rosso,14.0,,1.0,0.0,0.0,-1.0
+Esteban Ocon,OCO,2018,Las_vegas GP,19.0,,,,Force India,11.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2018,Las_vegas GP,9.0,1.8366,97.995,95.873,Renault,12.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Las_vegas GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Las_vegas GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Las_vegas GP,17.0,1.0986,99.801,98.319,Williams,19.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2019,Las_vegas GP,4.0,0.7748,95.463,94.162,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Las_vegas GP,1.0,0.731,94.894,92.764,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Las_vegas GP,9.0,1.2611,96.857,95.197,McLaren,5.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Las_vegas GP,3.0,0.835,95.193,93.828,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Las_vegas GP,,,,,,,,,,,
+George Russell,RUS,2019,Las_vegas GP,19.0,2.1523,98.604,95.83,Williams,20.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2019,Las_vegas GP,6.0,1.0777,96.659,94.561,McLaren,6.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Las_vegas GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Las_vegas GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Las_vegas GP,10.0,1.0297,96.932,95.15,Red Bull Racing,9.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Las_vegas GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Las_vegas GP,8.0,1.5612,96.832,94.754,Renault,13.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Las_vegas GP,15.0,1.5461,97.248,95.029,Toro Rosso,11.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Las_vegas GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Las_vegas GP,13.0,1.5379,96.994,94.924,Racing Point,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Las_vegas GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Las_vegas GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Las_vegas GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Las_vegas GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Las_vegas GP,,,,,,,,,,,
+George Russell,RUS,2020,Las_vegas GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2020,Las_vegas GP,20.0,,,,McLaren,7.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2020,Las_vegas GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Las_vegas GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Las_vegas GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Las_vegas GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Las_vegas GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Las_vegas GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Las_vegas GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Las_vegas GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Las_vegas GP,1.0,1.0891,98.003,96.404,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Las_vegas GP,2.0,0.4728,98.465,97.41,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2021,Las_vegas GP,5.0,1.7201,99.493,97.425,McLaren,8.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Las_vegas GP,16.0,1.4049,100.202,97.681,Ferrari,7.0,,1.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2021,Las_vegas GP,,,,,,,,,,,
+George Russell,RUS,2021,Las_vegas GP,12.0,1.3462,100.335,98.314,Williams,14.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Las_vegas GP,11.0,0.627,100.249,98.931,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Las_vegas GP,13.0,0.8581,100.336,98.98,AlphaTauri,0.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Las_vegas GP,8.0,1.7347,99.784,97.646,Alpine,9.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Las_vegas GP,7.0,1.1184,99.779,98.103,AlphaTauri,6.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,Las_vegas GP,14.0,1.5916,100.451,98.645,Alpine,11.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Las_vegas GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Las_vegas GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Las_vegas GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Las_vegas GP,10.0,1.5363,99.995,97.828,Aston Martin,19.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Las_vegas GP,7.0,0.6675,94.015,92.354,Red Bull Racing,2.0,,0.0,4.0,3.0,3.0
+Lewis Hamilton,HAM,2022,Las_vegas GP,3.0,63.1003,93.887,90.51,Mercedes,5.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2022,Las_vegas GP,6.0,47.8753,94.734,91.645,McLaren,6.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2022,Las_vegas GP,4.0,73.1336,94.029,91.282,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Las_vegas GP,,,,,,,,,,,
+George Russell,RUS,2022,Las_vegas GP,18.0,,,,Mercedes,8.0,,1.0,0.0,0.0,-1.0
+Carlos Sainz,SAI,2022,Las_vegas GP,1.0,0.9911,92.654,90.813,Ferrari,1.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2022,Las_vegas GP,14.0,27.6005,96.428,93.832,AlphaTauri,13.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2022,Las_vegas GP,5.0,43.4564,94.632,91.609,Alpine,7.0,,0.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2022,Las_vegas GP,16.0,61.8663,97.458,94.614,AlphaTauri,11.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Las_vegas GP,15.0,27.8398,95.788,93.537,Alpine,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Las_vegas GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Las_vegas GP,20.0,,,,Williams,16.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2022,Las_vegas GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Las_vegas GP,11.0,11.6892,95.225,92.379,Aston Martin,20.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Las_vegas GP,1.0,2.3569,97.676,95.614,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Las_vegas GP,7.0,3.0341,98.446,95.716,Mercedes,10.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Las_vegas GP,20.0,,,,McLaren,15.0,,1.0,0.0,0.0,-1.0
+Charles Leclerc,LEC,2023,Las_vegas GP,2.0,2.1496,97.782,95.669,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Las_vegas GP,10.0,2.6197,98.107,95.49,McLaren,18.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Las_vegas GP,8.0,2.2414,98.257,96.071,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Las_vegas GP,6.0,3.3436,98.71,95.984,Ferrari,12.0,,0.0,2.0,1.0,1.0
+Yuki Tsunoda,TSU,2023,Las_vegas GP,18.0,2.2402,100.034,97.587,AlphaTauri,20.0,,0.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2023,Las_vegas GP,9.0,2.9968,98.943,96.559,Aston Martin,9.0,,0.0,2.0,1.0,1.0
+Pierre Gasly,GAS,2023,Las_vegas GP,11.0,1.2027,98.765,96.913,Alpine,4.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,Las_vegas GP,4.0,2.304,98.329,96.637,Alpine,16.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Las_vegas GP,19.0,1.9554,99.469,97.565,Haas F1 Team,13.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Las_vegas GP,12.0,1.0762,99.045,97.357,Williams,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Las_vegas GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Las_vegas GP,5.0,2.8583,98.575,96.584,Aston Martin,19.0,,0.0,2.0,1.0,1.0
+Max Verstappen,VER,2024,Las_vegas GP,5.0,0.9555,97.77,96.248,Red Bull Racing,5.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Las_vegas GP,2.0,2.0309,97.602,95.48,Mercedes,10.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Las_vegas GP,6.0,1.9812,98.026,95.527,McLaren,6.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Las_vegas GP,4.0,1.846,97.785,95.674,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2024,Las_vegas GP,7.0,1.1773,98.345,96.598,McLaren,8.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Las_vegas GP,1.0,0.6993,97.591,95.946,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Las_vegas GP,3.0,1.5492,97.613,95.875,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Las_vegas GP,9.0,1.1734,98.659,96.957,RB,7.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2024,Las_vegas GP,11.0,1.341,98.723,96.553,Aston Martin,16.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2024,Las_vegas GP,20.0,1.002,99.768,98.314,Alpine,3.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Las_vegas GP,17.0,0.8395,99.147,96.511,Alpine,11.0,,1.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2024,Las_vegas GP,8.0,1.6165,98.59,96.585,Haas F1 Team,9.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Las_vegas GP,19.0,1.078,99.434,98.008,Williams,17.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Las_vegas GP,16.0,1.2603,99.223,97.033,RB,14.0,,0.0,3.0,2.0,2.0
+Lance Stroll,STR,2024,Las_vegas GP,15.0,1.1914,98.685,97.179,Aston Martin,18.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Monaco GP,9.0,2.4665,78.572,74.26,Red Bull Racing,20.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Monaco GP,3.0,0.7632,78.588,76.27,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Monaco GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Monaco GP,18.0,0.641,79.165,77.71,Sauber,14.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Monaco GP,,,,,,,,,,,
+George Russell,RUS,2018,Monaco GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Monaco GP,10.0,0.6366,79.221,77.491,Renault,8.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Monaco GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Monaco GP,20.0,0.8133,79.111,77.018,McLaren,7.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Monaco GP,7.0,0.8747,78.595,77.099,Toro Rosso,10.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Monaco GP,6.0,0.583,78.581,77.027,Force India,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Monaco GP,8.0,1.2797,78.606,76.061,Renault,11.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Monaco GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Monaco GP,17.0,3.7297,79.004,74.944,Williams,17.0,,1.0,4.0,3.0,3.0
+Max Verstappen,VER,2019,Monaco GP,4.0,0.59,77.642,76.229,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Monaco GP,1.0,0.5787,77.633,76.167,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Monaco GP,11.0,2.4216,78.689,76.413,McLaren,12.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Monaco GP,20.0,55.5256,82.85,79.151,Ferrari,15.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Monaco GP,,,,,,,,,,,
+George Russell,RUS,2019,Monaco GP,15.0,5.9001,79.39,77.038,Williams,19.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Monaco GP,6.0,0.8549,78.448,75.891,McLaren,9.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Monaco GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Monaco GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Monaco GP,5.0,2.391,77.515,74.279,Red Bull Racing,8.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2019,Monaco GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Monaco GP,13.0,5.6868,79.082,76.276,Renault,11.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Monaco GP,8.0,1.2256,78.464,75.607,Toro Rosso,10.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Monaco GP,16.0,3.0142,79.309,76.379,Racing Point,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Monaco GP,17.0,79.4692,88.243,85.539,Red Bull Racing,5.0,,1.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2020,Monaco GP,7.0,0.6352,84.4,82.746,Mercedes,1.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2020,Monaco GP,4.0,54.6439,86.291,84.232,McLaren,6.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2020,Monaco GP,18.0,0.1655,86.646,86.026,Ferrari,13.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Monaco GP,,,,,,,,,,,
+George Russell,RUS,2020,Monaco GP,14.0,28.9738,87.019,84.421,Williams,19.0,,0.0,2.0,1.0,1.0
+Carlos Sainz,SAI,2020,Monaco GP,2.0,51.9465,86.074,83.882,McLaren,3.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2020,Monaco GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Monaco GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Monaco GP,1.0,68.2024,86.481,84.037,AlphaTauri,10.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2020,Monaco GP,8.0,33.2079,86.403,84.49,Renault,12.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2020,Monaco GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Monaco GP,15.0,27.1686,86.846,84.926,Red Bull Racing,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Monaco GP,3.0,0.8197,85.197,83.897,Racing Point,8.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Monaco GP,1.0,0.5474,75.758,74.649,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2021,Monaco GP,7.0,1.1428,76.387,72.909,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Monaco GP,3.0,0.6245,75.943,74.67,McLaren,5.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Monaco GP,20.0,,,,Ferrari,1.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2021,Monaco GP,,,,,,,,,,,
+George Russell,RUS,2021,Monaco GP,14.0,2.0381,77.432,75.539,Williams,15.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Monaco GP,2.0,0.6279,75.829,74.621,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Monaco GP,16.0,2.2398,77.589,74.037,AlphaTauri,16.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Monaco GP,13.0,1.7573,77.219,75.026,Alpine,17.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Monaco GP,6.0,0.4851,76.367,75.412,AlphaTauri,6.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,Monaco GP,9.0,1.1993,77.23,75.316,Alpine,11.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Monaco GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Monaco GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Monaco GP,8.0,1.2653,76.739,74.674,Aston Martin,13.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Monaco GP,3.0,102.5269,84.798,76.052,Red Bull Racing,4.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2022,Monaco GP,8.0,91.7542,85.781,77.203,Mercedes,8.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2022,Monaco GP,6.0,109.8197,84.895,74.693,McLaren,5.0,,0.0,4.0,3.0,3.0
+Charles Leclerc,LEC,2022,Monaco GP,4.0,96.1057,84.704,76.249,Ferrari,1.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,Monaco GP,,,,,,,,,,,
+George Russell,RUS,2022,Monaco GP,5.0,100.3924,85.029,76.83,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Monaco GP,2.0,101.3503,85.385,76.421,Ferrari,2.0,,0.0,2.0,1.0,1.0
+Yuki Tsunoda,TSU,2022,Monaco GP,17.0,85.2546,86.806,75.334,AlphaTauri,11.0,,1.0,4.0,4.0,3.0
+Fernando Alonso,ALO,2022,Monaco GP,7.0,91.3344,86.25,75.882,Alpine,7.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Monaco GP,11.0,78.2455,85.736,77.344,AlphaTauri,17.0,,0.0,2.0,1.0,1.0
+Esteban Ocon,OCO,2022,Monaco GP,12.0,97.1918,86.559,77.571,Alpine,10.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Monaco GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Monaco GP,18.0,116.0479,89.154,78.023,Williams,16.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Monaco GP,14.0,71.216,85.757,77.672,Aston Martin,18.0,,0.0,2.0,1.0,1.0
+Max Verstappen,VER,2023,Monaco GP,1.0,72.2669,82.814,76.604,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Monaco GP,4.0,78.0526,83.481,75.65,Mercedes,5.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2023,Monaco GP,9.0,57.2433,83.425,77.844,McLaren,10.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2023,Monaco GP,6.0,74.9745,83.527,75.773,Ferrari,6.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2023,Monaco GP,10.0,63.6735,83.752,77.513,McLaren,11.0,,1.0,2.0,2.0,1.0
+George Russell,RUS,2023,Monaco GP,5.0,72.3228,83.46,76.798,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Monaco GP,8.0,76.2175,83.485,76.449,Ferrari,4.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2023,Monaco GP,15.0,121.1173,85.226,77.68,AlphaTauri,9.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2023,Monaco GP,2.0,64.1017,82.437,76.674,Aston Martin,2.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,Monaco GP,7.0,76.0616,83.312,75.831,Alpine,7.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2023,Monaco GP,3.0,79.2976,83.467,76.528,Alpine,3.0,,0.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2023,Monaco GP,17.0,69.7027,84.349,76.991,Haas F1 Team,18.0,,1.0,3.0,3.0,2.0
+Alex Albon,ALB,2023,Monaco GP,14.0,81.6691,84.614,76.672,Williams,13.0,,1.0,3.0,3.0,2.0
+Liam Lawson,LAW,2023,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Monaco GP,20.0,6.485,79.704,77.769,Aston Martin,14.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Monaco GP,6.0,5.5888,78.384,74.569,Red Bull Racing,6.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Monaco GP,7.0,6.3658,78.385,74.165,Mercedes,7.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Monaco GP,4.0,2.8408,78.549,75.742,McLaren,4.0,,0.0,1.0,1.0,0.0
+Charles Leclerc,LEC,2024,Monaco GP,1.0,2.847,78.439,75.162,Ferrari,1.0,,0.0,1.0,1.0,0.0
+Oscar Piastri,PIA,2024,Monaco GP,2.0,2.4924,78.524,76.281,McLaren,2.0,,0.0,1.0,1.0,0.0
+George Russell,RUS,2024,Monaco GP,5.0,4.3844,78.59,75.228,Mercedes,5.0,,0.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2024,Monaco GP,3.0,3.0549,78.523,74.726,Ferrari,3.0,,0.0,1.0,1.0,0.0
+Yuki Tsunoda,TSU,2024,Monaco GP,8.0,4.3025,79.975,74.72,RB,8.0,,1.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2024,Monaco GP,11.0,2.9968,80.524,77.939,Aston Martin,14.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2024,Monaco GP,10.0,3.0875,80.246,75.625,Alpine,10.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2024,Monaco GP,17.0,,,,Alpine,11.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2024,Monaco GP,19.0,,,,Haas F1 Team,19.0,,1.0,0.0,0.0,-1.0
+Alex Albon,ALB,2024,Monaco GP,9.0,2.975,80.167,77.06,Williams,9.0,,1.0,1.0,1.0,0.0
+Liam Lawson,LAW,2024,Monaco GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Monaco GP,14.0,3.7575,79.942,76.71,Aston Martin,13.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2018,Saudi Aarabian GP,6.0,2.6299,88.976,86.88,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Saudi Aarabian GP,2.0,0.8269,87.818,86.444,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Saudi Aarabian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Saudi Aarabian GP,13.0,2.2098,90.35,88.759,Sauber,18.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2018,Saudi Aarabian GP,,,,,,,,,,,
+George Russell,RUS,2018,Saudi Aarabian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Saudi Aarabian GP,10.0,1.4108,89.357,87.944,Renault,9.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Saudi Aarabian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Saudi Aarabian GP,5.0,1.7478,89.02,86.978,McLaren,10.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Saudi Aarabian GP,18.0,5.0,91.997,90.649,Toro Rosso,20.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2018,Saudi Aarabian GP,12.0,2.0965,89.874,87.6,Force India,14.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Saudi Aarabian GP,7.0,1.6771,89.073,87.081,Renault,7.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Saudi Aarabian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Saudi Aarabian GP,14.0,1.2762,90.46,88.511,Williams,13.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Saudi Aarabian GP,3.0,0.8918,88.253,86.256,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Saudi Aarabian GP,2.0,0.6363,88.211,86.057,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Saudi Aarabian GP,12.0,1.0108,90.191,88.555,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Saudi Aarabian GP,5.0,1.2874,88.842,86.926,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Saudi Aarabian GP,,,,,,,,,,,
+George Russell,RUS,2019,Saudi Aarabian GP,16.0,1.8539,91.305,88.713,Williams,19.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2019,Saudi Aarabian GP,20.0,0.1784,91.466,90.899,McLaren,18.0,,1.0,1.0,1.0,0.0
+Yuki Tsunoda,TSU,2019,Saudi Aarabian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Saudi Aarabian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Saudi Aarabian GP,11.0,1.4795,89.429,87.229,Red Bull Racing,17.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Saudi Aarabian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Saudi Aarabian GP,7.0,0.7338,89.458,88.444,Renault,11.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Saudi Aarabian GP,14.0,1.2175,90.217,88.188,Toro Rosso,13.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Saudi Aarabian GP,9.0,1.2455,89.448,87.568,Racing Point,16.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Saudi Aarabian GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2020,Saudi Aarabian GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Saudi Aarabian GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Saudi Aarabian GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Saudi Aarabian GP,,,,,,,,,,,
+George Russell,RUS,2020,Saudi Aarabian GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,Saudi Aarabian GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Saudi Aarabian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Saudi Aarabian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Saudi Aarabian GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Saudi Aarabian GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2020,Saudi Aarabian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Saudi Aarabian GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2020,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Saudi Aarabian GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2021,Saudi Aarabian GP,2.0,1.0364,92.896,91.488,Red Bull Racing,3.0,,0.0,2.0,1.0,1.0
+Lewis Hamilton,HAM,2021,Saudi Aarabian GP,1.0,1.9211,92.588,90.734,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2021,Saudi Aarabian GP,10.0,23.9749,94.729,91.914,McLaren,7.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Saudi Aarabian GP,7.0,83.4504,94.929,91.601,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Saudi Aarabian GP,,,,,,,,,,,
+George Russell,RUS,2021,Saudi Aarabian GP,19.0,1.4216,97.156,96.13,Williams,14.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2021,Saudi Aarabian GP,8.0,75.8646,95.31,91.851,Ferrari,15.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Saudi Aarabian GP,14.0,42.4796,95.279,92.506,AlphaTauri,8.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2021,Saudi Aarabian GP,13.0,44.4995,96.423,91.633,Alpine,13.0,,1.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2021,Saudi Aarabian GP,6.0,82.68,95.585,92.297,AlphaTauri,6.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,Saudi Aarabian GP,4.0,1.6619,93.652,91.797,Alpine,9.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Saudi Aarabian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Saudi Aarabian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Saudi Aarabian GP,11.0,30.4985,95.622,92.804,Aston Martin,18.0,,0.0,2.0,1.0,1.0
+Max Verstappen,VER,2022,Saudi Aarabian GP,1.0,1.3824,93.654,91.772,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Saudi Aarabian GP,10.0,2.4005,95.39,92.997,Mercedes,15.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Saudi Aarabian GP,7.0,2.7522,95.593,92.753,McLaren,11.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Saudi Aarabian GP,2.0,1.1531,93.634,91.634,Ferrari,2.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Saudi Aarabian GP,,,,,,,,,,,
+George Russell,RUS,2022,Saudi Aarabian GP,5.0,1.3966,94.609,92.821,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Saudi Aarabian GP,3.0,1.4703,93.795,91.905,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Saudi Aarabian GP,19.0,,,,AlphaTauri,19.0,,1.0,,,
+Fernando Alonso,ALO,2022,Saudi Aarabian GP,16.0,1.3764,95.874,93.831,Alpine,7.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Saudi Aarabian GP,8.0,2.2257,95.729,93.468,AlphaTauri,9.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Saudi Aarabian GP,6.0,2.064,95.408,93.103,Alpine,5.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Saudi Aarabian GP,12.0,1.8097,96.268,93.651,Aston Martin,17.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2022,Saudi Aarabian GP,14.0,2.2208,96.492,94.368,Williams,16.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2022,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Saudi Aarabian GP,13.0,19.4116,97.22,94.446,Aston Martin,13.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2023,Saudi Aarabian GP,2.0,2.1881,93.842,91.906,Red Bull Racing,15.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Saudi Aarabian GP,5.0,1.6593,94.633,92.941,Mercedes,7.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2023,Saudi Aarabian GP,17.0,0.7194,95.723,94.122,McLaren,19.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,Saudi Aarabian GP,7.0,1.2841,94.704,93.056,Ferrari,12.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Saudi Aarabian GP,15.0,0.8829,95.665,94.287,McLaren,8.0,,0.0,1.0,1.0,0.0
+George Russell,RUS,2023,Saudi Aarabian GP,4.0,1.1064,94.279,92.433,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Saudi Aarabian GP,6.0,1.2478,94.526,92.822,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Saudi Aarabian GP,11.0,1.2417,95.512,93.931,AlphaTauri,16.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2023,Saudi Aarabian GP,3.0,0.9116,94.036,92.24,Aston Martin,2.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,Saudi Aarabian GP,9.0,1.3272,95.105,93.392,Alpine,9.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,Saudi Aarabian GP,8.0,1.1901,95.06,93.222,Alpine,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Saudi Aarabian GP,12.0,1.2216,95.5,93.78,Haas F1 Team,10.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2023,Saudi Aarabian GP,19.0,0.8567,96.763,95.567,Williams,17.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Saudi Aarabian GP,20.0,0.1847,95.727,95.14,Aston Martin,5.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Saudi Aarabian GP,1.0,0.3753,92.934,91.773,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Saudi Aarabian GP,9.0,1.2074,93.713,91.746,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Saudi Aarabian GP,8.0,0.8843,93.561,91.944,McLaren,6.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Saudi Aarabian GP,3.0,0.805,93.377,91.632,Ferrari,2.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Saudi Aarabian GP,4.0,0.833,93.634,92.31,McLaren,5.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,Saudi Aarabian GP,6.0,1.2273,93.911,92.254,Mercedes,7.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Saudi Aarabian GP,,,,,,,,,,,
+Yuki Tsunoda,TSU,2024,Saudi Aarabian GP,15.0,1.4657,95.254,93.523,RB,9.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Saudi Aarabian GP,5.0,1.0483,93.769,92.387,Aston Martin,4.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,Saudi Aarabian GP,20.0,,,,Alpine,18.0,,1.0,0.0,0.0,-1.0
+Esteban Ocon,OCO,2024,Saudi Aarabian GP,13.0,1.7346,95.335,93.481,Alpine,17.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Saudi Aarabian GP,10.0,1.9484,94.347,92.366,Haas F1 Team,15.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Saudi Aarabian GP,11.0,1.9209,94.874,92.307,Williams,12.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Saudi Aarabian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Saudi Aarabian GP,19.0,0.0371,95.795,95.56,Aston Martin,10.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2018,Japanese GP,3.0,0.5959,94.501,93.367,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Japanese GP,1.0,0.5334,94.351,92.785,Mercedes,1.0,,0.0,2.0,3.0,1.0
+Lando Norris,NOR,2018,Japanese GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Japanese GP,18.0,1.1408,97.72,94.515,Sauber,10.0,,1.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2018,Japanese GP,,,,,,,,,,,
+George Russell,RUS,2018,Japanese GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Japanese GP,10.0,1.6575,96.609,94.197,Renault,13.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Japanese GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Japanese GP,14.0,1.1293,97.327,93.943,McLaren,18.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Japanese GP,11.0,1.6456,96.886,94.133,Toro Rosso,7.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Japanese GP,9.0,1.5816,96.244,94.67,Racing Point,11.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Japanese GP,19.0,1.3664,97.763,94.934,Renault,16.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Japanese GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Japanese GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Japanese GP,17.0,3.1826,96.847,93.354,Williams,14.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2019,Japanese GP,18.0,0.0845,97.618,97.249,Red Bull Racing,5.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2019,Japanese GP,3.0,1.3968,93.648,90.983,Mercedes,4.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Japanese GP,11.0,0.8531,95.845,94.116,McLaren,8.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2019,Japanese GP,6.0,1.9391,94.749,91.611,Ferrari,2.0,,1.0,4.0,2.0,3.0
+Oscar Piastri,PIA,2019,Japanese GP,,,,,,,,,,,
+George Russell,RUS,2019,Japanese GP,16.0,1.3723,97.44,95.458,Williams,18.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Japanese GP,5.0,1.28,95.132,93.563,McLaren,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Japanese GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Japanese GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Japanese GP,7.0,0.5362,96.169,95.321,Toro Rosso,9.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Japanese GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Japanese GP,20.0,0.6597,96.167,94.921,Renault,15.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Japanese GP,4.0,1.1217,94.591,92.775,Red Bull Racing,6.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2019,Japanese GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Japanese GP,9.0,0.4404,96.205,94.713,Racing Point,12.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Japanese GP,2.0,0.9501,83.07,81.477,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2020,Japanese GP,1.0,1.4045,82.67,79.822,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Japanese GP,10.0,1.1232,84.532,82.392,McLaren,8.0,,1.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2020,Japanese GP,20.0,64.9667,86.989,83.968,Ferrari,9.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Japanese GP,,,,,,,,,,,
+George Russell,RUS,2020,Japanese GP,17.0,0.9984,85.096,82.503,Williams,18.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2020,Japanese GP,6.0,1.2501,84.297,81.771,McLaren,7.0,,1.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2020,Japanese GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Japanese GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Japanese GP,9.0,1.0856,84.513,82.543,AlphaTauri,10.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Japanese GP,13.0,1.5771,84.976,82.174,Renault,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Japanese GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Japanese GP,8.0,1.0573,84.541,82.194,Red Bull Racing,6.0,,1.0,3.0,3.0,2.0
+Liam Lawson,LAW,2020,Japanese GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Japanese GP,4.0,1.2902,84.252,82.024,Racing Point,5.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2021,Japanese GP,2.0,1.0604,82.374,78.149,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Japanese GP,1.0,1.0969,82.197,80.665,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Japanese GP,8.0,1.4147,84.117,81.279,McLaren,9.0,,1.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2021,Japanese GP,4.0,0.9837,83.163,80.459,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2021,Japanese GP,,,,,,,,,,,
+George Russell,RUS,2021,Japanese GP,14.0,1.4912,85.158,83.208,Williams,15.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2021,Japanese GP,7.0,1.5731,83.541,81.568,Ferrari,6.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2021,Japanese GP,20.0,1.1153,86.127,84.825,AlphaTauri,16.0,,1.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2021,Japanese GP,17.0,1.0757,84.706,81.182,Alpine,10.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2021,Japanese GP,10.0,2.1262,84.185,81.375,AlphaTauri,12.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2021,Japanese GP,9.0,0.8227,84.667,83.311,Alpine,5.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Japanese GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Japanese GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Japanese GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Japanese GP,11.0,1.0697,84.417,82.607,Aston Martin,11.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,Japanese GP,1.0,1.8407,107.25,104.911,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Japanese GP,5.0,3.1508,108.834,105.53,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Japanese GP,10.0,0.4433,109.709,108.175,McLaren,10.0,,0.0,1.0,1.0,0.0
+Charles Leclerc,LEC,2022,Japanese GP,3.0,2.4528,108.406,104.489,Ferrari,2.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Japanese GP,,,,,,,,,,,
+George Russell,RUS,2022,Japanese GP,8.0,4.0279,108.854,107.004,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Japanese GP,19.0,,,,Ferrari,3.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2022,Japanese GP,13.0,6.8484,109.235,105.893,AlphaTauri,13.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2022,Japanese GP,7.0,7.5422,108.255,104.412,Alpine,7.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Japanese GP,18.0,6.5115,109.457,105.387,AlphaTauri,17.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2022,Japanese GP,4.0,2.4099,108.868,106.559,Alpine,5.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Japanese GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Japanese GP,20.0,,,,Williams,16.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2022,Japanese GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Japanese GP,12.0,8.5356,109.214,105.205,Aston Martin,19.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Japanese GP,1.0,1.0385,97.217,94.183,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Japanese GP,5.0,1.0375,98.218,95.611,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Japanese GP,2.0,1.209,97.525,95.247,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Japanese GP,4.0,0.8076,98.209,96.362,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Japanese GP,3.0,0.8994,98.106,96.328,McLaren,2.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Japanese GP,7.0,0.5596,98.888,97.653,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Japanese GP,6.0,1.0506,98.303,96.187,Ferrari,6.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,Japanese GP,12.0,1.2269,99.342,97.768,AlphaTauri,9.0,,1.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2023,Japanese GP,8.0,0.9996,98.744,97.203,Aston Martin,10.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Japanese GP,10.0,2.1148,98.786,96.371,Alpine,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Japanese GP,9.0,1.6019,99.211,97.398,Alpine,14.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2023,Japanese GP,14.0,1.1371,98.824,97.25,Haas F1 Team,18.0,,1.0,4.0,3.0,3.0
+Alex Albon,ALB,2023,Japanese GP,16.0,0.5535,100.49,99.185,Williams,13.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Japanese GP,11.0,0.799,99.27,98.267,AlphaTauri,11.0,,1.0,3.0,3.0,2.0
+Lance Stroll,STR,2023,Japanese GP,18.0,0.1923,99.91,99.05,Aston Martin,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Japanese GP,1.0,1.3668,96.028,93.706,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Japanese GP,9.0,3.3211,97.056,93.952,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Japanese GP,5.0,0.7572,96.528,95.186,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Japanese GP,4.0,1.4479,96.918,95.044,Ferrari,8.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Japanese GP,8.0,1.3742,96.903,94.802,McLaren,6.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Japanese GP,7.0,2.6222,96.938,94.404,Mercedes,9.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Japanese GP,3.0,1.8719,96.43,93.841,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Japanese GP,10.0,1.0491,97.916,96.342,RB,10.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2024,Japanese GP,6.0,1.1899,96.91,94.726,Aston Martin,5.0,,0.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2024,Japanese GP,16.0,35.3966,99.824,96.642,Alpine,17.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2024,Japanese GP,15.0,38.857,99.645,96.232,Alpine,15.0,,1.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2024,Japanese GP,11.0,2.5476,97.916,95.325,Haas F1 Team,12.0,,1.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Japanese GP,20.0,,,,Williams,14.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2024,Japanese GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Japanese GP,12.0,1.597,97.715,95.798,Aston Martin,16.0,,1.0,4.0,3.0,3.0
+Max Verstappen,VER,2018,British GP,15.0,5.8758,94.012,92.007,Red Bull Racing,5.0,,1.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2018,British GP,2.0,1.7443,93.149,91.245,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,British GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,British GP,19.0,0.0903,95.56,95.209,Sauber,9.0,,1.0,1.0,1.0,0.0
+Oscar Piastri,PIA,2018,British GP,,,,,,,,,,,
+George Russell,RUS,2018,British GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,British GP,17.0,0.3174,95.485,94.602,Renault,16.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,British GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,British GP,8.0,0.822,95.016,93.482,McLaren,13.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2018,British GP,13.0,0.865,95.187,93.465,Toro Rosso,14.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2018,British GP,7.0,0.5587,95.059,93.606,Force India,10.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,British GP,6.0,0.5783,95.008,93.405,Renault,11.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,British GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,British GP,,,,,,,,,,,
+Lance Stroll,STR,2018,British GP,12.0,1.6417,96.239,93.869,Williams,19.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,British GP,5.0,4.5505,90.861,89.272,Red Bull Racing,4.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2019,British GP,1.0,1.1189,89.896,87.369,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,British GP,11.0,1.339,91.512,89.636,McLaren,8.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2019,British GP,3.0,1.1544,90.645,89.313,Ferrari,3.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2019,British GP,,,,,,,,,,,
+George Russell,RUS,2019,British GP,14.0,1.1029,93.22,91.013,Williams,19.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,British GP,6.0,1.4244,91.602,89.757,McLaren,13.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,British GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,British GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,British GP,4.0,1.0049,90.848,89.544,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,British GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,British GP,10.0,1.718,91.939,89.949,Renault,10.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,British GP,12.0,0.7391,91.986,90.872,Toro Rosso,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,British GP,,,,,,,,,,,
+Lance Stroll,STR,2019,British GP,13.0,2.261,91.758,89.39,Racing Point,18.0,,0.0,3.0,3.0,2.0
+Max Verstappen,VER,2020,British GP,2.0,0.8501,90.318,87.097,Red Bull Racing,3.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2020,British GP,1.0,15.7944,90.681,89.238,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,British GP,5.0,1.5076,91.474,90.058,McLaren,5.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,British GP,3.0,0.8889,91.346,89.813,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,British GP,,,,,,,,,,,
+George Russell,RUS,2020,British GP,12.0,1.8198,92.301,90.862,Williams,20.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,British GP,13.0,1.1445,91.435,89.948,McLaren,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2020,British GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,British GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,British GP,7.0,2.3217,91.802,89.603,AlphaTauri,11.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,British GP,6.0,2.0705,91.677,89.491,Renault,9.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,British GP,20.0,,,,Racing Point,13.0,,1.0,0.0,0.0,-1.0
+Alex Albon,ALB,2020,British GP,8.0,2.2223,90.625,88.689,Red Bull Racing,12.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,British GP,,,,,,,,,,,
+Lance Stroll,STR,2020,British GP,9.0,1.3319,91.922,90.475,Racing Point,6.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,British GP,20.0,,,,Red Bull Racing,1.0,,1.0,0.0,0.0,-1.0
+Lewis Hamilton,HAM,2021,British GP,1.0,1.1757,91.671,89.699,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2021,British GP,4.0,0.3848,92.453,91.42,McLaren,5.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,British GP,2.0,0.5239,92.037,90.569,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,British GP,,,,,,,,,,,
+George Russell,RUS,2021,British GP,12.0,18.6008,94.432,92.049,Williams,12.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,British GP,6.0,54.7014,93.695,91.223,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,British GP,10.0,17.2587,94.075,90.826,AlphaTauri,16.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,British GP,7.0,55.3872,94.447,91.698,Alpine,7.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,British GP,11.0,30.9426,93.973,90.266,AlphaTauri,11.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2021,British GP,9.0,39.663,94.315,92.21,Alpine,9.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,British GP,,,,,,,,,,,
+Alex Albon,ALB,2021,British GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,British GP,,,,,,,,,,,
+Lance Stroll,STR,2021,British GP,8.0,32.4806,94.242,91.992,Aston Martin,14.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,British GP,7.0,0.6675,94.015,92.354,Red Bull Racing,2.0,,0.0,4.0,3.0,3.0
+Lewis Hamilton,HAM,2022,British GP,3.0,63.1003,93.887,90.51,Mercedes,5.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2022,British GP,6.0,47.8753,94.734,91.645,McLaren,6.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2022,British GP,4.0,73.1336,94.029,91.282,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,British GP,,,,,,,,,,,
+George Russell,RUS,2022,British GP,18.0,,,,Mercedes,8.0,,1.0,0.0,0.0,-1.0
+Carlos Sainz,SAI,2022,British GP,1.0,0.9911,92.654,90.813,Ferrari,1.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2022,British GP,14.0,27.6005,96.428,93.832,AlphaTauri,13.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2022,British GP,5.0,43.4564,94.632,91.609,Alpine,7.0,,0.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2022,British GP,16.0,61.8663,97.458,94.614,AlphaTauri,11.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,British GP,15.0,27.8398,95.788,93.537,Alpine,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,British GP,,,,,,,,,,,
+Alex Albon,ALB,2022,British GP,20.0,,,,Williams,16.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2022,British GP,,,,,,,,,,,
+Lance Stroll,STR,2022,British GP,11.0,11.6892,95.225,92.379,Aston Martin,20.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,British GP,1.0,0.7044,92.064,90.275,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,British GP,3.0,0.998,92.577,90.545,Mercedes,7.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2023,British GP,2.0,0.7805,92.323,90.543,McLaren,2.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,British GP,9.0,0.5267,92.732,91.255,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,British GP,4.0,0.7378,92.421,90.85,McLaren,3.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2023,British GP,5.0,0.7532,92.576,91.124,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,British GP,10.0,0.7163,92.807,91.366,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,British GP,16.0,0.6267,93.388,92.084,AlphaTauri,16.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2023,British GP,7.0,0.7289,92.967,91.338,Aston Martin,9.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,British GP,18.0,0.7271,93.401,91.539,Alpine,10.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,British GP,20.0,0.1761,94.284,93.941,Alpine,13.0,,1.0,1.0,1.0,0.0
+Nico Hülkenberg,HUL,2023,British GP,13.0,0.8844,93.315,91.776,Haas F1 Team,11.0,,0.0,3.0,3.0,2.0
+Alex Albon,ALB,2023,British GP,8.0,0.834,93.042,91.273,Williams,8.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,British GP,,,,,,,,,,,
+Lance Stroll,STR,2023,British GP,14.0,0.9307,93.261,91.508,Aston Martin,12.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,British GP,2.0,22.7618,93.976,88.952,Red Bull Racing,4.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2024,British GP,1.0,20.4893,93.623,89.438,Mercedes,2.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2024,British GP,3.0,20.8935,93.962,89.262,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2024,British GP,14.0,33.4449,95.46,89.748,Ferrari,11.0,,1.0,4.0,3.0,3.0
+Oscar Piastri,PIA,2024,British GP,4.0,27.4507,93.948,88.748,McLaren,5.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,British GP,19.0,15.0555,94.073,91.298,Mercedes,1.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,British GP,5.0,22.8008,94.394,88.293,Ferrari,7.0,,0.0,4.0,4.0,3.0
+Yuki Tsunoda,TSU,2024,British GP,10.0,23.8083,95.242,90.229,RB,13.0,,0.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2024,British GP,8.0,25.8811,94.879,89.71,Aston Martin,10.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2024,British GP,20.0,,,,Alpine,19.0,,1.0,0.0,0.0,-1.0
+Esteban Ocon,OCO,2024,British GP,16.0,23.5194,96.487,90.875,Alpine,18.0,,1.0,4.0,3.0,3.0
+Nico Hülkenberg,HUL,2024,British GP,6.0,24.6317,95.003,89.836,Haas F1 Team,6.0,,0.0,3.0,3.0,2.0
+Alex Albon,ALB,2024,British GP,9.0,22.9465,94.53,89.718,Williams,9.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,British GP,,,,,,,,,,,
+Lance Stroll,STR,2024,British GP,7.0,27.1885,95.071,89.897,Aston Martin,8.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Italian GP,5.0,0.4789,84.57,83.609,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Italian GP,1.0,0.4697,84.362,82.497,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Italian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Italian GP,11.0,1.2997,86.111,84.504,Sauber,15.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Italian GP,,,,,,,,,,,
+George Russell,RUS,2018,Italian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Italian GP,8.0,0.6726,85.821,84.056,Renault,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Italian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Italian GP,18.0,0.4912,87.749,87.009,McLaren,13.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2018,Italian GP,14.0,1.0087,86.417,84.767,Toro Rosso,9.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Italian GP,6.0,0.6665,85.436,84.179,Racing Point,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Italian GP,13.0,0.9726,86.326,84.059,Renault,20.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Italian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Italian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Italian GP,9.0,0.7225,85.973,84.58,Williams,10.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Italian GP,8.0,0.8715,84.74,83.143,Red Bull Racing,19.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Italian GP,3.0,0.575,84.397,81.779,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Italian GP,10.0,1.8431,85.674,84.044,McLaren,16.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Italian GP,1.0,0.4971,84.168,83.009,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Italian GP,,,,,,,,,,,
+George Russell,RUS,2019,Italian GP,14.0,1.7863,86.518,84.842,Williams,14.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Italian GP,20.0,0.1787,86.131,85.637,McLaren,7.0,,1.0,1.0,1.0,0.0
+Yuki Tsunoda,TSU,2019,Italian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Italian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Italian GP,11.0,2.7625,85.878,83.885,Toro Rosso,17.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Italian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Italian GP,5.0,0.9483,85.215,83.641,Renault,6.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Italian GP,6.0,1.8491,85.033,83.364,Red Bull Racing,8.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Italian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Italian GP,12.0,5.2041,85.676,84.165,Racing Point,9.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2020,Italian GP,17.0,79.4692,88.243,85.539,Red Bull Racing,5.0,,1.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2020,Italian GP,7.0,0.6352,84.4,82.746,Mercedes,1.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2020,Italian GP,4.0,54.6439,86.291,84.232,McLaren,6.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2020,Italian GP,18.0,0.1655,86.646,86.026,Ferrari,13.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Italian GP,,,,,,,,,,,
+George Russell,RUS,2020,Italian GP,14.0,28.9738,87.019,84.421,Williams,19.0,,0.0,2.0,1.0,1.0
+Carlos Sainz,SAI,2020,Italian GP,2.0,51.9465,86.074,83.882,McLaren,3.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2020,Italian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Italian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Italian GP,1.0,68.2024,86.481,84.037,AlphaTauri,10.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2020,Italian GP,8.0,33.2079,86.403,84.49,Renault,12.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2020,Italian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Italian GP,15.0,27.1686,86.846,84.926,Red Bull Racing,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Italian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Italian GP,3.0,0.8197,85.197,83.897,Racing Point,8.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Italian GP,18.0,0.273,86.611,85.173,Red Bull Racing,1.0,,1.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2021,Italian GP,17.0,0.164,86.728,85.87,Mercedes,4.0,,1.0,1.0,1.0,0.0
+Lando Norris,NOR,2021,Italian GP,2.0,0.3809,86.27,84.971,McLaren,3.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Italian GP,4.0,0.4306,86.497,85.319,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Italian GP,,,,,,,,,,,
+George Russell,RUS,2021,Italian GP,9.0,0.6661,87.217,85.835,Williams,14.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Italian GP,6.0,0.7686,86.806,85.559,Ferrari,6.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Italian GP,20.0,,,,AlphaTauri,0.0,,1.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2021,Italian GP,8.0,0.7017,87.077,85.472,Alpine,10.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Italian GP,19.0,,,,AlphaTauri,0.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2021,Italian GP,10.0,0.6847,87.207,85.566,Alpine,12.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Italian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Italian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Italian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Italian GP,7.0,0.5657,86.987,85.853,Aston Martin,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Italian GP,1.0,0.2257,85.367,84.745,Red Bull Racing,7.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Italian GP,5.0,1.6533,86.686,84.434,Mercedes,19.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Italian GP,7.0,1.116,86.74,84.718,McLaren,3.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Italian GP,2.0,0.2994,85.391,84.336,Ferrari,1.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,Italian GP,,,,,,,,,,,
+George Russell,RUS,2022,Italian GP,3.0,0.1459,86.077,85.288,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Italian GP,4.0,1.227,86.217,84.446,Ferrari,18.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Italian GP,14.0,0.3118,87.473,86.857,AlphaTauri,20.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2022,Italian GP,19.0,0.1002,87.703,87.203,Alpine,6.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2022,Italian GP,8.0,0.2085,87.33,86.718,AlphaTauri,5.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Italian GP,11.0,0.3359,87.377,86.593,Alpine,14.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Italian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Italian GP,,,,,,,,,,,
+Liam Lawson,LAW,2022,Italian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Italian GP,18.0,0.1705,87.941,87.467,Aston Martin,12.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2023,Italian GP,1.0,0.4372,86.182,85.24,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Italian GP,6.0,0.4008,86.814,85.582,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2023,Italian GP,8.0,0.2208,87.01,86.144,McLaren,9.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,Italian GP,4.0,0.3199,86.37,85.58,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Italian GP,12.0,0.4058,86.797,85.072,McLaren,7.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Italian GP,5.0,0.1578,86.497,85.847,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Italian GP,3.0,0.348,86.371,85.501,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Italian GP,20.0,,,,AlphaTauri,11.0,,1.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2023,Italian GP,9.0,0.1885,86.955,86.105,Aston Martin,10.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,Italian GP,15.0,0.3386,87.061,85.758,Alpine,17.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Italian GP,19.0,0.4087,87.767,86.963,Alpine,18.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Italian GP,17.0,0.5264,87.319,85.894,Haas F1 Team,13.0,,1.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Italian GP,7.0,0.1609,86.991,86.389,Williams,6.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Italian GP,11.0,0.3441,86.957,85.842,AlphaTauri,12.0,,0.0,3.0,2.0,2.0
+Lance Stroll,STR,2023,Italian GP,16.0,0.8839,87.64,86.617,Aston Martin,20.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Italian GP,6.0,1.231,84.124,81.745,Red Bull Racing,7.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Italian GP,5.0,1.3713,83.897,81.512,Mercedes,6.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Italian GP,3.0,1.0522,83.579,81.432,McLaren,1.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Italian GP,1.0,0.3883,83.949,83.226,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Italian GP,2.0,0.8863,83.542,81.943,McLaren,2.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Italian GP,7.0,1.3418,83.955,82.036,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Italian GP,4.0,0.5838,84.212,83.219,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Italian GP,20.0,0.7559,87.218,86.198,RB,16.0,,1.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2024,Italian GP,11.0,1.0727,84.737,82.944,Aston Martin,11.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2024,Italian GP,15.0,0.7259,85.263,83.755,Alpine,14.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2024,Italian GP,14.0,0.669,85.765,84.343,Alpine,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Italian GP,17.0,1.2072,85.058,83.275,Haas F1 Team,10.0,,1.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Italian GP,9.0,0.5484,85.113,83.918,Williams,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Italian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Italian GP,19.0,1.5258,85.259,82.232,Aston Martin,17.0,,1.0,4.0,3.0,3.0
+Max Verstappen,VER,2018,United_States GP,2.0,0.8969,99.694,98.246,Red Bull Racing,18.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,United_States GP,3.0,1.6664,99.636,97.392,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2018,United_States GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,United_States GP,15.0,0.4721,103.115,101.982,Sauber,9.0,,1.0,2.0,1.0,1.0
+Oscar Piastri,PIA,2018,United_States GP,,,,,,,,,,,
+George Russell,RUS,2018,United_States GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,United_States GP,7.0,0.9555,101.324,99.858,Renault,11.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,United_States GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,United_States GP,18.0,,,,McLaren,13.0,,1.0,0.0,0.0,-1.0
+Pierre Gasly,GAS,2018,United_States GP,12.0,2.0537,102.353,99.646,Toro Rosso,19.0,,1.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2018,United_States GP,19.0,1.3896,101.463,99.992,Racing Point,6.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,United_States GP,6.0,0.9568,101.235,99.548,Renault,7.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,United_States GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,United_States GP,,,,,,,,,,,
+Lance Stroll,STR,2018,United_States GP,14.0,2.2095,102.688,100.433,Williams,15.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2019,United_States GP,3.0,1.129,99.995,98.214,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2019,United_States GP,2.0,1.0267,100.262,98.446,Mercedes,5.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,United_States GP,7.0,2.0913,101.406,98.074,McLaren,8.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2019,United_States GP,4.0,2.4551,100.571,96.169,Ferrari,4.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2019,United_States GP,,,,,,,,,,,
+George Russell,RUS,2019,United_States GP,17.0,2.3461,103.817,101.239,Williams,18.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2019,United_States GP,8.0,1.3034,102.12,100.844,McLaren,7.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,United_States GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,United_States GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,United_States GP,16.0,1.1812,102.281,100.85,Toro Rosso,10.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,United_States GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,United_States GP,9.0,2.983,101.838,98.437,Renault,11.0,,1.0,3.0,3.0,2.0
+Alex Albon,ALB,2019,United_States GP,5.0,1.9748,100.597,98.029,Red Bull Racing,6.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2019,United_States GP,,,,,,,,,,,
+Lance Stroll,STR,2019,United_States GP,13.0,1.2533,102.252,100.38,Racing Point,14.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2020,United_States GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2020,United_States GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0.0,4.0,3.0,3.0
+Lando Norris,NOR,2020,United_States GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,United_States GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,United_States GP,,,,,,,,,,,
+George Russell,RUS,2020,United_States GP,18.0,11.488,83.108,79.984,Williams,12.0,,1.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2020,United_States GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,United_States GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,United_States GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,United_States GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,United_States GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2020,United_States GP,,,,,,,,,,,
+Alex Albon,ALB,2020,United_States GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0.0,3.0,3.0,2.0
+Liam Lawson,LAW,2020,United_States GP,,,,,,,,,,,
+Lance Stroll,STR,2020,United_States GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2021,United_States GP,1.0,0.5824,100.427,99.096,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,United_States GP,2.0,1.0218,100.421,98.485,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,United_States GP,8.0,1.2398,101.821,100.228,McLaren,7.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2021,United_States GP,4.0,1.0427,101.3,99.303,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2021,United_States GP,,,,,,,,,,,
+George Russell,RUS,2021,United_States GP,14.0,1.6388,103.316,101.12,Williams,20.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2021,United_States GP,7.0,1.0432,101.854,100.377,Ferrari,5.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2021,United_States GP,9.0,1.0661,102.748,101.151,AlphaTauri,10.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2021,United_States GP,18.0,2.9952,102.742,100.067,Alpine,19.0,,1.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2021,United_States GP,20.0,1.7791,104.205,102.015,AlphaTauri,8.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,United_States GP,19.0,0.9307,103.63,102.194,Alpine,11.0,,1.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2021,United_States GP,,,,,,,,,,,
+Alex Albon,ALB,2021,United_States GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,United_States GP,,,,,,,,,,,
+Lance Stroll,STR,2021,United_States GP,12.0,1.637,103.202,101.189,Aston Martin,13.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,United_States GP,1.0,1.0725,101.23,99.541,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,United_States GP,2.0,0.96,101.586,99.83,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2022,United_States GP,6.0,1.3846,103.109,101.322,McLaren,6.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2022,United_States GP,3.0,1.757,101.881,99.731,Ferrari,12.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,United_States GP,,,,,,,,,,,
+George Russell,RUS,2022,United_States GP,5.0,1.1575,101.987,98.788,Mercedes,4.0,,0.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2022,United_States GP,20.0,,,,Ferrari,1.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2022,United_States GP,10.0,0.8599,103.418,102.206,AlphaTauri,19.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2022,United_States GP,7.0,1.0611,103.499,101.804,Alpine,14.0,,0.0,2.0,1.0,1.0
+Pierre Gasly,GAS,2022,United_States GP,14.0,0.8553,103.265,101.674,AlphaTauri,11.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2022,United_States GP,11.0,1.621,103.588,101.243,Alpine,0.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2022,United_States GP,,,,,,,,,,,
+Alex Albon,ALB,2022,United_States GP,13.0,0.6666,103.897,102.471,Williams,8.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,United_States GP,,,,,,,,,,,
+Lance Stroll,STR,2022,United_States GP,18.0,0.5279,104.015,103.08,Aston Martin,5.0,,1.0,2.0,1.0,1.0
+Max Verstappen,VER,2023,United_States GP,1.0,0.9153,101.345,100.028,Red Bull Racing,6.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,United_States GP,19.0,1.1188,101.328,99.582,Mercedes,3.0,,1.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,United_States GP,2.0,0.722,101.603,99.985,McLaren,2.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,United_States GP,20.0,0.5979,102.162,101.025,Ferrari,1.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,United_States GP,17.0,0.1242,103.138,102.705,McLaren,10.0,,1.0,1.0,1.0,0.0
+George Russell,RUS,2023,United_States GP,5.0,1.7993,101.733,99.393,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,United_States GP,3.0,1.082,101.68,100.034,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,United_States GP,8.0,1.233,102.238,98.139,AlphaTauri,11.0,,0.0,4.0,3.0,3.0
+Fernando Alonso,ALO,2023,United_States GP,16.0,2.3056,102.44,99.954,Aston Martin,19.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,United_States GP,6.0,1.2017,102.173,100.412,Alpine,7.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,United_States GP,18.0,4.754,107.073,104.789,Alpine,8.0,,1.0,1.0,1.0,0.0
+Nico Hülkenberg,HUL,2023,United_States GP,11.0,1.316,102.752,100.925,Haas F1 Team,18.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,United_States GP,9.0,0.9038,102.851,101.371,Williams,15.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2023,United_States GP,,,,,,,,,,,
+Lance Stroll,STR,2023,United_States GP,7.0,2.3772,102.094,99.908,Aston Martin,20.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,United_States GP,3.0,0.4859,99.276,98.117,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,United_States GP,20.0,,,,Mercedes,17.0,,1.0,0.0,0.0,-1.0
+Lando Norris,NOR,2024,United_States GP,4.0,0.9932,99.195,97.679,McLaren,1.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,United_States GP,1.0,0.3908,98.941,97.834,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,United_States GP,5.0,1.2052,99.379,97.883,McLaren,5.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,United_States GP,6.0,2.4375,99.869,97.656,Mercedes,20.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,United_States GP,2.0,0.7095,99.108,97.763,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,United_States GP,14.0,0.8845,100.649,99.193,RB,10.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,United_States GP,13.0,1.0992,100.866,99.261,Aston Martin,7.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,United_States GP,12.0,0.9014,100.427,98.311,Alpine,6.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,United_States GP,18.0,1.3244,101.011,97.33,Alpine,12.0,,1.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2024,United_States GP,8.0,1.4992,100.042,98.404,Haas F1 Team,11.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,United_States GP,16.0,2.109,101.132,99.084,Williams,14.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,United_States GP,9.0,1.7797,100.227,98.091,RB,19.0,,0.0,2.0,2.0,1.0
+Lance Stroll,STR,2024,United_States GP,15.0,1.1433,100.955,99.214,Aston Martin,13.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2018,Bahrain GP,19.0,149.5484,,,Red Bull Racing,15.0,,,,,
+Lewis Hamilton,HAM,2018,Bahrain GP,3.0,35.2365,,,Mercedes,9.0,,,,,
+Lando Norris,NOR,2018,Bahrain GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Bahrain GP,12.0,44.6302,,,Sauber,19.0,,,,,
+Oscar Piastri,PIA,2018,Bahrain GP,,,,,,,,,,,
+George Russell,RUS,2018,Bahrain GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Bahrain GP,11.0,37.0604,,,Renault,10.0,,,,,
+Yuki Tsunoda,TSU,2018,Bahrain GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Bahrain GP,7.0,41.2019,,,McLaren,13.0,,,,,
+Pierre Gasly,GAS,2018,Bahrain GP,4.0,41.9992,,,Toro Rosso,5.0,,,,,
+Esteban Ocon,OCO,2018,Bahrain GP,10.0,37.7495,,,Force India,8.0,,,,,
+Nico Hülkenberg,HUL,2018,Bahrain GP,6.0,40.9204,,,Renault,7.0,,,,,
+Alex Albon,ALB,2018,Bahrain GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Bahrain GP,14.0,32.1078,,,Williams,20.0,,,,,
+Max Verstappen,VER,2019,Bahrain GP,4.0,60.8221,,,Red Bull Racing,5.0,,,,,
+Lewis Hamilton,HAM,2019,Bahrain GP,1.0,50.1895,,,Mercedes,3.0,,,,,
+Lando Norris,NOR,2019,Bahrain GP,6.0,59.7151,,,McLaren,9.0,,,,,
+Charles Leclerc,LEC,2019,Bahrain GP,3.0,63.0211,,,Ferrari,1.0,,,,,
+Oscar Piastri,PIA,2019,Bahrain GP,,,,,,,,,,,
+George Russell,RUS,2019,Bahrain GP,15.0,58.4987,,,Williams,19.0,,,,,
+Carlos Sainz,SAI,2019,Bahrain GP,19.0,68.2377,,,McLaren,7.0,,,,,
+Yuki Tsunoda,TSU,2019,Bahrain GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Bahrain GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Bahrain GP,8.0,70.3502,,,Red Bull Racing,13.0,,,,,
+Esteban Ocon,OCO,2019,Bahrain GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Bahrain GP,17.0,17.3929,,,Renault,17.0,,,,,
+Alex Albon,ALB,2019,Bahrain GP,9.0,48.1505,,,Toro Rosso,12.0,,,,,
+Liam Lawson,LAW,2019,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Bahrain GP,14.0,80.6598,,,Racing Point,18.0,,,,,
+Max Verstappen,VER,2020,Bahrain GP,2.0,268.5646,,,Red Bull Racing,3.0,,,,,
+Lewis Hamilton,HAM,2020,Bahrain GP,1.0,237.7655,,,Mercedes,1.0,,,,,
+Lando Norris,NOR,2020,Bahrain GP,4.0,251.8446,,,McLaren,9.0,,,,,
+Charles Leclerc,LEC,2020,Bahrain GP,10.0,223.2569,,,Ferrari,12.0,,,,,
+Oscar Piastri,PIA,2020,Bahrain GP,,,,,,,,,,,
+George Russell,RUS,2020,Bahrain GP,12.0,301.475,,,Williams,14.0,,,,,
+Carlos Sainz,SAI,2020,Bahrain GP,5.0,262.2657,,,McLaren,15.0,,,,,
+Yuki Tsunoda,TSU,2020,Bahrain GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Bahrain GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Bahrain GP,6.0,204.0921,,,AlphaTauri,8.0,,,,,
+Esteban Ocon,OCO,2020,Bahrain GP,9.0,220.4538,,,Renault,7.0,,,,,
+Nico Hülkenberg,HUL,2020,Bahrain GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Bahrain GP,3.0,225.0773,,,Red Bull Racing,4.0,,,,,
+Liam Lawson,LAW,2020,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Bahrain GP,19.0,,,,Racing Point,13.0,,,,,
+Max Verstappen,VER,2021,Bahrain GP,2.0,62.4922,,,Red Bull Racing,1.0,,,,,
+Lewis Hamilton,HAM,2021,Bahrain GP,1.0,64.8174,,,Mercedes,2.0,,,,,
+Lando Norris,NOR,2021,Bahrain GP,4.0,69.4709,,,McLaren,7.0,,,,,
+Charles Leclerc,LEC,2021,Bahrain GP,6.0,62.4,,,Ferrari,4.0,,,,,
+Oscar Piastri,PIA,2021,Bahrain GP,,,,,,,,,,,
+George Russell,RUS,2021,Bahrain GP,14.0,115.3718,,,Williams,15.0,,,,,
+Carlos Sainz,SAI,2021,Bahrain GP,8.0,114.8916,,,Ferrari,8.0,,,,,
+Yuki Tsunoda,TSU,2021,Bahrain GP,9.0,118.9661,,,AlphaTauri,13.0,,,,,
+Fernando Alonso,ALO,2021,Bahrain GP,19.0,102.9133,,,Alpine,9.0,,,,,
+Pierre Gasly,GAS,2021,Bahrain GP,17.0,105.6286,,,AlphaTauri,5.0,,,,,
+Esteban Ocon,OCO,2021,Bahrain GP,13.0,116.007,,,Alpine,16.0,,,,,
+Nico Hülkenberg,HUL,2021,Bahrain GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Bahrain GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Bahrain GP,10.0,113.4504,,,Aston Martin,10.0,,,,,
+Max Verstappen,VER,2022,Bahrain GP,19.0,141.0251,,,Red Bull Racing,2.0,,,,,
+Lewis Hamilton,HAM,2022,Bahrain GP,3.0,123.0381,,,Mercedes,5.0,,,,,
+Lando Norris,NOR,2022,Bahrain GP,15.0,70.9772,,,McLaren,13.0,,,,,
+Charles Leclerc,LEC,2022,Bahrain GP,1.0,102.8307,,,Ferrari,1.0,,,,,
+Oscar Piastri,PIA,2022,Bahrain GP,,,,,,,,,,,
+George Russell,RUS,2022,Bahrain GP,4.0,83.5497,,,Mercedes,9.0,,,,,
+Carlos Sainz,SAI,2022,Bahrain GP,2.0,141.8306,,,Ferrari,3.0,,,,,
+Yuki Tsunoda,TSU,2022,Bahrain GP,8.0,91.9544,,,AlphaTauri,16.0,,,,,
+Fernando Alonso,ALO,2022,Bahrain GP,9.0,68.6919,,,Alpine,8.0,,,,,
+Pierre Gasly,GAS,2022,Bahrain GP,20.0,21.6278,,,AlphaTauri,10.0,,,,,
+Esteban Ocon,OCO,2022,Bahrain GP,7.0,80.1676,,,Alpine,11.0,,,,,
+Nico Hülkenberg,HUL,2022,Bahrain GP,17.0,71.0305,,,Aston Martin,17.0,,,,,
+Alex Albon,ALB,2022,Bahrain GP,13.0,76.2294,,,Williams,14.0,,,,,
+Liam Lawson,LAW,2022,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Bahrain GP,12.0,94.119,,,Aston Martin,19.0,,,,,
+Max Verstappen,VER,2023,Bahrain GP,1.0,24.4797,,,Red Bull Racing,1.0,,,,,
+Lewis Hamilton,HAM,2023,Bahrain GP,5.0,28.8701,,,Mercedes,7.0,,,,,
+Lando Norris,NOR,2023,Bahrain GP,17.0,96.1179,,,McLaren,11.0,,,,,
+Charles Leclerc,LEC,2023,Bahrain GP,19.0,21.4727,,,Ferrari,3.0,,,,,
+Oscar Piastri,PIA,2023,Bahrain GP,20.0,33.0634,,,McLaren,18.0,,,,,
+George Russell,RUS,2023,Bahrain GP,7.0,29.9595,,,Mercedes,6.0,,,,,
+Carlos Sainz,SAI,2023,Bahrain GP,4.0,27.9372,,,Ferrari,4.0,,,,,
+Yuki Tsunoda,TSU,2023,Bahrain GP,11.0,36.6814,,,AlphaTauri,14.0,,,,,
+Fernando Alonso,ALO,2023,Bahrain GP,3.0,29.164,,,Aston Martin,5.0,,,,,
+Pierre Gasly,GAS,2023,Bahrain GP,9.0,36.983,,,Alpine,20.0,,,,,
+Esteban Ocon,OCO,2023,Bahrain GP,18.0,91.8637,,,Alpine,9.0,,,,,
+Nico Hülkenberg,HUL,2023,Bahrain GP,15.0,48.856,,,Haas F1 Team,10.0,,,,,
+Alex Albon,ALB,2023,Bahrain GP,10.0,33.3007,,,Williams,15.0,,,,,
+Liam Lawson,LAW,2023,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Bahrain GP,6.0,28.6268,,,Aston Martin,8.0,,,,,
+Max Verstappen,VER,2024,Bahrain GP,1.0,16.9879,,,Red Bull Racing,1.0,,,,,
+Lewis Hamilton,HAM,2024,Bahrain GP,7.0,16.1115,,,Mercedes,9.0,,,,,
+Lando Norris,NOR,2024,Bahrain GP,6.0,16.3239,,,McLaren,7.0,,,,,
+Charles Leclerc,LEC,2024,Bahrain GP,4.0,15.7569,,,Ferrari,2.0,,,,,
+Oscar Piastri,PIA,2024,Bahrain GP,8.0,19.0119,,,McLaren,8.0,,,,,
+George Russell,RUS,2024,Bahrain GP,5.0,16.4894,,,Mercedes,3.0,,,,,
+Carlos Sainz,SAI,2024,Bahrain GP,3.0,15.4583,,,Ferrari,4.0,,,,,
+Yuki Tsunoda,TSU,2024,Bahrain GP,14.0,16.681,,,RB,11.0,,,,,
+Fernando Alonso,ALO,2024,Bahrain GP,9.0,17.1431,,,Aston Martin,6.0,,,,,
+Pierre Gasly,GAS,2024,Bahrain GP,18.0,30.2651,,,Alpine,20.0,,,,,
+Esteban Ocon,OCO,2024,Bahrain GP,17.0,17.8349,,,Alpine,19.0,,,,,
+Nico Hülkenberg,HUL,2024,Bahrain GP,16.0,39.1431,,,Haas F1 Team,10.0,,,,,
+Alex Albon,ALB,2024,Bahrain GP,15.0,16.9152,,,Williams,13.0,,,,,
+Liam Lawson,LAW,2024,Bahrain GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Bahrain GP,10.0,17.4488,,,Aston Martin,12.0,,,,,
+Max Verstappen,VER,2018,Miami GP,5.0,0.4789,84.57,83.609,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Miami GP,1.0,0.4697,84.362,82.497,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Miami GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Miami GP,11.0,1.2997,86.111,84.504,Sauber,15.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Miami GP,,,,,,,,,,,
+George Russell,RUS,2018,Miami GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Miami GP,8.0,0.6726,85.821,84.056,Renault,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Miami GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Miami GP,18.0,0.4912,87.749,87.009,McLaren,13.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2018,Miami GP,14.0,1.0087,86.417,84.767,Toro Rosso,9.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Miami GP,6.0,0.6665,85.436,84.179,Racing Point,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Miami GP,13.0,0.9726,86.326,84.059,Renault,20.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Miami GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Miami GP,9.0,0.7225,85.973,84.58,Williams,10.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Miami GP,8.0,0.8715,84.74,83.143,Red Bull Racing,19.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Miami GP,3.0,0.575,84.397,81.779,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Miami GP,10.0,1.8431,85.674,84.044,McLaren,16.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Miami GP,1.0,0.4971,84.168,83.009,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Miami GP,,,,,,,,,,,
+George Russell,RUS,2019,Miami GP,14.0,1.7863,86.518,84.842,Williams,14.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Miami GP,20.0,0.1787,86.131,85.637,McLaren,7.0,,1.0,1.0,1.0,0.0
+Yuki Tsunoda,TSU,2019,Miami GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Miami GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Miami GP,11.0,2.7625,85.878,83.885,Toro Rosso,17.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Miami GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Miami GP,5.0,0.9483,85.215,83.641,Renault,6.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Miami GP,6.0,1.8491,85.033,83.364,Red Bull Racing,8.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Miami GP,12.0,5.2041,85.676,84.165,Racing Point,9.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2020,Miami GP,17.0,79.4692,88.243,85.539,Red Bull Racing,5.0,,1.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2020,Miami GP,7.0,0.6352,84.4,82.746,Mercedes,1.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2020,Miami GP,4.0,54.6439,86.291,84.232,McLaren,6.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2020,Miami GP,18.0,0.1655,86.646,86.026,Ferrari,13.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Miami GP,,,,,,,,,,,
+George Russell,RUS,2020,Miami GP,14.0,28.9738,87.019,84.421,Williams,19.0,,0.0,2.0,1.0,1.0
+Carlos Sainz,SAI,2020,Miami GP,2.0,51.9465,86.074,83.882,McLaren,3.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2020,Miami GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Miami GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Miami GP,1.0,68.2024,86.481,84.037,AlphaTauri,10.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2020,Miami GP,8.0,33.2079,86.403,84.49,Renault,12.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2020,Miami GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Miami GP,15.0,27.1686,86.846,84.926,Red Bull Racing,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Miami GP,3.0,0.8197,85.197,83.897,Racing Point,8.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Miami GP,18.0,0.273,86.611,85.173,Red Bull Racing,1.0,,1.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2021,Miami GP,17.0,0.164,86.728,85.87,Mercedes,4.0,,1.0,1.0,1.0,0.0
+Lando Norris,NOR,2021,Miami GP,2.0,0.3809,86.27,84.971,McLaren,3.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Miami GP,4.0,0.4306,86.497,85.319,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Miami GP,,,,,,,,,,,
+George Russell,RUS,2021,Miami GP,9.0,0.6661,87.217,85.835,Williams,14.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Miami GP,6.0,0.7686,86.806,85.559,Ferrari,6.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Miami GP,20.0,,,,AlphaTauri,0.0,,1.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2021,Miami GP,8.0,0.7017,87.077,85.472,Alpine,10.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Miami GP,19.0,,,,AlphaTauri,0.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2021,Miami GP,10.0,0.6847,87.207,85.566,Alpine,12.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Miami GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Miami GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Miami GP,7.0,0.5657,86.987,85.853,Aston Martin,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Miami GP,1.0,0.9415,93.189,91.361,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Miami GP,6.0,1.1061,94.451,92.941,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Miami GP,19.0,0.7395,95.328,93.411,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Miami GP,2.0,1.0571,93.358,91.488,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Miami GP,,,,,,,,,,,
+George Russell,RUS,2022,Miami GP,5.0,1.8719,94.652,92.195,Mercedes,12.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Miami GP,3.0,0.8578,93.726,91.79,Ferrari,2.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Miami GP,12.0,1.7345,95.394,93.035,AlphaTauri,9.0,,0.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2022,Miami GP,11.0,0.6076,94.969,93.331,Alpine,11.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Miami GP,18.0,0.637,95.388,94.487,AlphaTauri,7.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Miami GP,8.0,1.16,95.255,93.163,Alpine,20.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Miami GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Miami GP,9.0,1.2928,95.221,93.447,Williams,18.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2022,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Miami GP,10.0,1.5433,95.422,93.312,Aston Martin,0.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2023,Miami GP,1.0,0.8358,91.751,89.708,Red Bull Racing,9.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Miami GP,6.0,1.0973,92.634,90.669,Mercedes,13.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2023,Miami GP,17.0,0.2375,93.128,92.401,McLaren,16.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,Miami GP,7.0,0.7157,92.684,91.434,Ferrari,7.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Miami GP,19.0,0.7551,93.717,92.006,McLaren,19.0,,1.0,2.0,2.0,1.0
+George Russell,RUS,2023,Miami GP,4.0,0.635,92.343,91.015,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Miami GP,5.0,0.4542,92.441,91.362,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Miami GP,11.0,0.8595,92.839,91.038,AlphaTauri,17.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2023,Miami GP,3.0,0.5839,92.277,90.519,Aston Martin,2.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,Miami GP,8.0,0.4938,92.754,91.971,Alpine,5.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,Miami GP,9.0,0.7719,92.785,91.143,Alpine,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Miami GP,15.0,0.7501,92.999,90.901,Haas F1 Team,12.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2023,Miami GP,14.0,0.6711,93.003,91.852,Williams,11.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Miami GP,12.0,1.131,92.808,90.862,Aston Martin,18.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Miami GP,2.0,0.5704,92.183,91.261,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Miami GP,6.0,1.3406,92.744,91.233,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Miami GP,1.0,1.0447,92.13,90.98,McLaren,5.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Miami GP,3.0,0.6412,92.245,91.084,Ferrari,2.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Miami GP,13.0,0.6096,92.472,90.634,McLaren,6.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Miami GP,8.0,0.781,93.096,91.921,Mercedes,7.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Miami GP,5.0,0.7294,92.328,90.928,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Miami GP,7.0,1.0392,93.013,91.682,RB,10.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Miami GP,9.0,1.05,93.312,91.727,Aston Martin,15.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,Miami GP,12.0,0.5359,93.304,92.055,Alpine,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Miami GP,10.0,0.8312,93.339,92.037,Alpine,13.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Miami GP,11.0,0.7424,93.177,91.941,Haas F1 Team,9.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Miami GP,18.0,0.7356,93.419,90.849,Williams,14.0,,0.0,3.0,3.0,2.0
+Liam Lawson,LAW,2024,Miami GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Miami GP,17.0,0.7381,93.25,91.588,Aston Martin,11.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Dutch GP,5.0,2.1613,97.485,96.206,Red Bull Racing,5.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2018,Dutch GP,4.0,0.4778,97.839,96.978,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Dutch GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Dutch GP,19.0,0.1347,100.138,99.628,Sauber,19.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Dutch GP,,,,,,,,,,,
+George Russell,RUS,2018,Dutch GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Dutch GP,9.0,0.5543,98.511,97.754,Renault,9.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2018,Dutch GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Dutch GP,7.0,0.5116,98.219,97.234,McLaren,13.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Dutch GP,18.0,1.6689,99.579,98.367,Toro Rosso,17.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2018,Dutch GP,11.0,0.6274,98.85,97.985,Force India,12.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2018,Dutch GP,6.0,0.4388,97.9,96.881,Renault,7.0,,0.0,3.0,3.0,2.0
+Alex Albon,ALB,2018,Dutch GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Dutch GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Dutch GP,14.0,0.8857,99.365,98.5,Williams,18.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Dutch GP,4.0,1.2214,97.895,96.143,Red Bull Racing,5.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2019,Dutch GP,1.0,1.1446,97.467,95.892,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Dutch GP,18.0,0.7393,99.897,98.346,McLaren,15.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2019,Dutch GP,5.0,2.2331,97.944,94.86,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2019,Dutch GP,,,,,,,,,,,
+George Russell,RUS,2019,Dutch GP,16.0,1.9143,101.449,97.283,Williams,17.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2019,Dutch GP,14.0,1.2585,99.666,97.502,McLaren,14.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Dutch GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Dutch GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Dutch GP,6.0,1.5401,98.617,94.742,Red Bull Racing,6.0,,0.0,4.0,3.0,3.0
+Esteban Ocon,OCO,2019,Dutch GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Dutch GP,20.0,0.3099,100.72,99.677,Renault,8.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Dutch GP,10.0,0.6708,100.101,98.901,Toro Rosso,0.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Dutch GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Dutch GP,12.0,1.4758,99.879,96.678,Racing Point,16.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2020,Dutch GP,2.0,1.3656,99.486,97.332,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Dutch GP,3.0,0.959,99.593,98.075,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Dutch GP,15.0,3.0557,101.865,97.377,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Dutch GP,6.0,1.1436,100.628,99.053,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Dutch GP,,,,,,,,,,,
+George Russell,RUS,2020,Dutch GP,18.0,3.4684,102.545,97.352,Williams,13.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2020,Dutch GP,19.0,,,,McLaren,6.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2020,Dutch GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Dutch GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Dutch GP,9.0,1.6968,100.806,97.231,AlphaTauri,9.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2020,Dutch GP,7.0,0.9633,100.773,99.216,Renault,7.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Dutch GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Dutch GP,10.0,4.1656,101.238,98.377,Red Bull Racing,15.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Dutch GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Dutch GP,20.0,,,,Racing Point,12.0,,1.0,0.0,0.0,-1.0
+Max Verstappen,VER,2021,Dutch GP,1.0,0.4977,74.452,73.275,Red Bull Racing,1.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2021,Dutch GP,2.0,0.7333,74.413,71.097,Mercedes,2.0,,0.0,4.0,2.0,3.0
+Lando Norris,NOR,2021,Dutch GP,10.0,1.9281,76.405,74.236,McLaren,13.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Dutch GP,5.0,0.641,75.94,74.78,Ferrari,5.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Dutch GP,,,,,,,,,,,
+George Russell,RUS,2021,Dutch GP,17.0,0.8444,76.985,75.628,Williams,11.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Dutch GP,7.0,0.5458,76.363,75.26,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Dutch GP,19.0,0.6997,77.356,75.783,AlphaTauri,14.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Dutch GP,6.0,1.0911,76.357,74.323,Alpine,9.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Dutch GP,4.0,0.4267,75.922,74.818,AlphaTauri,4.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,Dutch GP,9.0,1.0148,76.428,74.675,Alpine,8.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Dutch GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Dutch GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Dutch GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Dutch GP,12.0,1.0157,77.031,75.611,Aston Martin,12.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Dutch GP,1.0,0.9902,75.685,73.652,Red Bull Racing,1.0,,0.0,4.0,3.0,3.0
+Lewis Hamilton,HAM,2022,Dutch GP,4.0,1.0409,76.04,73.854,Mercedes,4.0,,0.0,4.0,2.0,3.0
+Lando Norris,NOR,2022,Dutch GP,7.0,0.8822,76.705,74.706,McLaren,7.0,,0.0,4.0,3.0,3.0
+Charles Leclerc,LEC,2022,Dutch GP,3.0,0.6918,76.088,74.413,Ferrari,2.0,,0.0,4.0,3.0,3.0
+Oscar Piastri,PIA,2022,Dutch GP,,,,,,,,,,,
+George Russell,RUS,2022,Dutch GP,2.0,1.5097,75.889,73.671,Mercedes,6.0,,0.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2022,Dutch GP,8.0,0.6389,76.433,74.643,Ferrari,3.0,,0.0,4.0,3.0,3.0
+Yuki Tsunoda,TSU,2022,Dutch GP,20.0,0.2496,77.752,77.138,AlphaTauri,9.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2022,Dutch GP,6.0,1.1016,76.696,74.144,Alpine,13.0,,0.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2022,Dutch GP,11.0,0.9312,77.055,75.165,AlphaTauri,11.0,,0.0,4.0,3.0,3.0
+Esteban Ocon,OCO,2022,Dutch GP,9.0,0.7853,76.927,75.084,Alpine,12.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2022,Dutch GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Dutch GP,12.0,0.9483,77.38,75.534,Williams,15.0,,0.0,4.0,3.0,3.0
+Liam Lawson,LAW,2022,Dutch GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Dutch GP,10.0,0.774,76.687,75.043,Aston Martin,10.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2023,Dutch GP,1.0,11.5429,77.163,73.889,Red Bull Racing,1.0,,0.0,4.0,2.0,3.0
+Lewis Hamilton,HAM,2023,Dutch GP,6.0,36.8139,78.551,73.904,Mercedes,13.0,,0.0,6.0,3.0,5.0
+Lando Norris,NOR,2023,Dutch GP,7.0,27.6816,78.483,74.39,McLaren,2.0,,0.0,6.0,2.0,5.0
+Charles Leclerc,LEC,2023,Dutch GP,19.0,14.6281,80.169,77.277,Ferrari,9.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Dutch GP,9.0,71.4021,80.05,74.299,McLaren,8.0,,0.0,5.0,3.0,4.0
+George Russell,RUS,2023,Dutch GP,17.0,38.109,78.783,75.124,Mercedes,3.0,,0.0,6.0,3.0,5.0
+Carlos Sainz,SAI,2023,Dutch GP,5.0,13.5509,77.993,74.934,Ferrari,6.0,,0.0,5.0,2.0,4.0
+Yuki Tsunoda,TSU,2023,Dutch GP,15.0,16.234,79.279,76.253,AlphaTauri,17.0,,0.0,4.0,2.0,3.0
+Fernando Alonso,ALO,2023,Dutch GP,2.0,12.3505,77.456,73.837,Aston Martin,5.0,,0.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2023,Dutch GP,3.0,16.0038,78.049,74.441,Alpine,12.0,,0.0,5.0,2.0,4.0
+Esteban Ocon,OCO,2023,Dutch GP,10.0,13.2726,78.117,74.57,Alpine,16.0,,0.0,4.0,2.0,3.0
+Nico Hülkenberg,HUL,2023,Dutch GP,12.0,72.3627,80.597,74.472,Haas F1 Team,14.0,,0.0,5.0,3.0,4.0
+Alex Albon,ALB,2023,Dutch GP,8.0,70.4644,79.868,74.468,Williams,4.0,,0.0,3.0,3.0,2.0
+Liam Lawson,LAW,2023,Dutch GP,13.0,17.451,79.467,74.82,AlphaTauri,19.0,,0.0,6.0,3.0,5.0
+Lance Stroll,STR,2023,Dutch GP,11.0,50.8826,79.478,75.171,Aston Martin,11.0,,0.0,7.0,3.0,6.0
+Max Verstappen,VER,2024,Dutch GP,2.0,0.405,75.566,74.752,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Dutch GP,8.0,1.3933,75.538,73.878,Mercedes,14.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Dutch GP,1.0,0.5202,75.221,73.817,McLaren,1.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Dutch GP,3.0,0.4988,75.572,74.585,Ferrari,6.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Dutch GP,4.0,0.6783,75.596,74.237,McLaren,3.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,Dutch GP,7.0,0.8652,75.539,73.927,Mercedes,4.0,,0.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2024,Dutch GP,5.0,0.8319,75.624,74.117,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Dutch GP,17.0,0.5212,76.833,75.552,RB,11.0,,1.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2024,Dutch GP,10.0,0.8758,76.42,74.758,Aston Martin,7.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,Dutch GP,9.0,0.9555,76.343,74.855,Alpine,9.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Dutch GP,15.0,1.0874,76.875,75.39,Alpine,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Dutch GP,11.0,0.3782,76.496,75.657,Haas F1 Team,12.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Dutch GP,14.0,1.2112,76.478,74.434,Williams,19.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Dutch GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Dutch GP,13.0,0.8029,76.542,75.255,Aston Martin,8.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2018,Azerbaijan GP,16.0,5.3489,108.01,105.771,Red Bull Racing,5.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2018,Azerbaijan GP,1.0,2.0202,106.982,105.412,Mercedes,2.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2018,Azerbaijan GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Azerbaijan GP,6.0,4.3763,108.921,107.403,Sauber,13.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2018,Azerbaijan GP,,,,,,,,,,,
+George Russell,RUS,2018,Azerbaijan GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Azerbaijan GP,5.0,3.282,108.472,106.856,Renault,9.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2018,Azerbaijan GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Azerbaijan GP,7.0,6.441,109.708,107.449,McLaren,12.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Azerbaijan GP,12.0,3.6618,110.783,108.035,Toro Rosso,17.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2018,Azerbaijan GP,19.0,,,,Force India,7.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2018,Azerbaijan GP,18.0,10.7555,111.781,108.867,Renault,14.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2018,Azerbaijan GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Azerbaijan GP,8.0,5.2225,109.015,106.815,Williams,10.0,,0.0,3.0,3.0,2.0
+Max Verstappen,VER,2019,Azerbaijan GP,4.0,2.5991,106.662,104.794,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Azerbaijan GP,2.0,2.2055,106.368,104.166,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Azerbaijan GP,8.0,2.2088,108.002,105.394,McLaren,7.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2019,Azerbaijan GP,5.0,1.8371,107.231,103.009,Ferrari,8.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2019,Azerbaijan GP,,,,,,,,,,,
+George Russell,RUS,2019,Azerbaijan GP,15.0,4.3933,110.639,107.251,Williams,16.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2019,Azerbaijan GP,7.0,2.7087,107.987,105.807,McLaren,9.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Azerbaijan GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Azerbaijan GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Azerbaijan GP,17.0,3.7943,107.943,105.712,Red Bull Racing,0.0,,1.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2019,Azerbaijan GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Azerbaijan GP,14.0,2.0986,109.341,107.407,Renault,15.0,,1.0,3.0,2.0,2.0
+Alex Albon,ALB,2019,Azerbaijan GP,11.0,4.1816,108.75,105.754,Toro Rosso,11.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Azerbaijan GP,9.0,3.095,108.223,106.009,Racing Point,13.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Azerbaijan GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2020,Azerbaijan GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Azerbaijan GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Azerbaijan GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Azerbaijan GP,,,,,,,,,,,
+George Russell,RUS,2020,Azerbaijan GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,Azerbaijan GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Azerbaijan GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Azerbaijan GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Azerbaijan GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Azerbaijan GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2020,Azerbaijan GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Azerbaijan GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2020,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Azerbaijan GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2021,Azerbaijan GP,18.0,1.2541,106.119,104.481,Red Bull Racing,3.0,,1.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2021,Azerbaijan GP,15.0,1.8649,106.476,104.769,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Azerbaijan GP,5.0,42.4926,108.29,105.326,McLaren,9.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2021,Azerbaijan GP,4.0,1.9644,107.185,105.382,Ferrari,1.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2021,Azerbaijan GP,,,,,,,,,,,
+George Russell,RUS,2021,Azerbaijan GP,17.0,3.6653,108.34,105.959,Williams,15.0,,1.0,2.0,1.0,1.0
+Carlos Sainz,SAI,2021,Azerbaijan GP,8.0,2.0916,107.377,105.7,Ferrari,5.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2021,Azerbaijan GP,7.0,2.148,107.141,104.939,AlphaTauri,7.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2021,Azerbaijan GP,6.0,36.4147,108.895,105.624,Alpine,8.0,,0.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2021,Azerbaijan GP,3.0,1.5678,106.992,105.22,AlphaTauri,4.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2021,Azerbaijan GP,20.0,,,,Alpine,12.0,,1.0,1.0,1.0,0.0
+Nico Hülkenberg,HUL,2021,Azerbaijan GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Azerbaijan GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Azerbaijan GP,19.0,1.4336,107.536,106.207,Aston Martin,19.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2022,Azerbaijan GP,1.0,0.7465,107.68,106.05,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Azerbaijan GP,4.0,1.432,109.283,107.044,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2022,Azerbaijan GP,9.0,1.459,109.644,107.997,McLaren,11.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Azerbaijan GP,19.0,0.1181,108.376,107.531,Ferrari,1.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Azerbaijan GP,,,,,,,,,,,
+George Russell,RUS,2022,Azerbaijan GP,3.0,0.7597,108.772,107.177,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2022,Azerbaijan GP,20.0,0.0177,109.155,108.978,Ferrari,4.0,,1.0,1.0,1.0,0.0
+Yuki Tsunoda,TSU,2022,Azerbaijan GP,13.0,1.2323,109.57,107.523,AlphaTauri,8.0,,1.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2022,Azerbaijan GP,7.0,0.9597,109.6,107.989,Alpine,10.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Azerbaijan GP,5.0,0.5884,109.633,108.519,AlphaTauri,6.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Azerbaijan GP,10.0,1.323,110.246,108.297,Alpine,13.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Azerbaijan GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Azerbaijan GP,12.0,1.951,109.846,107.966,Williams,17.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Azerbaijan GP,16.0,1.4639,110.753,108.038,Aston Martin,19.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2023,Azerbaijan GP,2.0,0.7407,105.685,104.232,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Azerbaijan GP,6.0,0.8435,106.689,105.346,Mercedes,5.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2023,Azerbaijan GP,9.0,0.9581,107.51,105.738,McLaren,7.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,Azerbaijan GP,3.0,1.0383,106.208,104.561,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Azerbaijan GP,11.0,1.1544,107.694,105.631,McLaren,10.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2023,Azerbaijan GP,8.0,1.2906,106.918,103.37,Mercedes,11.0,,0.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2023,Azerbaijan GP,5.0,0.7122,106.722,105.175,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Azerbaijan GP,10.0,1.0455,107.602,105.727,AlphaTauri,8.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2023,Azerbaijan GP,4.0,1.4557,106.261,104.241,Aston Martin,6.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2023,Azerbaijan GP,14.0,1.929,107.271,105.54,Alpine,17.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Azerbaijan GP,15.0,1.161,107.713,105.908,Alpine,19.0,,0.0,1.0,1.0,0.0
+Nico Hülkenberg,HUL,2023,Azerbaijan GP,17.0,1.0859,108.003,106.731,Haas F1 Team,20.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2023,Azerbaijan GP,12.0,1.1586,107.73,105.925,Williams,12.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Azerbaijan GP,7.0,0.7184,106.871,105.627,Aston Martin,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Azerbaijan GP,5.0,0.6413,108.295,106.798,Red Bull Racing,6.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Azerbaijan GP,9.0,1.3773,108.854,107.236,Mercedes,19.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Azerbaijan GP,4.0,2.461,108.27,105.255,McLaren,15.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Azerbaijan GP,2.0,0.357,108.024,107.067,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Azerbaijan GP,1.0,0.3432,107.979,107.06,McLaren,2.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,Azerbaijan GP,3.0,0.9845,108.212,106.628,Mercedes,5.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Azerbaijan GP,18.0,0.5993,107.993,106.866,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Azerbaijan GP,20.0,1.1931,111.986,110.887,RB,11.0,,1.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2024,Azerbaijan GP,6.0,0.798,108.817,107.057,Aston Martin,7.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,Azerbaijan GP,12.0,1.0139,109.59,108.018,Alpine,18.0,,0.0,1.0,1.0,0.0
+Esteban Ocon,OCO,2024,Azerbaijan GP,15.0,1.2754,110.331,108.831,Alpine,20.0,,1.0,1.0,1.0,0.0
+Nico Hülkenberg,HUL,2024,Azerbaijan GP,11.0,0.8028,108.893,107.691,Haas F1 Team,12.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Azerbaijan GP,7.0,0.9862,108.831,106.947,Williams,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Azerbaijan GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Azerbaijan GP,19.0,0.6961,109.466,108.148,Aston Martin,13.0,,0.0,2.0,1.0,1.0
+Max Verstappen,VER,2018,Hungarian GP,19.0,,,,Red Bull Racing,7.0,,1.0,0.0,0.0,-1.0
+Lewis Hamilton,HAM,2018,Hungarian GP,1.0,0.5024,82.383,81.107,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Hungarian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Hungarian GP,20.0,,,,Sauber,17.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2018,Hungarian GP,,,,,,,,,,,
+George Russell,RUS,2018,Hungarian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Hungarian GP,9.0,0.943,84.298,82.774,Renault,5.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Hungarian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Hungarian GP,8.0,1.0054,83.942,82.09,McLaren,11.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Hungarian GP,6.0,0.9211,83.306,81.685,Toro Rosso,6.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Hungarian GP,13.0,0.8424,84.313,82.876,Force India,18.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Hungarian GP,12.0,1.6936,84.13,81.261,Renault,13.0,,1.0,3.0,3.0,2.0
+Alex Albon,ALB,2018,Hungarian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Hungarian GP,17.0,1.7908,85.413,82.66,Williams,15.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Hungarian GP,2.0,0.9857,81.025,77.103,Red Bull Racing,1.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2019,Hungarian GP,1.0,1.5554,80.809,78.528,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Hungarian GP,9.0,1.104,82.667,81.188,McLaren,7.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Hungarian GP,4.0,0.7238,81.992,80.493,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Hungarian GP,,,,,,,,,,,
+George Russell,RUS,2019,Hungarian GP,16.0,1.3159,84.301,82.386,Williams,15.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Hungarian GP,5.0,0.9189,82.617,81.002,McLaren,8.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Hungarian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Hungarian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Hungarian GP,6.0,1.0403,82.63,81.045,Red Bull Racing,6.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Hungarian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Hungarian GP,12.0,1.0009,83.342,81.65,Renault,11.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Hungarian GP,10.0,1.6192,83.133,80.621,Toro Rosso,12.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Hungarian GP,17.0,1.5876,84.047,80.603,Racing Point,18.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2020,Hungarian GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2020,Hungarian GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0.0,4.0,3.0,3.0
+Lando Norris,NOR,2020,Hungarian GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Hungarian GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Hungarian GP,,,,,,,,,,,
+George Russell,RUS,2020,Hungarian GP,18.0,11.488,83.108,79.984,Williams,12.0,,1.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2020,Hungarian GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Hungarian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Hungarian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Hungarian GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Hungarian GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2020,Hungarian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Hungarian GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0.0,3.0,3.0,2.0
+Liam Lawson,LAW,2020,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Hungarian GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2021,Hungarian GP,9.0,2.1754,83.503,80.945,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Hungarian GP,2.0,3.3417,82.159,78.715,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Hungarian GP,15.0,,,,McLaren,6.0,,1.0,0.0,0.0,-1.0
+Charles Leclerc,LEC,2021,Hungarian GP,18.0,,,,Ferrari,7.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2021,Hungarian GP,,,,,,,,,,,
+George Russell,RUS,2021,Hungarian GP,8.0,1.188,83.79,82.112,Williams,17.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Hungarian GP,3.0,1.7361,82.865,81.423,Ferrari,15.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Hungarian GP,6.0,2.278,83.805,82.45,AlphaTauri,16.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Hungarian GP,4.0,2.0011,82.865,80.359,Alpine,9.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Hungarian GP,5.0,2.1877,83.196,78.394,AlphaTauri,5.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2021,Hungarian GP,1.0,0.9516,82.72,81.421,Alpine,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Hungarian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Hungarian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Hungarian GP,19.0,,,,Aston Martin,12.0,,1.0,0.0,0.0,-1.0
+Max Verstappen,VER,2022,Hungarian GP,1.0,1.0496,83.618,82.126,Red Bull Racing,10.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Hungarian GP,2.0,1.1681,83.664,81.386,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2022,Hungarian GP,7.0,2.7492,84.722,83.043,McLaren,4.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2022,Hungarian GP,6.0,0.7747,83.502,81.622,Ferrari,3.0,,0.0,4.0,3.0,3.0
+Oscar Piastri,PIA,2022,Hungarian GP,,,,,,,,,,,
+George Russell,RUS,2022,Hungarian GP,3.0,0.5372,83.86,82.766,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2022,Hungarian GP,4.0,0.5429,83.835,82.0,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2022,Hungarian GP,19.0,4.3848,85.945,83.538,AlphaTauri,16.0,,1.0,4.0,2.0,3.0
+Fernando Alonso,ALO,2022,Hungarian GP,8.0,1.3289,85.285,83.979,Alpine,6.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Hungarian GP,12.0,1.1721,85.123,83.199,AlphaTauri,0.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2022,Hungarian GP,9.0,0.7545,85.308,84.149,Alpine,5.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Hungarian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Hungarian GP,17.0,1.674,85.377,83.047,Williams,17.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Hungarian GP,11.0,1.4844,84.927,82.437,Aston Martin,14.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Hungarian GP,1.0,1.0783,83.425,80.504,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Hungarian GP,4.0,1.3294,83.919,81.601,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Hungarian GP,2.0,0.7422,83.949,82.178,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Hungarian GP,7.0,0.9133,84.299,82.469,Ferrari,6.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Hungarian GP,5.0,0.4041,84.379,82.736,McLaren,4.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Hungarian GP,6.0,1.8764,84.32,82.158,Mercedes,18.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Hungarian GP,8.0,1.0148,84.403,82.584,Ferrari,11.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,Hungarian GP,15.0,0.6712,85.246,83.269,AlphaTauri,17.0,,1.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2023,Hungarian GP,9.0,1.2,84.43,82.745,Aston Martin,8.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Hungarian GP,20.0,,,,Alpine,15.0,,1.0,0.0,0.0,-1.0
+Esteban Ocon,OCO,2023,Hungarian GP,19.0,,,,Alpine,12.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2023,Hungarian GP,14.0,0.6497,85.335,83.573,Haas F1 Team,10.0,,1.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Hungarian GP,11.0,0.6593,84.981,84.051,Williams,16.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2023,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Hungarian GP,10.0,0.8284,84.745,83.425,Aston Martin,14.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,Hungarian GP,5.0,1.401,83.677,80.908,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Hungarian GP,3.0,0.5958,83.543,82.153,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Hungarian GP,2.0,1.0425,83.403,81.712,McLaren,1.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Hungarian GP,4.0,0.6917,83.591,82.182,Ferrari,6.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2024,Hungarian GP,1.0,0.7306,83.325,81.716,McLaren,2.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Hungarian GP,8.0,2.4719,83.925,80.305,Mercedes,17.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Hungarian GP,6.0,1.0192,83.625,81.441,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Hungarian GP,9.0,0.7162,84.684,83.533,RB,10.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Hungarian GP,11.0,0.8838,84.538,83.063,Aston Martin,7.0,,0.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2024,Hungarian GP,20.0,0.7373,85.586,83.34,Alpine,20.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Hungarian GP,18.0,1.3411,85.043,81.61,Alpine,19.0,,1.0,4.0,3.0,3.0
+Nico Hülkenberg,HUL,2024,Hungarian GP,13.0,1.316,84.977,83.461,Haas F1 Team,11.0,,1.0,2.0,1.0,1.0
+Alex Albon,ALB,2024,Hungarian GP,14.0,0.9434,85.056,83.93,Williams,13.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Hungarian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Hungarian GP,10.0,1.1808,84.385,82.338,Aston Martin,8.0,,0.0,3.0,3.0,2.0
+Max Verstappen,VER,2018,Singapore GP,2.0,1.777,105.57,103.345,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Singapore GP,1.0,2.1446,105.427,102.913,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Singapore GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Singapore GP,9.0,2.3977,107.833,105.203,Sauber,13.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Singapore GP,,,,,,,,,,,
+George Russell,RUS,2018,Singapore GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Singapore GP,8.0,2.369,107.569,105.211,Renault,12.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Singapore GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Singapore GP,7.0,3.1117,107.103,103.164,McLaren,11.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Singapore GP,13.0,3.5094,108.417,106.063,Toro Rosso,15.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Singapore GP,20.0,,,,Racing Point,9.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2018,Singapore GP,10.0,1.9019,108.029,106.093,Renault,10.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Singapore GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Singapore GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Singapore GP,14.0,2.296,108.444,106.033,Williams,20.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Singapore GP,3.0,2.7791,107.605,105.176,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Singapore GP,4.0,2.4413,107.86,104.914,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Singapore GP,7.0,1.8923,108.261,105.716,McLaren,9.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Singapore GP,2.0,2.7807,107.548,104.723,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Singapore GP,,,,,,,,,,,
+George Russell,RUS,2019,Singapore GP,20.0,0.4004,109.166,108.285,Williams,18.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2019,Singapore GP,12.0,4.8973,109.427,105.969,McLaren,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Singapore GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Singapore GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Singapore GP,8.0,2.2423,108.484,105.769,Toro Rosso,11.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Singapore GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Singapore GP,9.0,2.0629,108.388,105.765,Renault,8.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Singapore GP,6.0,2.1502,108.165,105.26,Red Bull Racing,6.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Singapore GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Singapore GP,13.0,3.7146,108.864,104.896,Racing Point,16.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2020,Singapore GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2020,Singapore GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0.0,4.0,3.0,3.0
+Lando Norris,NOR,2020,Singapore GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Singapore GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Singapore GP,,,,,,,,,,,
+George Russell,RUS,2020,Singapore GP,18.0,11.488,83.108,79.984,Williams,12.0,,1.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2020,Singapore GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Singapore GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Singapore GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Singapore GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Singapore GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2020,Singapore GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Singapore GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0.0,3.0,3.0,2.0
+Liam Lawson,LAW,2020,Singapore GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Singapore GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2021,Singapore GP,9.0,2.1754,83.503,80.945,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Singapore GP,2.0,3.3417,82.159,78.715,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Singapore GP,15.0,,,,McLaren,6.0,,1.0,0.0,0.0,-1.0
+Charles Leclerc,LEC,2021,Singapore GP,18.0,,,,Ferrari,7.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2021,Singapore GP,,,,,,,,,,,
+George Russell,RUS,2021,Singapore GP,8.0,1.188,83.79,82.112,Williams,17.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Singapore GP,3.0,1.7361,82.865,81.423,Ferrari,15.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Singapore GP,6.0,2.278,83.805,82.45,AlphaTauri,16.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Singapore GP,4.0,2.0011,82.865,80.359,Alpine,9.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Singapore GP,5.0,2.1877,83.196,78.394,AlphaTauri,5.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2021,Singapore GP,1.0,0.9516,82.72,81.421,Alpine,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Singapore GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Singapore GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Singapore GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Singapore GP,19.0,,,,Aston Martin,12.0,,1.0,0.0,0.0,-1.0
+Max Verstappen,VER,2022,Singapore GP,7.0,28.4029,116.562,109.142,Red Bull Racing,8.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Singapore GP,9.0,24.8329,117.17,110.622,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Singapore GP,4.0,25.8847,116.57,109.212,McLaren,6.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Singapore GP,2.0,21.3435,115.134,108.753,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Singapore GP,,,,,,,,,,,
+George Russell,RUS,2022,Singapore GP,14.0,36.0282,119.606,106.458,Mercedes,0.0,,1.0,5.0,3.0,4.0
+Carlos Sainz,SAI,2022,Singapore GP,3.0,25.1823,115.768,108.414,Ferrari,4.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Singapore GP,15.0,3.4932,122.314,118.716,AlphaTauri,10.0,,1.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2022,Singapore GP,18.0,1.3232,122.0,120.463,Alpine,5.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2022,Singapore GP,10.0,22.4123,117.926,110.569,AlphaTauri,7.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Singapore GP,16.0,3.0798,123.33,121.105,Alpine,17.0,,1.0,1.0,1.0,0.0
+Nico Hülkenberg,HUL,2022,Singapore GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Singapore GP,17.0,3.7877,124.277,122.121,Williams,18.0,,1.0,1.0,1.0,0.0
+Liam Lawson,LAW,2022,Singapore GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Singapore GP,6.0,26.6333,117.94,110.283,Aston Martin,11.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2023,Singapore GP,5.0,2.7651,99.657,96.575,Red Bull Racing,11.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2023,Singapore GP,3.0,2.7086,99.337,95.867,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Singapore GP,2.0,0.9215,99.669,98.046,McLaren,4.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2023,Singapore GP,4.0,0.7185,99.935,98.275,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Singapore GP,7.0,1.3871,100.547,98.492,McLaren,17.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2023,Singapore GP,16.0,1.872,99.423,96.273,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Singapore GP,1.0,0.8314,99.607,97.666,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Singapore GP,19.0,,,,AlphaTauri,15.0,,1.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2023,Singapore GP,15.0,5.3901,100.529,96.456,Aston Martin,7.0,,0.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2023,Singapore GP,6.0,1.4103,100.464,98.277,Alpine,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2023,Singapore GP,18.0,0.6944,100.837,99.93,Alpine,8.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Singapore GP,13.0,0.9266,101.233,99.923,Haas F1 Team,9.0,,0.0,2.0,2.0,1.0
+Alex Albon,ALB,2023,Singapore GP,11.0,7.2755,100.816,97.342,Williams,14.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2023,Singapore GP,9.0,0.7814,100.962,99.028,AlphaTauri,10.0,,0.0,2.0,2.0,1.0
+Lance Stroll,STR,2023,Singapore GP,,,,,Aston Martin,,,1.0,,,
+Max Verstappen,VER,2024,Singapore GP,2.0,0.6588,97.377,95.967,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Singapore GP,6.0,0.424,98.438,97.393,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Singapore GP,1.0,0.847,97.062,94.925,McLaren,1.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Singapore GP,5.0,1.8009,97.994,95.371,Ferrari,9.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Singapore GP,3.0,0.938,97.715,95.745,McLaren,5.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,Singapore GP,4.0,0.3721,98.049,97.047,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Singapore GP,7.0,0.4548,98.561,96.561,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Singapore GP,12.0,1.5102,98.675,96.393,RB,8.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Singapore GP,8.0,0.3612,98.605,97.741,Aston Martin,7.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2024,Singapore GP,17.0,2.2085,99.383,96.927,Alpine,18.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Singapore GP,13.0,0.7223,99.241,97.964,Alpine,15.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Singapore GP,9.0,0.525,98.617,97.47,Haas F1 Team,6.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Singapore GP,20.0,0.8257,99.269,96.888,Williams,11.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2024,Singapore GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Singapore GP,14.0,0.9035,99.281,97.851,Aston Martin,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2018,Mexican GP,1.0,0.6099,80.914,79.186,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2018,Mexican GP,4.0,0.7153,82.099,80.728,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2018,Mexican GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Mexican GP,7.0,2.0626,84.175,80.537,Sauber,9.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Mexican GP,,,,,,,,,,,
+George Russell,RUS,2018,Mexican GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Mexican GP,19.0,0.5575,84.142,82.386,Renault,8.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Mexican GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Mexican GP,20.0,0.1794,84.62,84.197,McLaren,12.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2018,Mexican GP,10.0,1.1069,84.236,82.755,Toro Rosso,20.0,,1.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2018,Mexican GP,11.0,0.8049,84.49,82.629,Racing Point,11.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Mexican GP,6.0,1.6201,84.005,80.637,Renault,7.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Mexican GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Mexican GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Mexican GP,12.0,0.5721,84.366,82.983,Williams,17.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2019,Mexican GP,6.0,0.8257,81.368,80.406,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Mexican GP,1.0,0.4447,80.82,79.461,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Mexican GP,20.0,1.2299,83.165,81.643,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Mexican GP,4.0,0.6551,80.602,79.232,Ferrari,1.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2019,Mexican GP,,,,,,,,,,,
+George Russell,RUS,2019,Mexican GP,16.0,1.4338,83.732,81.286,Williams,19.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Mexican GP,13.0,1.7597,82.069,80.311,McLaren,7.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2019,Mexican GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Mexican GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Mexican GP,9.0,2.3073,81.967,79.53,Toro Rosso,10.0,,1.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2019,Mexican GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Mexican GP,10.0,2.6209,82.322,80.791,Renault,12.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Mexican GP,5.0,0.74,80.771,79.325,Red Bull Racing,5.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2019,Mexican GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Mexican GP,12.0,0.8541,82.4,80.922,Racing Point,16.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Mexican GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Mexican GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Mexican GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Mexican GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Mexican GP,,,,,,,,,,,
+George Russell,RUS,2020,Mexican GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2020,Mexican GP,20.0,,,,McLaren,7.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2020,Mexican GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Mexican GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Mexican GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Mexican GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Mexican GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Mexican GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Mexican GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Mexican GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Mexican GP,1.0,0.5428,80.696,78.999,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2021,Mexican GP,2.0,0.4517,80.894,79.82,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2021,Mexican GP,10.0,1.4992,82.188,80.617,McLaren,18.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Mexican GP,5.0,0.4904,81.861,80.665,Ferrari,8.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Mexican GP,,,,,,,,,,,
+George Russell,RUS,2021,Mexican GP,16.0,1.5567,83.704,82.016,Williams,16.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Mexican GP,6.0,1.6209,81.909,80.081,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Mexican GP,20.0,,,,AlphaTauri,17.0,,1.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2021,Mexican GP,9.0,1.2299,82.155,80.711,Alpine,12.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Mexican GP,4.0,0.4784,81.605,80.51,AlphaTauri,5.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,Mexican GP,13.0,1.4923,82.909,81.348,Alpine,19.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Mexican GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Mexican GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Mexican GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Mexican GP,14.0,1.931,82.695,80.93,Aston Martin,20.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,Mexican GP,1.0,0.2012,82.748,82.046,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Mexican GP,2.0,0.1729,82.921,82.062,Mercedes,3.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Mexican GP,9.0,0.4329,84.41,83.402,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Mexican GP,6.0,0.4921,83.646,82.603,Ferrari,7.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Mexican GP,,,,,,,,,,,
+George Russell,RUS,2022,Mexican GP,4.0,0.3347,82.973,80.153,Mercedes,2.0,,0.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2022,Mexican GP,5.0,0.3777,83.493,82.199,Ferrari,5.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Mexican GP,20.0,0.2712,84.553,83.403,AlphaTauri,13.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2022,Mexican GP,19.0,0.675,84.415,82.866,Alpine,9.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2022,Mexican GP,11.0,1.1258,84.349,82.277,AlphaTauri,14.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Mexican GP,8.0,0.4349,84.354,83.279,Alpine,10.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Mexican GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Mexican GP,12.0,0.9588,84.437,82.914,Williams,17.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2022,Mexican GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Mexican GP,15.0,1.2472,84.484,82.463,Aston Martin,20.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Mexican GP,1.0,0.4024,82.711,81.644,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Mexican GP,2.0,0.6073,83.151,81.334,Mercedes,6.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Mexican GP,5.0,46.8661,84.308,81.944,McLaren,17.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2023,Mexican GP,3.0,0.2741,83.276,82.332,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Mexican GP,8.0,65.0211,84.693,82.76,McLaren,7.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Mexican GP,6.0,52.1308,84.587,82.78,Mercedes,8.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Mexican GP,4.0,0.425,83.423,82.539,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,Mexican GP,12.0,55.1671,84.925,82.501,AlphaTauri,18.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2023,Mexican GP,18.0,21.4486,85.863,83.531,Aston Martin,13.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Mexican GP,11.0,36.923,85.061,83.23,Alpine,11.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Mexican GP,10.0,22.1537,85.16,82.976,Alpine,15.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2023,Mexican GP,13.0,45.7956,85.348,83.222,Haas F1 Team,12.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Mexican GP,9.0,31.872,84.913,82.773,Williams,14.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Mexican GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Mexican GP,17.0,17.4619,85.094,83.257,Aston Martin,0.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Mexican GP,6.0,0.3616,81.632,80.872,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2024,Mexican GP,4.0,0.9259,81.697,80.371,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2024,Mexican GP,2.0,0.8258,81.068,79.691,McLaren,3.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Mexican GP,3.0,0.6293,81.211,78.336,Ferrari,4.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2024,Mexican GP,8.0,1.9038,81.945,80.064,McLaren,17.0,,0.0,2.0,2.0,1.0
+George Russell,RUS,2024,Mexican GP,5.0,0.5105,81.762,80.731,Mercedes,5.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2024,Mexican GP,1.0,0.377,81.082,80.137,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Mexican GP,20.0,,,,RB,11.0,,1.0,0.0,0.0,-1.0
+Fernando Alonso,ALO,2024,Mexican GP,18.0,0.3013,83.507,82.722,Aston Martin,13.0,,1.0,1.0,1.0,0.0
+Pierre Gasly,GAS,2024,Mexican GP,10.0,0.6441,82.546,81.274,Alpine,8.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2024,Mexican GP,13.0,1.4724,82.802,80.659,Alpine,0.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Mexican GP,9.0,0.926,82.321,80.748,Haas F1 Team,10.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2024,Mexican GP,19.0,,,,Williams,9.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2024,Mexican GP,16.0,1.1987,82.711,79.502,RB,12.0,,1.0,3.0,3.0,2.0
+Lance Stroll,STR,2024,Mexican GP,11.0,0.7678,82.595,81.311,Aston Martin,14.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2018,Canadian GP,3.0,0.683,75.203,73.864,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Canadian GP,5.0,0.6326,75.43,74.183,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Canadian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Canadian GP,10.0,0.8187,76.849,75.351,Sauber,13.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Canadian GP,,,,,,,,,,,
+George Russell,RUS,2018,Canadian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Canadian GP,8.0,0.5133,76.695,75.666,Renault,9.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2018,Canadian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Canadian GP,18.0,0.7353,77.174,76.18,McLaren,14.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Canadian GP,11.0,0.7771,76.913,75.699,Toro Rosso,16.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Canadian GP,9.0,0.538,76.707,75.498,Force India,8.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Canadian GP,7.0,0.5007,76.64,75.488,Renault,7.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2018,Canadian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Canadian GP,20.0,,,,Williams,17.0,,1.0,0.0,0.0,-1.0
+Max Verstappen,VER,2019,Canadian GP,5.0,0.7033,76.787,74.767,Red Bull Racing,9.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Canadian GP,1.0,0.6965,76.016,74.813,Mercedes,2.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Canadian GP,20.0,7.9816,79.741,78.023,McLaren,8.0,,1.0,1.0,1.0,0.0
+Charles Leclerc,LEC,2019,Canadian GP,3.0,0.9096,76.045,74.356,Ferrari,3.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Canadian GP,,,,,,,,,,,
+George Russell,RUS,2019,Canadian GP,16.0,1.6584,78.899,77.241,Williams,18.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Canadian GP,11.0,0.5635,77.559,76.471,McLaren,11.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Canadian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Canadian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Canadian GP,8.0,0.5387,77.296,76.157,Red Bull Racing,5.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Canadian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Canadian GP,7.0,0.5448,77.136,75.995,Renault,7.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Canadian GP,19.0,0.9036,78.55,77.151,Toro Rosso,13.0,,1.0,1.0,1.0,0.0
+Liam Lawson,LAW,2019,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Canadian GP,9.0,0.8281,77.506,76.043,Racing Point,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Canadian GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2020,Canadian GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0.0,4.0,3.0,3.0
+Lando Norris,NOR,2020,Canadian GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Canadian GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Canadian GP,,,,,,,,,,,
+George Russell,RUS,2020,Canadian GP,18.0,11.488,83.108,79.984,Williams,12.0,,1.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2020,Canadian GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Canadian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Canadian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Canadian GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Canadian GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1.0,3.0,3.0,2.0
+Nico Hülkenberg,HUL,2020,Canadian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Canadian GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0.0,3.0,3.0,2.0
+Liam Lawson,LAW,2020,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Canadian GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2021,Canadian GP,9.0,2.1754,83.503,80.945,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Canadian GP,2.0,3.3417,82.159,78.715,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Canadian GP,15.0,,,,McLaren,6.0,,1.0,0.0,0.0,-1.0
+Charles Leclerc,LEC,2021,Canadian GP,18.0,,,,Ferrari,7.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2021,Canadian GP,,,,,,,,,,,
+George Russell,RUS,2021,Canadian GP,8.0,1.188,83.79,82.112,Williams,17.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Canadian GP,3.0,1.7361,82.865,81.423,Ferrari,15.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Canadian GP,6.0,2.278,83.805,82.45,AlphaTauri,16.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Canadian GP,4.0,2.0011,82.865,80.359,Alpine,9.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Canadian GP,5.0,2.1877,83.196,78.394,AlphaTauri,5.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2021,Canadian GP,1.0,0.9516,82.72,81.421,Alpine,8.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Canadian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Canadian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Canadian GP,19.0,,,,Aston Martin,12.0,,1.0,0.0,0.0,-1.0
+Max Verstappen,VER,2022,Canadian GP,1.0,0.655,77.262,75.839,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Canadian GP,3.0,0.76,77.645,76.167,Mercedes,4.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2022,Canadian GP,15.0,0.8036,79.194,77.495,McLaren,14.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2022,Canadian GP,5.0,1.5309,78.4,75.901,Ferrari,19.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Canadian GP,,,,,,,,,,,
+George Russell,RUS,2022,Canadian GP,4.0,0.6947,77.754,76.418,Mercedes,8.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2022,Canadian GP,2.0,0.7147,77.347,75.749,Ferrari,3.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2022,Canadian GP,18.0,0.4734,79.345,78.309,AlphaTauri,20.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2022,Canadian GP,9.0,0.6565,78.49,77.01,Alpine,2.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Canadian GP,14.0,0.8884,79.046,77.81,AlphaTauri,15.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2022,Canadian GP,6.0,0.5896,78.504,77.11,Alpine,7.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2022,Canadian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Canadian GP,13.0,0.574,79.269,77.951,Williams,12.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Canadian GP,10.0,0.8306,79.136,77.421,Aston Martin,17.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2023,Canadian GP,1.0,0.401,76.602,75.594,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Canadian GP,3.0,0.5561,76.843,75.396,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Canadian GP,13.0,0.7144,77.733,76.374,McLaren,7.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Canadian GP,4.0,1.0025,77.062,75.907,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2023,Canadian GP,11.0,0.8077,77.743,76.598,McLaren,8.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Canadian GP,19.0,0.3583,78.03,77.097,Mercedes,4.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Canadian GP,5.0,0.8672,77.067,75.911,Ferrari,11.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2023,Canadian GP,14.0,0.6004,77.687,76.666,AlphaTauri,19.0,,0.0,1.0,1.0,0.0
+Fernando Alonso,ALO,2023,Canadian GP,2.0,0.49,76.767,75.779,Aston Martin,2.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Canadian GP,12.0,0.7928,77.608,76.425,Alpine,15.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Canadian GP,8.0,0.4295,77.648,76.782,Alpine,6.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2023,Canadian GP,15.0,0.5031,78.237,77.232,Haas F1 Team,5.0,,1.0,3.0,2.0,2.0
+Alex Albon,ALB,2023,Canadian GP,7.0,0.4911,77.959,76.917,Williams,9.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Canadian GP,9.0,0.6475,77.64,76.564,Aston Martin,16.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,Canadian GP,1.0,35.8345,84.629,75.569,Red Bull Racing,2.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Canadian GP,4.0,41.1049,84.946,74.856,Mercedes,7.0,,0.0,4.0,3.0,3.0
+Lando Norris,NOR,2024,Canadian GP,2.0,35.7873,84.735,75.558,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Canadian GP,19.0,17.2602,90.829,86.012,Ferrari,11.0,,1.0,2.0,1.0,1.0
+Oscar Piastri,PIA,2024,Canadian GP,5.0,35.5592,84.941,76.247,McLaren,4.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Canadian GP,3.0,32.9207,84.846,74.895,Mercedes,1.0,,0.0,4.0,3.0,3.0
+Carlos Sainz,SAI,2024,Canadian GP,16.0,26.6837,88.825,78.957,Ferrari,12.0,,1.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Canadian GP,14.0,36.9044,86.833,77.309,RB,8.0,,0.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Canadian GP,6.0,35.1007,85.557,76.303,Aston Martin,6.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2024,Canadian GP,9.0,43.143,86.519,77.013,Alpine,15.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2024,Canadian GP,10.0,40.0425,86.661,77.012,Alpine,18.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2024,Canadian GP,11.0,38.4878,86.212,76.683,Haas F1 Team,17.0,,0.0,4.0,3.0,3.0
+Alex Albon,ALB,2024,Canadian GP,17.0,27.0267,88.783,79.359,Williams,10.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Canadian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Canadian GP,7.0,39.8311,86.357,76.762,Aston Martin,9.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Chinese GP,5.0,2.1613,97.485,96.206,Red Bull Racing,5.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2018,Chinese GP,4.0,0.4778,97.839,96.978,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Chinese GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Chinese GP,19.0,0.1347,100.138,99.628,Sauber,19.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Chinese GP,,,,,,,,,,,
+George Russell,RUS,2018,Chinese GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Chinese GP,9.0,0.5543,98.511,97.754,Renault,9.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2018,Chinese GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Chinese GP,7.0,0.5116,98.219,97.234,McLaren,13.0,,0.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Chinese GP,18.0,1.6689,99.579,98.367,Toro Rosso,17.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2018,Chinese GP,11.0,0.6274,98.85,97.985,Force India,12.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2018,Chinese GP,6.0,0.4388,97.9,96.881,Renault,7.0,,0.0,3.0,3.0,2.0
+Alex Albon,ALB,2018,Chinese GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Chinese GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Chinese GP,14.0,0.8857,99.365,98.5,Williams,18.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2019,Chinese GP,4.0,1.2214,97.895,96.143,Red Bull Racing,5.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2019,Chinese GP,1.0,1.1446,97.467,95.892,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2019,Chinese GP,18.0,0.7393,99.897,98.346,McLaren,15.0,,1.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2019,Chinese GP,5.0,2.2331,97.944,94.86,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2019,Chinese GP,,,,,,,,,,,
+George Russell,RUS,2019,Chinese GP,16.0,1.9143,101.449,97.283,Williams,17.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2019,Chinese GP,14.0,1.2585,99.666,97.502,McLaren,14.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Chinese GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Chinese GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Chinese GP,6.0,1.5401,98.617,94.742,Red Bull Racing,6.0,,0.0,4.0,3.0,3.0
+Esteban Ocon,OCO,2019,Chinese GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Chinese GP,20.0,0.3099,100.72,99.677,Renault,8.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Chinese GP,10.0,0.6708,100.101,98.901,Toro Rosso,0.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Chinese GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Chinese GP,12.0,1.4758,99.879,96.678,Racing Point,16.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2020,Chinese GP,2.0,1.3656,99.486,97.332,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Chinese GP,3.0,0.959,99.593,98.075,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Chinese GP,15.0,3.0557,101.865,97.377,McLaren,8.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Chinese GP,6.0,1.1436,100.628,99.053,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2020,Chinese GP,,,,,,,,,,,
+George Russell,RUS,2020,Chinese GP,18.0,3.4684,102.545,97.352,Williams,13.0,,1.0,3.0,3.0,2.0
+Carlos Sainz,SAI,2020,Chinese GP,19.0,,,,McLaren,6.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2020,Chinese GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Chinese GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Chinese GP,9.0,1.6968,100.806,97.231,AlphaTauri,9.0,,0.0,3.0,3.0,2.0
+Esteban Ocon,OCO,2020,Chinese GP,7.0,0.9633,100.773,99.216,Renault,7.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Chinese GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Chinese GP,10.0,4.1656,101.238,98.377,Red Bull Racing,15.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Chinese GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Chinese GP,20.0,,,,Racing Point,12.0,,1.0,0.0,0.0,-1.0
+Max Verstappen,VER,2021,Chinese GP,1.0,0.4977,74.452,73.275,Red Bull Racing,1.0,,0.0,3.0,3.0,2.0
+Lewis Hamilton,HAM,2021,Chinese GP,2.0,0.7333,74.413,71.097,Mercedes,2.0,,0.0,4.0,2.0,3.0
+Lando Norris,NOR,2021,Chinese GP,10.0,1.9281,76.405,74.236,McLaren,13.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Chinese GP,5.0,0.641,75.94,74.78,Ferrari,5.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Chinese GP,,,,,,,,,,,
+George Russell,RUS,2021,Chinese GP,17.0,0.8444,76.985,75.628,Williams,11.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Chinese GP,7.0,0.5458,76.363,75.26,Ferrari,6.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Chinese GP,19.0,0.6997,77.356,75.783,AlphaTauri,14.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2021,Chinese GP,6.0,1.0911,76.357,74.323,Alpine,9.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Chinese GP,4.0,0.4267,75.922,74.818,AlphaTauri,4.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2021,Chinese GP,9.0,1.0148,76.428,74.675,Alpine,8.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2021,Chinese GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Chinese GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Chinese GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Chinese GP,12.0,1.0157,77.031,75.611,Aston Martin,12.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2022,Chinese GP,1.0,1.8407,107.25,104.911,Red Bull Racing,1.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2022,Chinese GP,5.0,3.1508,108.834,105.53,Mercedes,6.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2022,Chinese GP,10.0,0.4433,109.709,108.175,McLaren,10.0,,0.0,1.0,1.0,0.0
+Charles Leclerc,LEC,2022,Chinese GP,3.0,2.4528,108.406,104.489,Ferrari,2.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2022,Chinese GP,,,,,,,,,,,
+George Russell,RUS,2022,Chinese GP,8.0,4.0279,108.854,107.004,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Chinese GP,19.0,,,,Ferrari,3.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2022,Chinese GP,13.0,6.8484,109.235,105.893,AlphaTauri,13.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2022,Chinese GP,7.0,7.5422,108.255,104.412,Alpine,7.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Chinese GP,18.0,6.5115,109.457,105.387,AlphaTauri,17.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2022,Chinese GP,4.0,2.4099,108.868,106.559,Alpine,5.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Chinese GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Chinese GP,20.0,,,,Williams,16.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2022,Chinese GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Chinese GP,12.0,8.5356,109.214,105.205,Aston Martin,19.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Chinese GP,1.0,1.0385,97.217,94.183,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Chinese GP,5.0,1.0375,98.218,95.611,Mercedes,7.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Chinese GP,2.0,1.209,97.525,95.247,McLaren,3.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Chinese GP,4.0,0.8076,98.209,96.362,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Chinese GP,3.0,0.8994,98.106,96.328,McLaren,2.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2023,Chinese GP,7.0,0.5596,98.888,97.653,Mercedes,8.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2023,Chinese GP,6.0,1.0506,98.303,96.187,Ferrari,6.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,Chinese GP,12.0,1.2269,99.342,97.768,AlphaTauri,9.0,,1.0,3.0,3.0,2.0
+Fernando Alonso,ALO,2023,Chinese GP,8.0,0.9996,98.744,97.203,Aston Martin,10.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Chinese GP,10.0,2.1148,98.786,96.371,Alpine,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Chinese GP,9.0,1.6019,99.211,97.398,Alpine,14.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2023,Chinese GP,14.0,1.1371,98.824,97.25,Haas F1 Team,18.0,,1.0,4.0,3.0,3.0
+Alex Albon,ALB,2023,Chinese GP,16.0,0.5535,100.49,99.185,Williams,13.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2023,Chinese GP,11.0,0.799,99.27,98.267,AlphaTauri,11.0,,1.0,3.0,3.0,2.0
+Lance Stroll,STR,2023,Chinese GP,18.0,0.1923,99.91,99.05,Aston Martin,17.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2024,Chinese GP,1.0,0.7453,99.779,98.406,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2024,Chinese GP,9.0,0.8654,101.888,100.835,Mercedes,18.0,,0.0,3.0,3.0,2.0
+Lando Norris,NOR,2024,Chinese GP,2.0,1.3398,100.646,98.751,McLaren,4.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2024,Chinese GP,4.0,1.1845,100.979,99.384,Ferrari,6.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2024,Chinese GP,8.0,0.6755,101.64,99.739,McLaren,5.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Chinese GP,6.0,0.8313,101.19,100.112,Mercedes,8.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Chinese GP,5.0,1.2329,101.203,99.764,Ferrari,7.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2024,Chinese GP,19.0,0.416,102.916,101.593,RB,19.0,,1.0,2.0,2.0,1.0
+Fernando Alonso,ALO,2024,Chinese GP,7.0,1.6304,100.771,97.81,Aston Martin,3.0,,0.0,4.0,3.0,3.0
+Pierre Gasly,GAS,2024,Chinese GP,13.0,1.5768,101.491,99.198,Alpine,15.0,,0.0,4.0,2.0,3.0
+Esteban Ocon,OCO,2024,Chinese GP,11.0,0.5521,101.94,100.937,Alpine,13.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2024,Chinese GP,10.0,0.5328,101.81,100.815,Haas F1 Team,9.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Chinese GP,12.0,0.7045,102.147,100.79,Williams,14.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Chinese GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Chinese GP,15.0,1.1498,101.365,99.444,Aston Martin,11.0,,0.0,4.0,3.0,3.0
+Max Verstappen,VER,2018,Austrian GP,1.0,0.3705,68.52,67.442,Red Bull Racing,4.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Austrian GP,16.0,0.3501,68.66,67.241,Mercedes,2.0,,1.0,3.0,3.0,2.0
+Lando Norris,NOR,2018,Austrian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Austrian GP,9.0,0.6164,70.033,69.006,Sauber,18.0,,1.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Austrian GP,,,,,,,,,,,
+George Russell,RUS,2018,Austrian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Austrian GP,12.0,0.595,70.024,68.766,Renault,9.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2018,Austrian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Austrian GP,8.0,1.0488,70.071,68.661,McLaren,13.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2018,Austrian GP,11.0,0.7197,70.292,69.295,Toro Rosso,12.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Austrian GP,6.0,0.4458,69.963,68.85,Force India,11.0,,1.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2018,Austrian GP,20.0,1.2363,71.2,70.38,Renault,10.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2018,Austrian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Austrian GP,14.0,0.6364,70.581,69.203,Williams,14.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2019,Austrian GP,1.0,0.7801,68.926,67.475,Red Bull Racing,2.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2019,Austrian GP,5.0,0.3938,69.149,68.05,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2019,Austrian GP,6.0,0.4884,69.92,68.699,McLaren,5.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2019,Austrian GP,2.0,0.2321,69.018,67.994,Ferrari,1.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2019,Austrian GP,,,,,,,,,,,
+George Russell,RUS,2019,Austrian GP,18.0,0.9273,71.086,69.926,Williams,0.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2019,Austrian GP,8.0,1.1828,70.136,68.117,McLaren,19.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Austrian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Austrian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Austrian GP,7.0,0.547,70.007,68.79,Red Bull Racing,8.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2019,Austrian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Austrian GP,13.0,0.5267,70.287,69.248,Renault,15.0,,1.0,2.0,2.0,1.0
+Alex Albon,ALB,2019,Austrian GP,15.0,1.4097,70.362,68.946,Toro Rosso,18.0,,1.0,2.0,2.0,1.0
+Liam Lawson,LAW,2019,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Austrian GP,14.0,0.7005,70.381,69.288,Racing Point,14.0,,1.0,2.0,2.0,1.0
+Max Verstappen,VER,2020,Austrian GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1.0,1.0,1.0,0.0
+Lewis Hamilton,HAM,2020,Austrian GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2020,Austrian GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2020,Austrian GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Austrian GP,,,,,,,,,,,
+George Russell,RUS,2020,Austrian GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2020,Austrian GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2020,Austrian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Austrian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Austrian GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2020,Austrian GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2020,Austrian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Austrian GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2020,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Austrian GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1.0,1.0,1.0,0.0
+Max Verstappen,VER,2021,Austrian GP,1.0,0.4188,68.788,66.2,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2021,Austrian GP,4.0,0.2553,69.441,68.126,Mercedes,4.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2021,Austrian GP,3.0,0.3708,69.279,68.471,McLaren,2.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2021,Austrian GP,8.0,1.0549,69.992,68.698,Ferrari,12.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2021,Austrian GP,,,,,,,,,,,
+George Russell,RUS,2021,Austrian GP,11.0,0.9796,70.329,68.9,Williams,8.0,,1.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2021,Austrian GP,5.0,1.3818,69.874,67.762,Ferrari,10.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2021,Austrian GP,12.0,1.0004,70.001,68.455,AlphaTauri,7.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2021,Austrian GP,10.0,1.177,70.228,68.405,Alpine,14.0,,1.0,2.0,2.0,1.0
+Pierre Gasly,GAS,2021,Austrian GP,9.0,1.0676,69.667,68.146,AlphaTauri,6.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2021,Austrian GP,20.0,,,,Alpine,17.0,,1.0,0.0,0.0,-1.0
+Nico Hülkenberg,HUL,2021,Austrian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Austrian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Austrian GP,13.0,1.1497,70.181,68.659,Aston Martin,9.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,Austrian GP,2.0,0.8052,69.93,67.275,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Austrian GP,3.0,0.7313,70.565,69.0,Mercedes,8.0,,0.0,2.0,1.0,1.0
+Lando Norris,NOR,2022,Austrian GP,7.0,0.7121,71.029,69.304,McLaren,10.0,,1.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2022,Austrian GP,1.0,0.8367,69.889,67.583,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,Austrian GP,,,,,,,,,,,
+George Russell,RUS,2022,Austrian GP,4.0,0.5954,70.678,69.075,Mercedes,4.0,,0.0,2.0,2.0,1.0
+Carlos Sainz,SAI,2022,Austrian GP,18.0,0.409,70.329,68.649,Ferrari,3.0,,1.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2022,Austrian GP,16.0,0.8044,71.577,70.023,AlphaTauri,16.0,,1.0,2.0,1.0,1.0
+Fernando Alonso,ALO,2022,Austrian GP,10.0,1.4553,71.168,68.558,Alpine,19.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2022,Austrian GP,15.0,0.5035,71.395,70.104,AlphaTauri,14.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2022,Austrian GP,5.0,0.4376,71.05,69.559,Alpine,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2022,Austrian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Austrian GP,12.0,0.5858,71.41,69.669,Williams,15.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2022,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Austrian GP,13.0,0.7704,71.54,70.048,Aston Martin,12.0,,1.0,2.0,1.0,1.0
+Max Verstappen,VER,2023,Austrian GP,1.0,0.4896,69.328,67.012,Red Bull Racing,1.0,,0.0,4.0,3.0,3.0
+Lewis Hamilton,HAM,2023,Austrian GP,8.0,0.3782,70.2,69.16,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Austrian GP,4.0,0.43,70.148,68.739,McLaren,4.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Austrian GP,2.0,0.4223,69.831,68.82,Ferrari,2.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2023,Austrian GP,16.0,0.6491,70.996,69.862,McLaren,13.0,,1.0,4.0,2.0,3.0
+George Russell,RUS,2023,Austrian GP,7.0,0.591,70.464,69.283,Mercedes,11.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Austrian GP,6.0,0.2845,69.869,68.88,Ferrari,3.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,Austrian GP,19.0,0.8249,71.108,69.62,AlphaTauri,16.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2023,Austrian GP,5.0,0.3977,70.12,69.108,Aston Martin,7.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Austrian GP,10.0,0.6916,70.421,69.046,Alpine,9.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Austrian GP,14.0,0.4636,70.853,69.797,Alpine,12.0,,1.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2023,Austrian GP,20.0,0.1579,71.475,71.066,Haas F1 Team,8.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2023,Austrian GP,11.0,0.6231,70.669,69.56,Williams,10.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2023,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Austrian GP,9.0,1.0138,70.133,68.463,Aston Martin,6.0,,0.0,4.0,2.0,3.0
+Max Verstappen,VER,2024,Austrian GP,5.0,0.7654,70.075,67.719,Red Bull Racing,1.0,,0.0,4.0,3.0,3.0
+Lewis Hamilton,HAM,2024,Austrian GP,4.0,0.3975,70.698,69.562,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2024,Austrian GP,20.0,0.5478,70.23,68.016,McLaren,2.0,,1.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2024,Austrian GP,11.0,0.3173,70.568,69.584,Ferrari,6.0,,0.0,4.0,2.0,3.0
+Oscar Piastri,PIA,2024,Austrian GP,2.0,0.6857,70.47,68.697,McLaren,7.0,,0.0,3.0,2.0,2.0
+George Russell,RUS,2024,Austrian GP,1.0,0.4335,70.428,69.164,Mercedes,3.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2024,Austrian GP,3.0,0.4641,70.487,69.282,Ferrari,4.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2024,Austrian GP,14.0,0.5031,71.513,70.318,RB,14.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2024,Austrian GP,18.0,0.5548,71.488,67.694,Aston Martin,15.0,,1.0,4.0,3.0,3.0
+Pierre Gasly,GAS,2024,Austrian GP,10.0,0.4241,71.236,69.609,Alpine,13.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2024,Austrian GP,12.0,0.4923,71.365,69.649,Alpine,10.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2024,Austrian GP,6.0,0.2977,71.125,70.215,Haas F1 Team,9.0,,0.0,3.0,2.0,2.0
+Alex Albon,ALB,2024,Austrian GP,15.0,0.3602,71.508,70.364,Williams,16.0,,1.0,3.0,2.0,2.0
+Liam Lawson,LAW,2024,Austrian GP,,,,,,,,,,,
+Lance Stroll,STR,2024,Austrian GP,13.0,0.5546,71.526,70.143,Aston Martin,17.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2018,Brazilian GP,2.0,1.9117,73.261,71.578,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2018,Brazilian GP,1.0,0.7875,73.305,71.795,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2018,Brazilian GP,,,,,,,,,,,
+Charles Leclerc,LEC,2018,Brazilian GP,7.0,0.8417,73.854,72.082,Sauber,7.0,,0.0,2.0,2.0,1.0
+Oscar Piastri,PIA,2018,Brazilian GP,,,,,,,,,,,
+George Russell,RUS,2018,Brazilian GP,,,,,,,,,,,
+Carlos Sainz,SAI,2018,Brazilian GP,12.0,1.2162,74.813,72.169,Renault,15.0,,1.0,3.0,3.0,2.0
+Yuki Tsunoda,TSU,2018,Brazilian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2018,Brazilian GP,17.0,1.1756,75.084,72.643,McLaren,17.0,,1.0,3.0,3.0,2.0
+Pierre Gasly,GAS,2018,Brazilian GP,13.0,0.6147,75.193,73.822,Toro Rosso,9.0,,1.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2018,Brazilian GP,15.0,5.9869,74.734,72.352,Racing Point,18.0,,1.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2018,Brazilian GP,19.0,0.5727,75.367,74.029,Renault,13.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2018,Brazilian GP,,,,,,,,,,,
+Liam Lawson,LAW,2018,Brazilian GP,,,,,,,,,,,
+Lance Stroll,STR,2018,Brazilian GP,18.0,1.6108,75.487,71.751,Williams,19.0,,1.0,3.0,3.0,2.0
+Max Verstappen,VER,2019,Brazilian GP,1.0,0.804,72.674,70.862,Red Bull Racing,1.0,,0.0,4.0,2.0,3.0
+Lewis Hamilton,HAM,2019,Brazilian GP,7.0,0.8145,72.865,71.082,Mercedes,3.0,,0.0,4.0,2.0,3.0
+Lando Norris,NOR,2019,Brazilian GP,8.0,0.7887,74.736,72.328,McLaren,10.0,,0.0,3.0,3.0,2.0
+Charles Leclerc,LEC,2019,Brazilian GP,18.0,0.9519,73.666,71.423,Ferrari,14.0,,1.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2019,Brazilian GP,,,,,,,,,,,
+George Russell,RUS,2019,Brazilian GP,12.0,1.0031,75.918,74.124,Williams,18.0,,0.0,4.0,2.0,3.0
+Carlos Sainz,SAI,2019,Brazilian GP,3.0,0.7535,74.657,73.158,McLaren,20.0,,0.0,2.0,2.0,1.0
+Yuki Tsunoda,TSU,2019,Brazilian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2019,Brazilian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2019,Brazilian GP,2.0,0.6623,74.186,72.425,Toro Rosso,6.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2019,Brazilian GP,,,,,,,,,,,
+Nico Hülkenberg,HUL,2019,Brazilian GP,15.0,0.859,74.87,72.934,Renault,13.0,,0.0,4.0,3.0,3.0
+Alex Albon,ALB,2019,Brazilian GP,14.0,3.0184,73.585,71.087,Red Bull Racing,5.0,,0.0,3.0,2.0,2.0
+Liam Lawson,LAW,2019,Brazilian GP,,,,,,,,,,,
+Lance Stroll,STR,2019,Brazilian GP,19.0,0.7687,74.848,72.603,Racing Point,17.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2020,Brazilian GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0.0,2.0,2.0,1.0
+Lewis Hamilton,HAM,2020,Brazilian GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0.0,2.0,2.0,1.0
+Lando Norris,NOR,2020,Brazilian GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0.0,2.0,2.0,1.0
+Charles Leclerc,LEC,2020,Brazilian GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0.0,3.0,3.0,2.0
+Oscar Piastri,PIA,2020,Brazilian GP,,,,,,,,,,,
+George Russell,RUS,2020,Brazilian GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1.0,1.0,1.0,0.0
+Carlos Sainz,SAI,2020,Brazilian GP,20.0,,,,McLaren,7.0,,1.0,0.0,0.0,-1.0
+Yuki Tsunoda,TSU,2020,Brazilian GP,,,,,,,,,,,
+Fernando Alonso,ALO,2020,Brazilian GP,,,,,,,,,,,
+Pierre Gasly,GAS,2020,Brazilian GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0.0,2.0,2.0,1.0
+Esteban Ocon,OCO,2020,Brazilian GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0.0,2.0,2.0,1.0
+Nico Hülkenberg,HUL,2020,Brazilian GP,,,,,,,,,,,
+Alex Albon,ALB,2020,Brazilian GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0.0,2.0,2.0,1.0
+Liam Lawson,LAW,2020,Brazilian GP,,,,,,,,,,,
+Lance Stroll,STR,2020,Brazilian GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0.0,2.0,2.0,1.0
+Max Verstappen,VER,2021,Brazilian GP,2.0,0.6152,73.771,72.486,Red Bull Racing,2.0,,0.0,4.0,2.0,3.0
+Lewis Hamilton,HAM,2021,Brazilian GP,1.0,0.8686,73.577,71.982,Mercedes,10.0,,0.0,4.0,2.0,3.0
+Lando Norris,NOR,2021,Brazilian GP,10.0,1.4031,75.48,73.761,McLaren,5.0,,1.0,3.0,1.0,2.0
+Charles Leclerc,LEC,2021,Brazilian GP,5.0,1.1461,74.448,72.822,Ferrari,6.0,,0.0,4.0,2.0,3.0
+Oscar Piastri,PIA,2021,Brazilian GP,,,,,,,,,,,
+George Russell,RUS,2021,Brazilian GP,13.0,1.9238,76.242,74.355,Williams,17.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2021,Brazilian GP,6.0,1.2989,74.468,72.71,Ferrari,3.0,,0.0,4.0,2.0,3.0
+Yuki Tsunoda,TSU,2021,Brazilian GP,15.0,1.4844,75.936,74.204,AlphaTauri,15.0,,1.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2021,Brazilian GP,9.0,2.2154,75.55,73.922,Alpine,12.0,,1.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2021,Brazilian GP,7.0,0.811,74.936,73.227,AlphaTauri,7.0,,1.0,4.0,2.0,3.0
+Esteban Ocon,OCO,2021,Brazilian GP,8.0,0.75,75.579,74.43,Alpine,8.0,,1.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2021,Brazilian GP,,,,,,,,,,,
+Alex Albon,ALB,2021,Brazilian GP,,,,,,,,,,,
+Liam Lawson,LAW,2021,Brazilian GP,,,,,,,,,,,
+Lance Stroll,STR,2021,Brazilian GP,20.0,0.8145,76.42,75.344,Aston Martin,14.0,,1.0,3.0,2.0,2.0
+Max Verstappen,VER,2022,Brazilian GP,6.0,0.8381,75.992,74.195,Red Bull Racing,3.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2022,Brazilian GP,2.0,0.9981,75.719,73.942,Mercedes,2.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2022,Brazilian GP,18.0,0.4326,77.286,75.855,McLaren,6.0,,1.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2022,Brazilian GP,4.0,0.7338,75.913,74.253,Ferrari,5.0,,0.0,3.0,2.0,2.0
+Oscar Piastri,PIA,2022,Brazilian GP,,,,,,,,,,,
+George Russell,RUS,2022,Brazilian GP,1.0,0.7881,75.677,73.785,Mercedes,1.0,,0.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2022,Brazilian GP,3.0,0.8534,75.754,73.953,Ferrari,7.0,,0.0,4.0,2.0,3.0
+Yuki Tsunoda,TSU,2022,Brazilian GP,17.0,1.7513,77.468,75.508,AlphaTauri,0.0,,1.0,4.0,2.0,3.0
+Fernando Alonso,ALO,2022,Brazilian GP,5.0,1.3908,76.317,74.164,Alpine,17.0,,0.0,4.0,2.0,3.0
+Pierre Gasly,GAS,2022,Brazilian GP,14.0,0.6668,77.011,75.327,AlphaTauri,10.0,,0.0,4.0,2.0,3.0
+Esteban Ocon,OCO,2022,Brazilian GP,8.0,0.9281,76.772,75.093,Alpine,16.0,,0.0,3.0,2.0,2.0
+Nico Hülkenberg,HUL,2022,Brazilian GP,,,,,,,,,,,
+Alex Albon,ALB,2022,Brazilian GP,15.0,0.9704,77.594,75.613,Williams,19.0,,0.0,3.0,1.0,2.0
+Liam Lawson,LAW,2022,Brazilian GP,,,,,,,,,,,
+Lance Stroll,STR,2022,Brazilian GP,10.0,1.4362,77.096,74.831,Aston Martin,15.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2023,Brazilian GP,1.0,51.2702,76.2,73.422,Red Bull Racing,1.0,,0.0,3.0,2.0,2.0
+Lewis Hamilton,HAM,2023,Brazilian GP,8.0,37.9418,76.936,74.739,Mercedes,5.0,,0.0,3.0,2.0,2.0
+Lando Norris,NOR,2023,Brazilian GP,2.0,48.3037,76.251,72.486,McLaren,6.0,,0.0,3.0,2.0,2.0
+Charles Leclerc,LEC,2023,Brazilian GP,20.0,,,,Ferrari,2.0,,1.0,0.0,0.0,-1.0
+Oscar Piastri,PIA,2023,Brazilian GP,14.0,1.0801,76.273,74.31,McLaren,10.0,,1.0,3.0,2.0,2.0
+George Russell,RUS,2023,Brazilian GP,15.0,30.9765,77.395,74.934,Mercedes,8.0,,1.0,3.0,2.0,2.0
+Carlos Sainz,SAI,2023,Brazilian GP,6.0,21.0703,76.562,74.406,Ferrari,7.0,,0.0,3.0,2.0,2.0
+Yuki Tsunoda,TSU,2023,Brazilian GP,9.0,1.7465,76.275,74.231,AlphaTauri,16.0,,0.0,3.0,2.0,2.0
+Fernando Alonso,ALO,2023,Brazilian GP,3.0,34.9316,76.499,74.442,Aston Martin,4.0,,0.0,3.0,2.0,2.0
+Pierre Gasly,GAS,2023,Brazilian GP,7.0,1.3556,76.115,74.521,Alpine,15.0,,0.0,3.0,2.0,2.0
+Esteban Ocon,OCO,2023,Brazilian GP,10.0,1.3578,76.275,74.206,Alpine,14.0,,1.0,4.0,2.0,3.0
+Nico Hülkenberg,HUL,2023,Brazilian GP,12.0,1.4252,76.813,75.036,Haas F1 Team,11.0,,1.0,3.0,1.0,2.0
+Alex Albon,ALB,2023,Brazilian GP,19.0,,,,Williams,13.0,,1.0,0.0,0.0,-1.0
+Liam Lawson,LAW,2023,Brazilian GP,,,,,,,,,,,
+Lance Stroll,STR,2023,Brazilian GP,5.0,35.4722,76.582,74.007,Aston Martin,3.0,,0.0,3.0,2.0,2.0
+Max Verstappen,VER,2024,Brazilian GP,1.0,11.577,84.018,80.472,Red Bull Racing,17.0,,0.0,2.0,1.0,1.0
+Lewis Hamilton,HAM,2024,Brazilian GP,10.0,14.8441,85.431,82.041,Mercedes,14.0,,0.0,3.0,1.0,2.0
+Lando Norris,NOR,2024,Brazilian GP,6.0,2.3598,83.954,81.517,McLaren,1.0,,0.0,2.0,1.0,1.0
+Charles Leclerc,LEC,2024,Brazilian GP,5.0,7.1621,84.377,81.631,Ferrari,6.0,,0.0,3.0,1.0,2.0
+Oscar Piastri,PIA,2024,Brazilian GP,8.0,11.58,84.924,81.532,McLaren,8.0,,0.0,3.0,1.0,2.0
+George Russell,RUS,2024,Brazilian GP,4.0,4.8795,84.127,81.645,Mercedes,2.0,,0.0,2.0,1.0,1.0
+Carlos Sainz,SAI,2024,Brazilian GP,16.0,16.7924,87.059,84.201,Ferrari,20.0,,1.0,3.0,1.0,2.0
+Yuki Tsunoda,TSU,2024,Brazilian GP,7.0,7.7242,84.762,81.828,RB,3.0,,0.0,2.0,1.0,1.0
+Fernando Alonso,ALO,2024,Brazilian GP,14.0,14.2952,85.386,82.293,Aston Martin,9.0,,0.0,3.0,1.0,2.0
+Pierre Gasly,GAS,2024,Brazilian GP,3.0,9.7264,84.583,81.645,Alpine,13.0,,0.0,2.0,1.0,1.0
+Esteban Ocon,OCO,2024,Brazilian GP,2.0,7.3027,84.313,81.771,Alpine,4.0,,0.0,2.0,1.0,1.0
+Nico Hülkenberg,HUL,2024,Brazilian GP,20.0,1.1037,85.136,83.764,Haas F1 Team,18.0,,1.0,1.0,1.0,0.0
+Alex Albon,ALB,2024,Brazilian GP,18.0,,,,Williams,7.0,,1.0,,,
+Liam Lawson,LAW,2024,Brazilian GP,9.0,7.5283,85.005,82.123,RB,5.0,,0.0,2.0,1.0,1.0
+Lance Stroll,STR,2024,Brazilian GP,19.0,,,,Aston Martin,10.0,,1.0,0.0,0.0,-1.0

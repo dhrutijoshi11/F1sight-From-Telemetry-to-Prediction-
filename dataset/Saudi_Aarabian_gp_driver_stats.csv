@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Saudi Aarabian GP,6.0,2.6299,88.976,86.88,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Saudi Aarabian GP,2.0,0.8269,87.818,86.444,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2018,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Saudi Aarabian GP,13.0,2.2098,90.35,88.759,Sauber,18.0,,0,3,3,2
+Oscar Piastri,PIA,2018,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Saudi Aarabian GP,10.0,1.4108,89.357,87.944,Renault,9.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Saudi Aarabian GP,5.0,1.7478,89.02,86.978,McLaren,10.0,,0,2,2,1
+Pierre Gasly,GAS,2018,Saudi Aarabian GP,18.0,5.0,91.997,90.649,Toro Rosso,20.0,,1,1,1,0
+Esteban Ocon,OCO,2018,Saudi Aarabian GP,12.0,2.0965,89.874,87.6,Force India,14.0,,0,2,2,1
+Nico Hülkenberg,HUL,2018,Saudi Aarabian GP,7.0,1.6771,89.073,87.081,Renault,7.0,,0,2,2,1
+Alex Albon,ALB,2018,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Saudi Aarabian GP,14.0,1.2762,90.46,88.511,Williams,13.0,,0,2,2,1
+Max Verstappen,VER,2019,Saudi Aarabian GP,3.0,0.8918,88.253,86.256,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Saudi Aarabian GP,2.0,0.6363,88.211,86.057,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2019,Saudi Aarabian GP,12.0,1.0108,90.191,88.555,McLaren,8.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Saudi Aarabian GP,5.0,1.2874,88.842,86.926,Ferrari,5.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Saudi Aarabian GP,16.0,1.8539,91.305,88.713,Williams,19.0,,1,3,3,2
+Carlos Sainz,SAI,2019,Saudi Aarabian GP,20.0,0.1784,91.466,90.899,McLaren,18.0,,1,1,1,0
+Yuki Tsunoda,TSU,2019,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Saudi Aarabian GP,11.0,1.4795,89.429,87.229,Red Bull Racing,17.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Saudi Aarabian GP,7.0,0.7338,89.458,88.444,Renault,11.0,,1,2,2,1
+Alex Albon,ALB,2019,Saudi Aarabian GP,14.0,1.2175,90.217,88.188,Toro Rosso,13.0,,1,2,2,1
+Liam Lawson,LAW,2019,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Saudi Aarabian GP,9.0,1.2455,89.448,87.568,Racing Point,16.0,,1,2,2,1
+Max Verstappen,VER,2020,Saudi Aarabian GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1,1,1,0
+Lewis Hamilton,HAM,2020,Saudi Aarabian GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2020,Saudi Aarabian GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0,3,3,2
+Charles Leclerc,LEC,2020,Saudi Aarabian GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0,3,3,2
+Oscar Piastri,PIA,2020,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Saudi Aarabian GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1,2,2,1
+Carlos Sainz,SAI,2020,Saudi Aarabian GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0,3,3,2
+Yuki Tsunoda,TSU,2020,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Saudi Aarabian GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0,3,2,2
+Esteban Ocon,OCO,2020,Saudi Aarabian GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0,3,2,2
+Nico Hülkenberg,HUL,2020,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Saudi Aarabian GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1,3,2,2
+Liam Lawson,LAW,2020,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Saudi Aarabian GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1,1,1,0
+Max Verstappen,VER,2021,Saudi Aarabian GP,2.0,1.0364,92.896,91.488,Red Bull Racing,3.0,,0,2,1,1
+Lewis Hamilton,HAM,2021,Saudi Aarabian GP,1.0,1.9211,92.588,90.734,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2021,Saudi Aarabian GP,10.0,23.9749,94.729,91.914,McLaren,7.0,,0,2,2,1
+Charles Leclerc,LEC,2021,Saudi Aarabian GP,7.0,83.4504,94.929,91.601,Ferrari,4.0,,0,2,2,1
+Oscar Piastri,PIA,2021,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Saudi Aarabian GP,19.0,1.4216,97.156,96.13,Williams,14.0,,1,1,1,0
+Carlos Sainz,SAI,2021,Saudi Aarabian GP,8.0,75.8646,95.31,91.851,Ferrari,15.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Saudi Aarabian GP,14.0,42.4796,95.279,92.506,AlphaTauri,8.0,,1,3,2,2
+Fernando Alonso,ALO,2021,Saudi Aarabian GP,13.0,44.4995,96.423,91.633,Alpine,13.0,,1,3,3,2
+Pierre Gasly,GAS,2021,Saudi Aarabian GP,6.0,82.68,95.585,92.297,AlphaTauri,6.0,,0,2,2,1
+Esteban Ocon,OCO,2021,Saudi Aarabian GP,4.0,1.6619,93.652,91.797,Alpine,9.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Saudi Aarabian GP,11.0,30.4985,95.622,92.804,Aston Martin,18.0,,0,2,1,1
+Max Verstappen,VER,2022,Saudi Aarabian GP,1.0,1.3824,93.654,91.772,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Saudi Aarabian GP,10.0,2.4005,95.39,92.997,Mercedes,15.0,,0,2,2,1
+Lando Norris,NOR,2022,Saudi Aarabian GP,7.0,2.7522,95.593,92.753,McLaren,11.0,,0,2,2,1
+Charles Leclerc,LEC,2022,Saudi Aarabian GP,2.0,1.1531,93.634,91.634,Ferrari,2.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Saudi Aarabian GP,5.0,1.3966,94.609,92.821,Mercedes,6.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Saudi Aarabian GP,3.0,1.4703,93.795,91.905,Ferrari,3.0,,0,2,2,1
+Yuki Tsunoda,TSU,2022,Saudi Aarabian GP,19.0,N/A,N/A,N/A,AlphaTauri,19.0,,1,N/A,N/A,N/A
+Fernando Alonso,ALO,2022,Saudi Aarabian GP,16.0,1.3764,95.874,93.831,Alpine,7.0,,1,2,2,1
+Pierre Gasly,GAS,2022,Saudi Aarabian GP,8.0,2.2257,95.729,93.468,AlphaTauri,9.0,,0,2,2,1
+Esteban Ocon,OCO,2022,Saudi Aarabian GP,6.0,2.064,95.408,93.103,Alpine,5.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Saudi Aarabian GP,12.0,1.8097,96.268,93.651,Aston Martin,17.0,,0,2,2,1
+Alex Albon,ALB,2022,Saudi Aarabian GP,14.0,2.2208,96.492,94.368,Williams,16.0,,1,2,2,1
+Liam Lawson,LAW,2022,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Saudi Aarabian GP,13.0,19.4116,97.22,94.446,Aston Martin,13.0,,1,2,2,1
+Max Verstappen,VER,2023,Saudi Aarabian GP,2.0,2.1881,93.842,91.906,Red Bull Racing,15.0,,0,2,2,1
+Lewis Hamilton,HAM,2023,Saudi Aarabian GP,5.0,1.6593,94.633,92.941,Mercedes,7.0,,0,2,2,1
+Lando Norris,NOR,2023,Saudi Aarabian GP,17.0,0.7194,95.723,94.122,McLaren,19.0,,0,2,2,1
+Charles Leclerc,LEC,2023,Saudi Aarabian GP,7.0,1.2841,94.704,93.056,Ferrari,12.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Saudi Aarabian GP,15.0,0.8829,95.665,94.287,McLaren,8.0,,0,1,1,0
+George Russell,RUS,2023,Saudi Aarabian GP,4.0,1.1064,94.279,92.433,Mercedes,3.0,,0,2,2,1
+Carlos Sainz,SAI,2023,Saudi Aarabian GP,6.0,1.2478,94.526,92.822,Ferrari,4.0,,0,2,2,1
+Yuki Tsunoda,TSU,2023,Saudi Aarabian GP,11.0,1.2417,95.512,93.931,AlphaTauri,16.0,,0,2,2,1
+Fernando Alonso,ALO,2023,Saudi Aarabian GP,3.0,0.9116,94.036,92.24,Aston Martin,2.0,,0,2,2,1
+Pierre Gasly,GAS,2023,Saudi Aarabian GP,9.0,1.3272,95.105,93.392,Alpine,9.0,,0,2,2,1
+Esteban Ocon,OCO,2023,Saudi Aarabian GP,8.0,1.1901,95.06,93.222,Alpine,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2023,Saudi Aarabian GP,12.0,1.2216,95.5,93.78,Haas F1 Team,10.0,,0,2,2,1
+Alex Albon,ALB,2023,Saudi Aarabian GP,19.0,0.8567,96.763,95.567,Williams,17.0,,1,2,2,1
+Liam Lawson,LAW,2023,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Saudi Aarabian GP,20.0,0.1847,95.727,95.14,Aston Martin,5.0,,1,2,2,1
+Max Verstappen,VER,2024,Saudi Aarabian GP,1.0,0.3753,92.934,91.773,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Saudi Aarabian GP,9.0,1.2074,93.713,91.746,Mercedes,8.0,,0,2,2,1
+Lando Norris,NOR,2024,Saudi Aarabian GP,8.0,0.8843,93.561,91.944,McLaren,6.0,,0,2,2,1
+Charles Leclerc,LEC,2024,Saudi Aarabian GP,3.0,0.805,93.377,91.632,Ferrari,2.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Saudi Aarabian GP,4.0,0.833,93.634,92.31,McLaren,5.0,,0,2,2,1
+George Russell,RUS,2024,Saudi Aarabian GP,6.0,1.2273,93.911,92.254,Mercedes,7.0,,0,2,2,1
+Carlos Sainz,SAI,2024,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Yuki Tsunoda,TSU,2024,Saudi Aarabian GP,15.0,1.4657,95.254,93.523,RB,9.0,,1,2,2,1
+Fernando Alonso,ALO,2024,Saudi Aarabian GP,5.0,1.0483,93.769,92.387,Aston Martin,4.0,,0,2,2,1
+Pierre Gasly,GAS,2024,Saudi Aarabian GP,20.0,N/A,N/A,N/A,Alpine,18.0,,1,0,0,-1
+Esteban Ocon,OCO,2024,Saudi Aarabian GP,13.0,1.7346,95.335,93.481,Alpine,17.0,,1,2,2,1
+Nico Hülkenberg,HUL,2024,Saudi Aarabian GP,10.0,1.9484,94.347,92.366,Haas F1 Team,15.0,,0,2,2,1
+Alex Albon,ALB,2024,Saudi Aarabian GP,11.0,1.9209,94.874,92.307,Williams,12.0,,0,2,2,1
+Liam Lawson,LAW,2024,Saudi Aarabian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Saudi Aarabian GP,19.0,0.0371,95.795,95.56,Aston Martin,10.0,,1,1,1,0

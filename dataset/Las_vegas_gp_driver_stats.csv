@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Las_vegas GP,2.0,1.0456,96.198,94.275,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Las_vegas GP,1.0,0.7943,96.102,94.509,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2018,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Las_vegas GP,10.0,2.0213,98.084,95.977,Sauber,8.0,,0,2,2,1
+Oscar Piastri,PIA,2018,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Las_vegas GP,8.0,1.7347,97.902,95.638,Renault,7.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Las_vegas GP,16.0,4.044,99.55,95.133,McLaren,16.0,,1,2,2,1
+Pierre Gasly,GAS,2018,Las_vegas GP,20.0,N/A,N/A,N/A,Toro Rosso,14.0,,1,0,0,-1
+Esteban Ocon,OCO,2018,Las_vegas GP,19.0,N/A,N/A,N/A,Force India,11.0,,1,0,0,-1
+Nico Hülkenberg,HUL,2018,Las_vegas GP,9.0,1.8366,97.995,95.873,Renault,12.0,,0,2,2,1
+Alex Albon,ALB,2018,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Las_vegas GP,17.0,1.0986,99.801,98.319,Williams,19.0,,1,1,1,0
+Max Verstappen,VER,2019,Las_vegas GP,4.0,0.7748,95.463,94.162,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Las_vegas GP,1.0,0.731,94.894,92.764,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2019,Las_vegas GP,9.0,1.2611,96.857,95.197,McLaren,5.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Las_vegas GP,3.0,0.835,95.193,93.828,Ferrari,3.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Las_vegas GP,19.0,2.1523,98.604,95.83,Williams,20.0,,1,3,2,2
+Carlos Sainz,SAI,2019,Las_vegas GP,6.0,1.0777,96.659,94.561,McLaren,6.0,,0,2,2,1
+Yuki Tsunoda,TSU,2019,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Las_vegas GP,10.0,1.0297,96.932,95.15,Red Bull Racing,9.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Las_vegas GP,8.0,1.5612,96.832,94.754,Renault,13.0,,1,2,2,1
+Alex Albon,ALB,2019,Las_vegas GP,15.0,1.5461,97.248,95.029,Toro Rosso,11.0,,1,2,2,1
+Liam Lawson,LAW,2019,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Las_vegas GP,13.0,1.5379,96.994,94.924,Racing Point,17.0,,1,2,2,1
+Max Verstappen,VER,2020,Las_vegas GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2020,Las_vegas GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2020,Las_vegas GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0,2,2,1
+Charles Leclerc,LEC,2020,Las_vegas GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0,3,3,2
+Oscar Piastri,PIA,2020,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Las_vegas GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1,1,1,0
+Carlos Sainz,SAI,2020,Las_vegas GP,20.0,N/A,N/A,N/A,McLaren,7.0,,1,0,0,-1
+Yuki Tsunoda,TSU,2020,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Las_vegas GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0,2,2,1
+Esteban Ocon,OCO,2020,Las_vegas GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2020,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Las_vegas GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0,2,2,1
+Liam Lawson,LAW,2020,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Las_vegas GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0,2,2,1
+Max Verstappen,VER,2021,Las_vegas GP,1.0,1.0891,98.003,96.404,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2021,Las_vegas GP,2.0,0.4728,98.465,97.41,Mercedes,2.0,,0,2,2,1
+Lando Norris,NOR,2021,Las_vegas GP,5.0,1.7201,99.493,97.425,McLaren,8.0,,0,2,2,1
+Charles Leclerc,LEC,2021,Las_vegas GP,16.0,1.4049,100.202,97.681,Ferrari,7.0,,1,3,2,2
+Oscar Piastri,PIA,2021,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Las_vegas GP,12.0,1.3462,100.335,98.314,Williams,14.0,,1,2,2,1
+Carlos Sainz,SAI,2021,Las_vegas GP,11.0,0.627,100.249,98.931,Ferrari,5.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Las_vegas GP,13.0,0.8581,100.336,98.98,AlphaTauri,0.0,,1,2,2,1
+Fernando Alonso,ALO,2021,Las_vegas GP,8.0,1.7347,99.784,97.646,Alpine,9.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Las_vegas GP,7.0,1.1184,99.779,98.103,AlphaTauri,6.0,,0,2,2,1
+Esteban Ocon,OCO,2021,Las_vegas GP,14.0,1.5916,100.451,98.645,Alpine,11.0,,1,2,2,1
+Nico Hülkenberg,HUL,2021,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Las_vegas GP,10.0,1.5363,99.995,97.828,Aston Martin,19.0,,0,2,2,1
+Max Verstappen,VER,2022,Las_vegas GP,7.0,0.6675,94.015,92.354,Red Bull Racing,2.0,,0,4,3,3
+Lewis Hamilton,HAM,2022,Las_vegas GP,3.0,63.1003,93.887,90.51,Mercedes,5.0,,0,3,3,2
+Lando Norris,NOR,2022,Las_vegas GP,6.0,47.8753,94.734,91.645,McLaren,6.0,,0,3,3,2
+Charles Leclerc,LEC,2022,Las_vegas GP,4.0,73.1336,94.029,91.282,Ferrari,3.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Las_vegas GP,18.0,N/A,N/A,N/A,Mercedes,8.0,,1,0,0,-1
+Carlos Sainz,SAI,2022,Las_vegas GP,1.0,0.9911,92.654,90.813,Ferrari,1.0,,0,3,3,2
+Yuki Tsunoda,TSU,2022,Las_vegas GP,14.0,27.6005,96.428,93.832,AlphaTauri,13.0,,0,3,2,2
+Fernando Alonso,ALO,2022,Las_vegas GP,5.0,43.4564,94.632,91.609,Alpine,7.0,,0,3,3,2
+Pierre Gasly,GAS,2022,Las_vegas GP,16.0,61.8663,97.458,94.614,AlphaTauri,11.0,,1,2,2,1
+Esteban Ocon,OCO,2022,Las_vegas GP,15.0,27.8398,95.788,93.537,Alpine,15.0,,1,2,2,1
+Nico Hülkenberg,HUL,2022,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Las_vegas GP,20.0,N/A,N/A,N/A,Williams,16.0,,1,0,0,-1
+Liam Lawson,LAW,2022,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Las_vegas GP,11.0,11.6892,95.225,92.379,Aston Martin,20.0,,0,3,2,2
+Max Verstappen,VER,2023,Las_vegas GP,1.0,2.3569,97.676,95.614,Red Bull Racing,2.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,Las_vegas GP,7.0,3.0341,98.446,95.716,Mercedes,10.0,,0,3,2,2
+Lando Norris,NOR,2023,Las_vegas GP,20.0,N/A,N/A,N/A,McLaren,15.0,,1,0,0,-1
+Charles Leclerc,LEC,2023,Las_vegas GP,2.0,2.1496,97.782,95.669,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Las_vegas GP,10.0,2.6197,98.107,95.49,McLaren,18.0,,0,3,2,2
+George Russell,RUS,2023,Las_vegas GP,8.0,2.2414,98.257,96.071,Mercedes,3.0,,0,3,2,2
+Carlos Sainz,SAI,2023,Las_vegas GP,6.0,3.3436,98.71,95.984,Ferrari,12.0,,0,2,1,1
+Yuki Tsunoda,TSU,2023,Las_vegas GP,18.0,2.2402,100.034,97.587,AlphaTauri,20.0,,0,3,3,2
+Fernando Alonso,ALO,2023,Las_vegas GP,9.0,2.9968,98.943,96.559,Aston Martin,9.0,,0,2,1,1
+Pierre Gasly,GAS,2023,Las_vegas GP,11.0,1.2027,98.765,96.913,Alpine,4.0,,0,2,2,1
+Esteban Ocon,OCO,2023,Las_vegas GP,4.0,2.304,98.329,96.637,Alpine,16.0,,0,2,2,1
+Nico Hülkenberg,HUL,2023,Las_vegas GP,19.0,1.9554,99.469,97.565,Haas F1 Team,13.0,,0,3,2,2
+Alex Albon,ALB,2023,Las_vegas GP,12.0,1.0762,99.045,97.357,Williams,5.0,,0,2,2,1
+Liam Lawson,LAW,2023,Las_vegas GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Las_vegas GP,5.0,2.8583,98.575,96.584,Aston Martin,19.0,,0,2,1,1
+Max Verstappen,VER,2024,Las_vegas GP,5.0,0.9555,97.77,96.248,Red Bull Racing,5.0,,0,3,2,2
+Lewis Hamilton,HAM,2024,Las_vegas GP,2.0,2.0309,97.602,95.48,Mercedes,10.0,,0,3,2,2
+Lando Norris,NOR,2024,Las_vegas GP,6.0,1.9812,98.026,95.527,McLaren,6.0,,0,3,2,2
+Charles Leclerc,LEC,2024,Las_vegas GP,4.0,1.846,97.785,95.674,Ferrari,4.0,,0,3,2,2
+Oscar Piastri,PIA,2024,Las_vegas GP,7.0,1.1773,98.345,96.598,McLaren,8.0,,0,3,2,2
+George Russell,RUS,2024,Las_vegas GP,1.0,0.6993,97.591,95.946,Mercedes,1.0,,0,3,2,2
+Carlos Sainz,SAI,2024,Las_vegas GP,3.0,1.5492,97.613,95.875,Ferrari,2.0,,0,3,2,2
+Yuki Tsunoda,TSU,2024,Las_vegas GP,9.0,1.1734,98.659,96.957,RB,7.0,,0,3,2,2
+Fernando Alonso,ALO,2024,Las_vegas GP,11.0,1.341,98.723,96.553,Aston Martin,16.0,,0,3,2,2
+Pierre Gasly,GAS,2024,Las_vegas GP,20.0,1.002,99.768,98.314,Alpine,3.0,,1,2,2,1
+Esteban Ocon,OCO,2024,Las_vegas GP,17.0,0.8395,99.147,96.511,Alpine,11.0,,1,3,3,2
+Nico Hülkenberg,HUL,2024,Las_vegas GP,8.0,1.6165,98.59,96.585,Haas F1 Team,9.0,,0,3,2,2
+Alex Albon,ALB,2024,Las_vegas GP,19.0,1.078,99.434,98.008,Williams,17.0,,1,2,2,1
+Liam Lawson,LAW,2024,Las_vegas GP,16.0,1.2603,99.223,97.033,RB,14.0,,0,3,2,2
+Lance Stroll,STR,2024,Las_vegas GP,15.0,1.1914,98.685,97.179,Aston Martin,18.0,,0,3,2,2

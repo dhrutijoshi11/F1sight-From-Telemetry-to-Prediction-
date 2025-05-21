@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Singapore GP,2.0,1.777,105.57,103.345,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Singapore GP,1.0,2.1446,105.427,102.913,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2018,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Singapore GP,9.0,2.3977,107.833,105.203,Sauber,13.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Singapore GP,8.0,2.369,107.569,105.211,Renault,12.0,,1,2,2,1
+Yuki Tsunoda,TSU,2018,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Singapore GP,7.0,3.1117,107.103,103.164,McLaren,11.0,,0,2,2,1
+Pierre Gasly,GAS,2018,Singapore GP,13.0,3.5094,108.417,106.063,Toro Rosso,15.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Singapore GP,20.0,N/A,N/A,N/A,Racing Point,9.0,,1,0,0,-1
+Nico Hülkenberg,HUL,2018,Singapore GP,10.0,1.9019,108.029,106.093,Renault,10.0,,1,2,2,1
+Alex Albon,ALB,2018,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Singapore GP,14.0,2.296,108.444,106.033,Williams,20.0,,1,2,2,1
+Max Verstappen,VER,2019,Singapore GP,3.0,2.7791,107.605,105.176,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Singapore GP,4.0,2.4413,107.86,104.914,Mercedes,2.0,,0,2,2,1
+Lando Norris,NOR,2019,Singapore GP,7.0,1.8923,108.261,105.716,McLaren,9.0,,0,2,2,1
+Charles Leclerc,LEC,2019,Singapore GP,2.0,2.7807,107.548,104.723,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Singapore GP,20.0,0.4004,109.166,108.285,Williams,18.0,,1,1,1,0
+Carlos Sainz,SAI,2019,Singapore GP,12.0,4.8973,109.427,105.969,McLaren,7.0,,0,2,2,1
+Yuki Tsunoda,TSU,2019,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Singapore GP,8.0,2.2423,108.484,105.769,Toro Rosso,11.0,,0,2,2,1
+Esteban Ocon,OCO,2019,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Singapore GP,9.0,2.0629,108.388,105.765,Renault,8.0,,0,2,2,1
+Alex Albon,ALB,2019,Singapore GP,6.0,2.1502,108.165,105.26,Red Bull Racing,6.0,,0,2,2,1
+Liam Lawson,LAW,2019,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Singapore GP,13.0,3.7146,108.864,104.896,Racing Point,16.0,,0,4,3,3
+Max Verstappen,VER,2020,Singapore GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0,3,3,2
+Lewis Hamilton,HAM,2020,Singapore GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0,4,3,3
+Lando Norris,NOR,2020,Singapore GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1,3,3,2
+Charles Leclerc,LEC,2020,Singapore GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1,2,2,1
+Oscar Piastri,PIA,2020,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Singapore GP,18.0,11.488,83.108,79.984,Williams,12.0,,1,4,3,3
+Carlos Sainz,SAI,2020,Singapore GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1,3,3,2
+Yuki Tsunoda,TSU,2020,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Singapore GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1,2,2,1
+Esteban Ocon,OCO,2020,Singapore GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1,3,3,2
+Nico Hülkenberg,HUL,2020,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Singapore GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0,3,3,2
+Liam Lawson,LAW,2020,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Singapore GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0,4,3,3
+Max Verstappen,VER,2021,Singapore GP,9.0,2.1754,83.503,80.945,Red Bull Racing,3.0,,0,3,2,2
+Lewis Hamilton,HAM,2021,Singapore GP,2.0,3.3417,82.159,78.715,Mercedes,1.0,,0,3,2,2
+Lando Norris,NOR,2021,Singapore GP,15.0,N/A,N/A,N/A,McLaren,6.0,,1,0,0,-1
+Charles Leclerc,LEC,2021,Singapore GP,18.0,N/A,N/A,N/A,Ferrari,7.0,,1,0,0,-1
+Oscar Piastri,PIA,2021,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Singapore GP,8.0,1.188,83.79,82.112,Williams,17.0,,0,2,2,1
+Carlos Sainz,SAI,2021,Singapore GP,3.0,1.7361,82.865,81.423,Ferrari,15.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Singapore GP,6.0,2.278,83.805,82.45,AlphaTauri,16.0,,0,2,2,1
+Fernando Alonso,ALO,2021,Singapore GP,4.0,2.0011,82.865,80.359,Alpine,9.0,,0,2,2,1
+Pierre Gasly,GAS,2021,Singapore GP,5.0,2.1877,83.196,78.394,AlphaTauri,5.0,,0,3,3,2
+Esteban Ocon,OCO,2021,Singapore GP,1.0,0.9516,82.72,81.421,Alpine,8.0,,0,2,2,1
+Nico Hülkenberg,HUL,2021,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Singapore GP,19.0,N/A,N/A,N/A,Aston Martin,12.0,,1,0,0,-1
+Max Verstappen,VER,2022,Singapore GP,7.0,28.4029,116.562,109.142,Red Bull Racing,8.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Singapore GP,9.0,24.8329,117.17,110.622,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2022,Singapore GP,4.0,25.8847,116.57,109.212,McLaren,6.0,,0,2,2,1
+Charles Leclerc,LEC,2022,Singapore GP,2.0,21.3435,115.134,108.753,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Singapore GP,14.0,36.0282,119.606,106.458,Mercedes,0.0,,1,5,3,4
+Carlos Sainz,SAI,2022,Singapore GP,3.0,25.1823,115.768,108.414,Ferrari,4.0,,0,2,2,1
+Yuki Tsunoda,TSU,2022,Singapore GP,15.0,3.4932,122.314,118.716,AlphaTauri,10.0,,1,1,1,0
+Fernando Alonso,ALO,2022,Singapore GP,18.0,1.3232,122.0,120.463,Alpine,5.0,,1,1,1,0
+Pierre Gasly,GAS,2022,Singapore GP,10.0,22.4123,117.926,110.569,AlphaTauri,7.0,,0,2,2,1
+Esteban Ocon,OCO,2022,Singapore GP,16.0,3.0798,123.33,121.105,Alpine,17.0,,1,1,1,0
+Nico Hülkenberg,HUL,2022,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Singapore GP,17.0,3.7877,124.277,122.121,Williams,18.0,,1,1,1,0
+Liam Lawson,LAW,2022,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Singapore GP,6.0,26.6333,117.94,110.283,Aston Martin,11.0,,0,2,2,1
+Max Verstappen,VER,2023,Singapore GP,5.0,2.7651,99.657,96.575,Red Bull Racing,11.0,,0,2,2,1
+Lewis Hamilton,HAM,2023,Singapore GP,3.0,2.7086,99.337,95.867,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2023,Singapore GP,2.0,0.9215,99.669,98.046,McLaren,4.0,,0,2,2,1
+Charles Leclerc,LEC,2023,Singapore GP,4.0,0.7185,99.935,98.275,Ferrari,3.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Singapore GP,7.0,1.3871,100.547,98.492,McLaren,17.0,,0,2,2,1
+George Russell,RUS,2023,Singapore GP,16.0,1.872,99.423,96.273,Mercedes,2.0,,0,3,2,2
+Carlos Sainz,SAI,2023,Singapore GP,1.0,0.8314,99.607,97.666,Ferrari,1.0,,0,2,2,1
+Yuki Tsunoda,TSU,2023,Singapore GP,19.0,N/A,N/A,N/A,AlphaTauri,15.0,,1,0,0,-1
+Fernando Alonso,ALO,2023,Singapore GP,15.0,5.3901,100.529,96.456,Aston Martin,7.0,,0,3,3,2
+Pierre Gasly,GAS,2023,Singapore GP,6.0,1.4103,100.464,98.277,Alpine,12.0,,0,2,2,1
+Esteban Ocon,OCO,2023,Singapore GP,18.0,0.6944,100.837,99.93,Alpine,8.0,,1,2,2,1
+Nico Hülkenberg,HUL,2023,Singapore GP,13.0,0.9266,101.233,99.923,Haas F1 Team,9.0,,0,2,2,1
+Alex Albon,ALB,2023,Singapore GP,11.0,7.2755,100.816,97.342,Williams,14.0,,0,3,2,2
+Liam Lawson,LAW,2023,Singapore GP,9.0,0.7814,100.962,99.028,AlphaTauri,10.0,,0,2,2,1
+Lance Stroll,STR,2023,Singapore GP,,N/A,N/A,N/A,Aston Martin,,,1,N/A,N/A,N/A
+Max Verstappen,VER,2024,Singapore GP,2.0,0.6588,97.377,95.967,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Singapore GP,6.0,0.424,98.438,97.393,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2024,Singapore GP,1.0,0.847,97.062,94.925,McLaren,1.0,,0,2,2,1
+Charles Leclerc,LEC,2024,Singapore GP,5.0,1.8009,97.994,95.371,Ferrari,9.0,,0,2,2,1
+Oscar Piastri,PIA,2024,Singapore GP,3.0,0.938,97.715,95.745,McLaren,5.0,,0,2,2,1
+George Russell,RUS,2024,Singapore GP,4.0,0.3721,98.049,97.047,Mercedes,4.0,,0,2,2,1
+Carlos Sainz,SAI,2024,Singapore GP,7.0,0.4548,98.561,96.561,Ferrari,10.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Singapore GP,12.0,1.5102,98.675,96.393,RB,8.0,,1,2,2,1
+Fernando Alonso,ALO,2024,Singapore GP,8.0,0.3612,98.605,97.741,Aston Martin,7.0,,1,2,2,1
+Pierre Gasly,GAS,2024,Singapore GP,17.0,2.2085,99.383,96.927,Alpine,18.0,,1,2,2,1
+Esteban Ocon,OCO,2024,Singapore GP,13.0,0.7223,99.241,97.964,Alpine,15.0,,1,2,2,1
+Nico Hülkenberg,HUL,2024,Singapore GP,9.0,0.525,98.617,97.47,Haas F1 Team,6.0,,1,2,2,1
+Alex Albon,ALB,2024,Singapore GP,20.0,0.8257,99.269,96.888,Williams,11.0,,1,2,2,1
+Liam Lawson,LAW,2024,Singapore GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Singapore GP,14.0,0.9035,99.281,97.851,Aston Martin,17.0,,1,2,2,1

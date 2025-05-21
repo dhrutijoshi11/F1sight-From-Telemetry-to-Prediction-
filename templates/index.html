@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>F1 Race Predictor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    select {
+      padding: 10px;
+      font-size: 16px;
+    }
+    .section {
+      margin: 20px 0;
+    }
+    .card {
+      display: inline-block;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin: 10px;
+      padding: 10px;
+      width: 150px;
+      text-align: center;
+    }
+    .card img {
+      width: 100px;
+      border-radius: 50%;
+    }
+    .comparison {
+      display: flex;
+      justify-content: space-around;
+    }
+    table {
+      width: 100%;
+      background: white;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: center;
+    }
+    #driverModal {
+      display: none;
+      position: fixed;
+      top: 10%;
+      left: 30%;
+      width: 40%;
+      background: white;
+      padding: 20px;
+      border: 2px solid #444;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Formula 1 Race Predictor</h1>
+  <label for="gpSelect">Select Grand Prix:</label>
+  <select id="gpSelect">
+    <option>-- Select --</option>
+    <option value="monaco">Monaco GP</option>
+    <option value="silverstone">Silverstone GP</option>
+    <option value="spa">Spa GP</option>
+  </select>
+</header>
+
+<div class="section" id="predictionSection">
+  <h2>🏆 Predicted Podium</h2>
+  <div id="predictedPodium" class="cards">
+    <!-- JS will populate driver cards here -->
+  </div>
+</div>
+
+<div class="section" id="overviewSection">
+  <h2>🏁 GP Overview</h2>
+  <div class="comparison">
+    <div>
+      <h3>Actual Top 3</h3>
+      <div id="actualTop3">
+        <!-- actual results -->
+      </div>
+    </div>
+    <div>
+      <h3>Predicted Top 3</h3>
+      <div id="predictedTop3">
+        <!-- model predictions -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>📊 Season Standings</h2>
+  <table>
+    <thead>
+      <tr><th>Position</th><th>Driver</th><th>Points</th></tr>
+    </thead>
+    <tbody id="seasonTable">
+      <!-- JS will populate -->
+    </tbody>
+  </table>
+</div>
+
+<!-- Hidden Modal for Driver Info -->
+<div id="driverModal">
+  <h3 id="modalName">Driver Name</h3>
+  <p id="modalBio">Bio and stats will be shown here.</p>
+  <button onclick="document.getElementById('driverModal').style.display='none'">Close</button>
+</div>
+
+<script>
+  // Placeholder example (you will fetch this from Flask in real app)
+  const mockDrivers = [
+    { name: "Max Verstappen", image: "max.jpg" },
+    { name: "Lewis Hamilton", image: "lewis.jpg" },
+    { name: "Charles Leclerc", image: "leclerc.jpg" },
+  ];
+
+  document.getElementById('gpSelect').addEventListener('change', function () {
+    const podium = document.getElementById('predictedPodium');
+    podium.innerHTML = "";
+    mockDrivers.forEach(driver => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <img src="/static/images/${driver.image}" onclick="showDriverInfo('${driver.name}')"/>
+        <p>${driver.name}</p>
+      `;
+      podium.appendChild(card);
+    });
+  });
+
+  function showDriverInfo(name) {
+    document.getElementById('modalName').innerText = name;
+    document.getElementById('modalBio').innerText = "Fetching data...";
+    document.getElementById('driverModal').style.display = 'block';
+
+    // Replace this with real API call
+    setTimeout(() => {
+      document.getElementById('modalBio').innerText = "Nationality: Dutch\nAge: 26\nTeam: Red Bull";
+    }, 500);
+  }
+</script>
+
+</body>
+</html>

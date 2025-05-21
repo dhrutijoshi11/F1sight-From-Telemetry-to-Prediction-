@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,United_States GP,2.0,0.8969,99.694,98.246,Red Bull Racing,18.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,United_States GP,3.0,1.6664,99.636,97.392,Mercedes,1.0,,0,3,2,2
+Lando Norris,NOR,2018,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,United_States GP,15.0,0.4721,103.115,101.982,Sauber,9.0,,1,2,1,1
+Oscar Piastri,PIA,2018,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,United_States GP,7.0,0.9555,101.324,99.858,Renault,11.0,,0,2,2,1
+Yuki Tsunoda,TSU,2018,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,United_States GP,18.0,N/A,N/A,N/A,McLaren,13.0,,1,0,0,-1
+Pierre Gasly,GAS,2018,United_States GP,12.0,2.0537,102.353,99.646,Toro Rosso,19.0,,1,3,3,2
+Esteban Ocon,OCO,2018,United_States GP,19.0,1.3896,101.463,99.992,Racing Point,6.0,,1,2,2,1
+Nico Hülkenberg,HUL,2018,United_States GP,6.0,0.9568,101.235,99.548,Renault,7.0,,0,2,2,1
+Alex Albon,ALB,2018,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,United_States GP,14.0,2.2095,102.688,100.433,Williams,15.0,,1,3,2,2
+Max Verstappen,VER,2019,United_States GP,3.0,1.129,99.995,98.214,Red Bull Racing,3.0,,0,3,2,2
+Lewis Hamilton,HAM,2019,United_States GP,2.0,1.0267,100.262,98.446,Mercedes,5.0,,0,2,2,1
+Lando Norris,NOR,2019,United_States GP,7.0,2.0913,101.406,98.074,McLaren,8.0,,0,3,3,2
+Charles Leclerc,LEC,2019,United_States GP,4.0,2.4551,100.571,96.169,Ferrari,4.0,,0,3,3,2
+Oscar Piastri,PIA,2019,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,United_States GP,17.0,2.3461,103.817,101.239,Williams,18.0,,1,3,3,2
+Carlos Sainz,SAI,2019,United_States GP,8.0,1.3034,102.12,100.844,McLaren,7.0,,1,2,2,1
+Yuki Tsunoda,TSU,2019,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,United_States GP,16.0,1.1812,102.281,100.85,Toro Rosso,10.0,,1,2,2,1
+Esteban Ocon,OCO,2019,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,United_States GP,9.0,2.983,101.838,98.437,Renault,11.0,,1,3,3,2
+Alex Albon,ALB,2019,United_States GP,5.0,1.9748,100.597,98.029,Red Bull Racing,6.0,,0,3,2,2
+Liam Lawson,LAW,2019,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,United_States GP,13.0,1.2533,102.252,100.38,Racing Point,14.0,,1,3,3,2
+Max Verstappen,VER,2020,United_States GP,2.0,6.485,81.438,79.184,Red Bull Racing,7.0,,0,3,3,2
+Lewis Hamilton,HAM,2020,United_States GP,1.0,4.0526,80.981,76.627,Mercedes,1.0,,0,4,3,3
+Lando Norris,NOR,2020,United_States GP,13.0,9.9932,83.008,79.945,McLaren,8.0,,1,3,3,2
+Charles Leclerc,LEC,2020,United_States GP,11.0,5.2248,82.912,80.821,Ferrari,6.0,,1,2,2,1
+Oscar Piastri,PIA,2020,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,United_States GP,18.0,11.488,83.108,79.984,Williams,12.0,,1,4,3,3
+Carlos Sainz,SAI,2020,United_States GP,9.0,7.1385,82.658,79.457,McLaren,9.0,,1,3,3,2
+Yuki Tsunoda,TSU,2020,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,United_States GP,20.0,11.3835,87.03,83.939,AlphaTauri,10.0,,1,2,2,1
+Esteban Ocon,OCO,2020,United_States GP,14.0,8.3861,83.0,80.261,Renault,14.0,,1,3,3,2
+Nico Hülkenberg,HUL,2020,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,United_States GP,5.0,6.3194,82.234,79.44,Red Bull Racing,13.0,,0,3,3,2
+Liam Lawson,LAW,2020,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,United_States GP,4.0,5.0986,81.688,78.973,Racing Point,3.0,,0,4,3,3
+Max Verstappen,VER,2021,United_States GP,1.0,0.5824,100.427,99.096,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2021,United_States GP,2.0,1.0218,100.421,98.485,Mercedes,2.0,,0,3,2,2
+Lando Norris,NOR,2021,United_States GP,8.0,1.2398,101.821,100.228,McLaren,7.0,,0,3,2,2
+Charles Leclerc,LEC,2021,United_States GP,4.0,1.0427,101.3,99.303,Ferrari,4.0,,0,3,2,2
+Oscar Piastri,PIA,2021,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,United_States GP,14.0,1.6388,103.316,101.12,Williams,20.0,,1,3,2,2
+Carlos Sainz,SAI,2021,United_States GP,7.0,1.0432,101.854,100.377,Ferrari,5.0,,0,3,2,2
+Yuki Tsunoda,TSU,2021,United_States GP,9.0,1.0661,102.748,101.151,AlphaTauri,10.0,,1,3,2,2
+Fernando Alonso,ALO,2021,United_States GP,18.0,2.9952,102.742,100.067,Alpine,19.0,,1,4,2,3
+Pierre Gasly,GAS,2021,United_States GP,20.0,1.7791,104.205,102.015,AlphaTauri,8.0,,1,2,2,1
+Esteban Ocon,OCO,2021,United_States GP,19.0,0.9307,103.63,102.194,Alpine,11.0,,1,3,2,2
+Nico Hülkenberg,HUL,2021,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,United_States GP,12.0,1.637,103.202,101.189,Aston Martin,13.0,,1,3,2,2
+Max Verstappen,VER,2022,United_States GP,1.0,1.0725,101.23,99.541,Red Bull Racing,2.0,,0,3,2,2
+Lewis Hamilton,HAM,2022,United_States GP,2.0,0.96,101.586,99.83,Mercedes,3.0,,0,3,2,2
+Lando Norris,NOR,2022,United_States GP,6.0,1.3846,103.109,101.322,McLaren,6.0,,0,3,2,2
+Charles Leclerc,LEC,2022,United_States GP,3.0,1.757,101.881,99.731,Ferrari,12.0,,0,3,2,2
+Oscar Piastri,PIA,2022,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,United_States GP,5.0,1.1575,101.987,98.788,Mercedes,4.0,,0,4,3,3
+Carlos Sainz,SAI,2022,United_States GP,20.0,N/A,N/A,N/A,Ferrari,1.0,,1,0,0,-1
+Yuki Tsunoda,TSU,2022,United_States GP,10.0,0.8599,103.418,102.206,AlphaTauri,19.0,,0,3,2,2
+Fernando Alonso,ALO,2022,United_States GP,7.0,1.0611,103.499,101.804,Alpine,14.0,,0,2,1,1
+Pierre Gasly,GAS,2022,United_States GP,14.0,0.8553,103.265,101.674,AlphaTauri,11.0,,0,3,2,2
+Esteban Ocon,OCO,2022,United_States GP,11.0,1.621,103.588,101.243,Alpine,0.0,,0,3,2,2
+Nico Hülkenberg,HUL,2022,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,United_States GP,13.0,0.6666,103.897,102.471,Williams,8.0,,0,3,2,2
+Liam Lawson,LAW,2022,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,United_States GP,18.0,0.5279,104.015,103.08,Aston Martin,5.0,,1,2,1,1
+Max Verstappen,VER,2023,United_States GP,1.0,0.9153,101.345,100.028,Red Bull Racing,6.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,United_States GP,19.0,1.1188,101.328,99.582,Mercedes,3.0,,1,3,2,2
+Lando Norris,NOR,2023,United_States GP,2.0,0.722,101.603,99.985,McLaren,2.0,,0,3,2,2
+Charles Leclerc,LEC,2023,United_States GP,20.0,0.5979,102.162,101.025,Ferrari,1.0,,1,2,2,1
+Oscar Piastri,PIA,2023,United_States GP,17.0,0.1242,103.138,102.705,McLaren,10.0,,1,1,1,0
+George Russell,RUS,2023,United_States GP,5.0,1.7993,101.733,99.393,Mercedes,5.0,,0,3,2,2
+Carlos Sainz,SAI,2023,United_States GP,3.0,1.082,101.68,100.034,Ferrari,4.0,,0,3,2,2
+Yuki Tsunoda,TSU,2023,United_States GP,8.0,1.233,102.238,98.139,AlphaTauri,11.0,,0,4,3,3
+Fernando Alonso,ALO,2023,United_States GP,16.0,2.3056,102.44,99.954,Aston Martin,19.0,,1,3,2,2
+Pierre Gasly,GAS,2023,United_States GP,6.0,1.2017,102.173,100.412,Alpine,7.0,,0,3,2,2
+Esteban Ocon,OCO,2023,United_States GP,18.0,4.754,107.073,104.789,Alpine,8.0,,1,1,1,0
+Nico Hülkenberg,HUL,2023,United_States GP,11.0,1.316,102.752,100.925,Haas F1 Team,18.0,,0,3,2,2
+Alex Albon,ALB,2023,United_States GP,9.0,0.9038,102.851,101.371,Williams,15.0,,0,3,2,2
+Liam Lawson,LAW,2023,United_States GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,United_States GP,7.0,2.3772,102.094,99.908,Aston Martin,20.0,,0,3,2,2
+Max Verstappen,VER,2024,United_States GP,3.0,0.4859,99.276,98.117,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,United_States GP,20.0,N/A,N/A,N/A,Mercedes,17.0,,1,0,0,-1
+Lando Norris,NOR,2024,United_States GP,4.0,0.9932,99.195,97.679,McLaren,1.0,,0,2,2,1
+Charles Leclerc,LEC,2024,United_States GP,1.0,0.3908,98.941,97.834,Ferrari,4.0,,0,2,2,1
+Oscar Piastri,PIA,2024,United_States GP,5.0,1.2052,99.379,97.883,McLaren,5.0,,0,2,2,1
+George Russell,RUS,2024,United_States GP,6.0,2.4375,99.869,97.656,Mercedes,20.0,,0,2,2,1
+Carlos Sainz,SAI,2024,United_States GP,2.0,0.7095,99.108,97.763,Ferrari,3.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,United_States GP,14.0,0.8845,100.649,99.193,RB,10.0,,1,2,2,1
+Fernando Alonso,ALO,2024,United_States GP,13.0,1.0992,100.866,99.261,Aston Martin,7.0,,1,2,2,1
+Pierre Gasly,GAS,2024,United_States GP,12.0,0.9014,100.427,98.311,Alpine,6.0,,0,2,2,1
+Esteban Ocon,OCO,2024,United_States GP,18.0,1.3244,101.011,97.33,Alpine,12.0,,1,3,3,2
+Nico Hülkenberg,HUL,2024,United_States GP,8.0,1.4992,100.042,98.404,Haas F1 Team,11.0,,0,2,2,1
+Alex Albon,ALB,2024,United_States GP,16.0,2.109,101.132,99.084,Williams,14.0,,1,3,2,2
+Liam Lawson,LAW,2024,United_States GP,9.0,1.7797,100.227,98.091,RB,19.0,,0,2,2,1
+Lance Stroll,STR,2024,United_States GP,15.0,1.1433,100.955,99.214,Aston Martin,13.0,,1,2,2,1

@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Mexican GP,1.0,0.6099,80.914,79.186,Red Bull Racing,2.0,,0,3,2,2
+Lewis Hamilton,HAM,2018,Mexican GP,4.0,0.7153,82.099,80.728,Mercedes,3.0,,0,3,2,2
+Lando Norris,NOR,2018,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Mexican GP,7.0,2.0626,84.175,80.537,Sauber,9.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Mexican GP,19.0,0.5575,84.142,82.386,Renault,8.0,,1,2,2,1
+Yuki Tsunoda,TSU,2018,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Mexican GP,20.0,0.1794,84.62,84.197,McLaren,12.0,,1,1,1,0
+Pierre Gasly,GAS,2018,Mexican GP,10.0,1.1069,84.236,82.755,Toro Rosso,20.0,,1,3,2,2
+Esteban Ocon,OCO,2018,Mexican GP,11.0,0.8049,84.49,82.629,Racing Point,11.0,,1,2,2,1
+Nico Hülkenberg,HUL,2018,Mexican GP,6.0,1.6201,84.005,80.637,Renault,7.0,,1,2,2,1
+Alex Albon,ALB,2018,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Mexican GP,12.0,0.5721,84.366,82.983,Williams,17.0,,1,3,2,2
+Max Verstappen,VER,2019,Mexican GP,6.0,0.8257,81.368,80.406,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Mexican GP,1.0,0.4447,80.82,79.461,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2019,Mexican GP,20.0,1.2299,83.165,81.643,McLaren,8.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Mexican GP,4.0,0.6551,80.602,79.232,Ferrari,1.0,,0,3,2,2
+Oscar Piastri,PIA,2019,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Mexican GP,16.0,1.4338,83.732,81.286,Williams,19.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Mexican GP,13.0,1.7597,82.069,80.311,McLaren,7.0,,1,3,3,2
+Yuki Tsunoda,TSU,2019,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Mexican GP,9.0,2.3073,81.967,79.53,Toro Rosso,10.0,,1,3,3,2
+Esteban Ocon,OCO,2019,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Mexican GP,10.0,2.6209,82.322,80.791,Renault,12.0,,1,2,2,1
+Alex Albon,ALB,2019,Mexican GP,5.0,0.74,80.771,79.325,Red Bull Racing,5.0,,0,3,2,2
+Liam Lawson,LAW,2019,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Mexican GP,12.0,0.8541,82.4,80.922,Racing Point,16.0,,1,2,2,1
+Max Verstappen,VER,2020,Mexican GP,3.0,0.7604,109.41,108.305,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2020,Mexican GP,1.0,0.7407,108.938,107.758,Mercedes,1.0,,0,2,2,1
+Lando Norris,NOR,2020,Mexican GP,7.0,1.6852,110.457,108.552,McLaren,10.0,,0,2,2,1
+Charles Leclerc,LEC,2020,Mexican GP,14.0,2.1391,110.821,107.84,Ferrari,13.0,,0,3,3,2
+Oscar Piastri,PIA,2020,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Mexican GP,19.0,0.5279,112.782,111.754,Williams,15.0,,1,1,1,0
+Carlos Sainz,SAI,2020,Mexican GP,20.0,N/A,N/A,N/A,McLaren,7.0,,1,0,0,-1
+Yuki Tsunoda,TSU,2020,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Mexican GP,8.0,2.0508,109.987,107.839,AlphaTauri,12.0,,0,2,2,1
+Esteban Ocon,OCO,2020,Mexican GP,5.0,1.0911,110.202,108.54,Renault,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2020,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Mexican GP,6.0,0.9648,110.285,108.736,Red Bull Racing,5.0,,0,2,2,1
+Liam Lawson,LAW,2020,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Mexican GP,9.0,0.9501,110.555,109.136,Racing Point,9.0,,0,2,2,1
+Max Verstappen,VER,2021,Mexican GP,1.0,0.5428,80.696,78.999,Red Bull Racing,3.0,,0,2,2,1
+Lewis Hamilton,HAM,2021,Mexican GP,2.0,0.4517,80.894,79.82,Mercedes,2.0,,0,2,2,1
+Lando Norris,NOR,2021,Mexican GP,10.0,1.4992,82.188,80.617,McLaren,18.0,,1,2,2,1
+Charles Leclerc,LEC,2021,Mexican GP,5.0,0.4904,81.861,80.665,Ferrari,8.0,,0,2,2,1
+Oscar Piastri,PIA,2021,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Mexican GP,16.0,1.5567,83.704,82.016,Williams,16.0,,1,2,2,1
+Carlos Sainz,SAI,2021,Mexican GP,6.0,1.6209,81.909,80.081,Ferrari,6.0,,1,2,2,1
+Yuki Tsunoda,TSU,2021,Mexican GP,20.0,N/A,N/A,N/A,AlphaTauri,17.0,,1,0,0,-1
+Fernando Alonso,ALO,2021,Mexican GP,9.0,1.2299,82.155,80.711,Alpine,12.0,,1,2,2,1
+Pierre Gasly,GAS,2021,Mexican GP,4.0,0.4784,81.605,80.51,AlphaTauri,5.0,,0,2,2,1
+Esteban Ocon,OCO,2021,Mexican GP,13.0,1.4923,82.909,81.348,Alpine,19.0,,1,2,2,1
+Nico Hülkenberg,HUL,2021,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Mexican GP,14.0,1.931,82.695,80.93,Aston Martin,20.0,,1,3,2,2
+Max Verstappen,VER,2022,Mexican GP,1.0,0.2012,82.748,82.046,Red Bull Racing,1.0,,0,2,2,1
+Lewis Hamilton,HAM,2022,Mexican GP,2.0,0.1729,82.921,82.062,Mercedes,3.0,,0,2,2,1
+Lando Norris,NOR,2022,Mexican GP,9.0,0.4329,84.41,83.402,McLaren,8.0,,1,2,2,1
+Charles Leclerc,LEC,2022,Mexican GP,6.0,0.4921,83.646,82.603,Ferrari,7.0,,0,2,2,1
+Oscar Piastri,PIA,2022,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Mexican GP,4.0,0.3347,82.973,80.153,Mercedes,2.0,,0,3,3,2
+Carlos Sainz,SAI,2022,Mexican GP,5.0,0.3777,83.493,82.199,Ferrari,5.0,,0,2,2,1
+Yuki Tsunoda,TSU,2022,Mexican GP,20.0,0.2712,84.553,83.403,AlphaTauri,13.0,,1,2,2,1
+Fernando Alonso,ALO,2022,Mexican GP,19.0,0.675,84.415,82.866,Alpine,9.0,,1,2,2,1
+Pierre Gasly,GAS,2022,Mexican GP,11.0,1.1258,84.349,82.277,AlphaTauri,14.0,,1,2,2,1
+Esteban Ocon,OCO,2022,Mexican GP,8.0,0.4349,84.354,83.279,Alpine,10.0,,1,2,2,1
+Nico Hülkenberg,HUL,2022,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Mexican GP,12.0,0.9588,84.437,82.914,Williams,17.0,,1,2,2,1
+Liam Lawson,LAW,2022,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Mexican GP,15.0,1.2472,84.484,82.463,Aston Martin,20.0,,1,3,2,2
+Max Verstappen,VER,2023,Mexican GP,1.0,0.4024,82.711,81.644,Red Bull Racing,3.0,,0,3,2,2
+Lewis Hamilton,HAM,2023,Mexican GP,2.0,0.6073,83.151,81.334,Mercedes,6.0,,0,3,2,2
+Lando Norris,NOR,2023,Mexican GP,5.0,46.8661,84.308,81.944,McLaren,17.0,,0,3,3,2
+Charles Leclerc,LEC,2023,Mexican GP,3.0,0.2741,83.276,82.332,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2023,Mexican GP,8.0,65.0211,84.693,82.76,McLaren,7.0,,0,3,2,2
+George Russell,RUS,2023,Mexican GP,6.0,52.1308,84.587,82.78,Mercedes,8.0,,0,3,2,2
+Carlos Sainz,SAI,2023,Mexican GP,4.0,0.425,83.423,82.539,Ferrari,2.0,,0,3,2,2
+Yuki Tsunoda,TSU,2023,Mexican GP,12.0,55.1671,84.925,82.501,AlphaTauri,18.0,,0,3,2,2
+Fernando Alonso,ALO,2023,Mexican GP,18.0,21.4486,85.863,83.531,Aston Martin,13.0,,1,3,2,2
+Pierre Gasly,GAS,2023,Mexican GP,11.0,36.923,85.061,83.23,Alpine,11.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Mexican GP,10.0,22.1537,85.16,82.976,Alpine,15.0,,0,2,2,1
+Nico Hülkenberg,HUL,2023,Mexican GP,13.0,45.7956,85.348,83.222,Haas F1 Team,12.0,,0,3,2,2
+Alex Albon,ALB,2023,Mexican GP,9.0,31.872,84.913,82.773,Williams,14.0,,0,2,2,1
+Liam Lawson,LAW,2023,Mexican GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Mexican GP,17.0,17.4619,85.094,83.257,Aston Martin,0.0,,1,2,2,1
+Max Verstappen,VER,2024,Mexican GP,6.0,0.3616,81.632,80.872,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2024,Mexican GP,4.0,0.9259,81.697,80.371,Mercedes,6.0,,0,2,2,1
+Lando Norris,NOR,2024,Mexican GP,2.0,0.8258,81.068,79.691,McLaren,3.0,,0,2,2,1
+Charles Leclerc,LEC,2024,Mexican GP,3.0,0.6293,81.211,78.336,Ferrari,4.0,,0,3,3,2
+Oscar Piastri,PIA,2024,Mexican GP,8.0,1.9038,81.945,80.064,McLaren,17.0,,0,2,2,1
+George Russell,RUS,2024,Mexican GP,5.0,0.5105,81.762,80.731,Mercedes,5.0,,0,2,2,1
+Carlos Sainz,SAI,2024,Mexican GP,1.0,0.377,81.082,80.137,Ferrari,1.0,,0,2,2,1
+Yuki Tsunoda,TSU,2024,Mexican GP,20.0,N/A,N/A,N/A,RB,11.0,,1,0,0,-1
+Fernando Alonso,ALO,2024,Mexican GP,18.0,0.3013,83.507,82.722,Aston Martin,13.0,,1,1,1,0
+Pierre Gasly,GAS,2024,Mexican GP,10.0,0.6441,82.546,81.274,Alpine,8.0,,1,2,2,1
+Esteban Ocon,OCO,2024,Mexican GP,13.0,1.4724,82.802,80.659,Alpine,0.0,,1,2,2,1
+Nico Hülkenberg,HUL,2024,Mexican GP,9.0,0.926,82.321,80.748,Haas F1 Team,10.0,,1,2,2,1
+Alex Albon,ALB,2024,Mexican GP,19.0,N/A,N/A,N/A,Williams,9.0,,1,0,0,-1
+Liam Lawson,LAW,2024,Mexican GP,16.0,1.1987,82.711,79.502,RB,12.0,,1,3,3,2
+Lance Stroll,STR,2024,Mexican GP,11.0,0.7678,82.595,81.311,Aston Martin,14.0,,1,2,2,1

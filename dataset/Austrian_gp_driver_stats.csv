@@ -1,0 +1,106 @@
+Driver,Driver Code,Year,GP Name,Finishing Position,Lap Variance,Average Lap Time,Best Lap Time,Team,Grid Position,Qualifying Position,DNF,Stints,Compounds Used,Pit Stops
+Max Verstappen,VER,2018,Austrian GP,1.0,0.3705,68.52,67.442,Red Bull Racing,4.0,,0,2,2,1
+Lewis Hamilton,HAM,2018,Austrian GP,16.0,0.3501,68.66,67.241,Mercedes,2.0,,1,3,3,2
+Lando Norris,NOR,2018,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Charles Leclerc,LEC,2018,Austrian GP,9.0,0.6164,70.033,69.006,Sauber,18.0,,1,2,2,1
+Oscar Piastri,PIA,2018,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2018,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Carlos Sainz,SAI,2018,Austrian GP,12.0,0.595,70.024,68.766,Renault,9.0,,1,3,3,2
+Yuki Tsunoda,TSU,2018,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2018,Austrian GP,8.0,1.0488,70.071,68.661,McLaren,13.0,,1,2,2,1
+Pierre Gasly,GAS,2018,Austrian GP,11.0,0.7197,70.292,69.295,Toro Rosso,12.0,,1,2,2,1
+Esteban Ocon,OCO,2018,Austrian GP,6.0,0.4458,69.963,68.85,Force India,11.0,,1,2,2,1
+Nico Hülkenberg,HUL,2018,Austrian GP,20.0,1.2363,71.2,70.38,Renault,10.0,,1,1,1,0
+Alex Albon,ALB,2018,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2018,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2018,Austrian GP,14.0,0.6364,70.581,69.203,Williams,14.0,,1,3,3,2
+Max Verstappen,VER,2019,Austrian GP,1.0,0.7801,68.926,67.475,Red Bull Racing,2.0,,0,2,2,1
+Lewis Hamilton,HAM,2019,Austrian GP,5.0,0.3938,69.149,68.05,Mercedes,4.0,,0,2,2,1
+Lando Norris,NOR,2019,Austrian GP,6.0,0.4884,69.92,68.699,McLaren,5.0,,1,2,2,1
+Charles Leclerc,LEC,2019,Austrian GP,2.0,0.2321,69.018,67.994,Ferrari,1.0,,0,2,2,1
+Oscar Piastri,PIA,2019,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2019,Austrian GP,18.0,0.9273,71.086,69.926,Williams,0.0,,1,2,2,1
+Carlos Sainz,SAI,2019,Austrian GP,8.0,1.1828,70.136,68.117,McLaren,19.0,,1,2,2,1
+Yuki Tsunoda,TSU,2019,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2019,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2019,Austrian GP,7.0,0.547,70.007,68.79,Red Bull Racing,8.0,,1,2,2,1
+Esteban Ocon,OCO,2019,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Nico Hülkenberg,HUL,2019,Austrian GP,13.0,0.5267,70.287,69.248,Renault,15.0,,1,2,2,1
+Alex Albon,ALB,2019,Austrian GP,15.0,1.4097,70.362,68.946,Toro Rosso,18.0,,1,2,2,1
+Liam Lawson,LAW,2019,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2019,Austrian GP,14.0,0.7005,70.381,69.288,Racing Point,14.0,,1,2,2,1
+Max Verstappen,VER,2020,Austrian GP,20.0,0.0225,69.508,69.351,Red Bull Racing,2.0,,1,1,1,0
+Lewis Hamilton,HAM,2020,Austrian GP,4.0,0.3745,68.772,67.712,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2020,Austrian GP,3.0,0.591,69.428,67.475,McLaren,3.0,,0,3,3,2
+Charles Leclerc,LEC,2020,Austrian GP,2.0,0.7224,69.48,67.901,Ferrari,7.0,,0,3,3,2
+Oscar Piastri,PIA,2020,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2020,Austrian GP,15.0,0.7924,70.909,69.317,Williams,17.0,,1,2,2,1
+Carlos Sainz,SAI,2020,Austrian GP,5.0,0.6234,69.661,67.974,McLaren,8.0,,0,3,3,2
+Yuki Tsunoda,TSU,2020,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Fernando Alonso,ALO,2020,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Pierre Gasly,GAS,2020,Austrian GP,7.0,0.5828,70.217,69.025,AlphaTauri,12.0,,0,3,2,2
+Esteban Ocon,OCO,2020,Austrian GP,8.0,0.8906,70.398,68.932,Renault,14.0,,0,3,2,2
+Nico Hülkenberg,HUL,2020,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2020,Austrian GP,13.0,1.5855,69.624,68.432,Red Bull Racing,4.0,,1,3,2,2
+Liam Lawson,LAW,2020,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2020,Austrian GP,18.0,2.3418,71.458,70.326,Racing Point,9.0,,1,1,1,0
+Max Verstappen,VER,2021,Austrian GP,1.0,0.4188,68.788,66.2,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2021,Austrian GP,4.0,0.2553,69.441,68.126,Mercedes,4.0,,0,3,2,2
+Lando Norris,NOR,2021,Austrian GP,3.0,0.3708,69.279,68.471,McLaren,2.0,,0,2,2,1
+Charles Leclerc,LEC,2021,Austrian GP,8.0,1.0549,69.992,68.698,Ferrari,12.0,,0,2,2,1
+Oscar Piastri,PIA,2021,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2021,Austrian GP,11.0,0.9796,70.329,68.9,Williams,8.0,,1,2,2,1
+Carlos Sainz,SAI,2021,Austrian GP,5.0,1.3818,69.874,67.762,Ferrari,10.0,,0,2,2,1
+Yuki Tsunoda,TSU,2021,Austrian GP,12.0,1.0004,70.001,68.455,AlphaTauri,7.0,,1,3,2,2
+Fernando Alonso,ALO,2021,Austrian GP,10.0,1.177,70.228,68.405,Alpine,14.0,,1,2,2,1
+Pierre Gasly,GAS,2021,Austrian GP,9.0,1.0676,69.667,68.146,AlphaTauri,6.0,,0,3,2,2
+Esteban Ocon,OCO,2021,Austrian GP,20.0,N/A,N/A,N/A,Alpine,17.0,,1,0,0,-1
+Nico Hülkenberg,HUL,2021,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2021,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liam Lawson,LAW,2021,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2021,Austrian GP,13.0,1.1497,70.181,68.659,Aston Martin,9.0,,1,3,2,2
+Max Verstappen,VER,2022,Austrian GP,2.0,0.8052,69.93,67.275,Red Bull Racing,1.0,,0,3,2,2
+Lewis Hamilton,HAM,2022,Austrian GP,3.0,0.7313,70.565,69.0,Mercedes,8.0,,0,2,1,1
+Lando Norris,NOR,2022,Austrian GP,7.0,0.7121,71.029,69.304,McLaren,10.0,,1,2,2,1
+Charles Leclerc,LEC,2022,Austrian GP,1.0,0.8367,69.889,67.583,Ferrari,2.0,,0,3,2,2
+Oscar Piastri,PIA,2022,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+George Russell,RUS,2022,Austrian GP,4.0,0.5954,70.678,69.075,Mercedes,4.0,,0,2,2,1
+Carlos Sainz,SAI,2022,Austrian GP,18.0,0.409,70.329,68.649,Ferrari,3.0,,1,2,2,1
+Yuki Tsunoda,TSU,2022,Austrian GP,16.0,0.8044,71.577,70.023,AlphaTauri,16.0,,1,2,1,1
+Fernando Alonso,ALO,2022,Austrian GP,10.0,1.4553,71.168,68.558,Alpine,19.0,,1,3,2,2
+Pierre Gasly,GAS,2022,Austrian GP,15.0,0.5035,71.395,70.104,AlphaTauri,14.0,,1,2,2,1
+Esteban Ocon,OCO,2022,Austrian GP,5.0,0.4376,71.05,69.559,Alpine,6.0,,0,2,2,1
+Nico Hülkenberg,HUL,2022,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Alex Albon,ALB,2022,Austrian GP,12.0,0.5858,71.41,69.669,Williams,15.0,,1,3,2,2
+Liam Lawson,LAW,2022,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2022,Austrian GP,13.0,0.7704,71.54,70.048,Aston Martin,12.0,,1,2,1,1
+Max Verstappen,VER,2023,Austrian GP,1.0,0.4896,69.328,67.012,Red Bull Racing,1.0,,0,4,3,3
+Lewis Hamilton,HAM,2023,Austrian GP,8.0,0.3782,70.2,69.16,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2023,Austrian GP,4.0,0.43,70.148,68.739,McLaren,4.0,,0,3,2,2
+Charles Leclerc,LEC,2023,Austrian GP,2.0,0.4223,69.831,68.82,Ferrari,2.0,,0,3,2,2
+Oscar Piastri,PIA,2023,Austrian GP,16.0,0.6491,70.996,69.862,McLaren,13.0,,1,4,2,3
+George Russell,RUS,2023,Austrian GP,7.0,0.591,70.464,69.283,Mercedes,11.0,,0,3,2,2
+Carlos Sainz,SAI,2023,Austrian GP,6.0,0.2845,69.869,68.88,Ferrari,3.0,,0,3,2,2
+Yuki Tsunoda,TSU,2023,Austrian GP,19.0,0.8249,71.108,69.62,AlphaTauri,16.0,,1,3,2,2
+Fernando Alonso,ALO,2023,Austrian GP,5.0,0.3977,70.12,69.108,Aston Martin,7.0,,0,3,2,2
+Pierre Gasly,GAS,2023,Austrian GP,10.0,0.6916,70.421,69.046,Alpine,9.0,,0,3,2,2
+Esteban Ocon,OCO,2023,Austrian GP,14.0,0.4636,70.853,69.797,Alpine,12.0,,1,3,2,2
+Nico Hülkenberg,HUL,2023,Austrian GP,20.0,0.1579,71.475,71.066,Haas F1 Team,8.0,,1,1,1,0
+Alex Albon,ALB,2023,Austrian GP,11.0,0.6231,70.669,69.56,Williams,10.0,,0,3,2,2
+Liam Lawson,LAW,2023,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2023,Austrian GP,9.0,1.0138,70.133,68.463,Aston Martin,6.0,,0,4,2,3
+Max Verstappen,VER,2024,Austrian GP,5.0,0.7654,70.075,67.719,Red Bull Racing,1.0,,0,4,3,3
+Lewis Hamilton,HAM,2024,Austrian GP,4.0,0.3975,70.698,69.562,Mercedes,5.0,,0,3,2,2
+Lando Norris,NOR,2024,Austrian GP,20.0,0.5478,70.23,68.016,McLaren,2.0,,1,3,2,2
+Charles Leclerc,LEC,2024,Austrian GP,11.0,0.3173,70.568,69.584,Ferrari,6.0,,0,4,2,3
+Oscar Piastri,PIA,2024,Austrian GP,2.0,0.6857,70.47,68.697,McLaren,7.0,,0,3,2,2
+George Russell,RUS,2024,Austrian GP,1.0,0.4335,70.428,69.164,Mercedes,3.0,,0,3,2,2
+Carlos Sainz,SAI,2024,Austrian GP,3.0,0.4641,70.487,69.282,Ferrari,4.0,,0,3,2,2
+Yuki Tsunoda,TSU,2024,Austrian GP,14.0,0.5031,71.513,70.318,RB,14.0,,1,3,2,2
+Fernando Alonso,ALO,2024,Austrian GP,18.0,0.5548,71.488,67.694,Aston Martin,15.0,,1,4,3,3
+Pierre Gasly,GAS,2024,Austrian GP,10.0,0.4241,71.236,69.609,Alpine,13.0,,0,3,2,2
+Esteban Ocon,OCO,2024,Austrian GP,12.0,0.4923,71.365,69.649,Alpine,10.0,,0,3,2,2
+Nico Hülkenberg,HUL,2024,Austrian GP,6.0,0.2977,71.125,70.215,Haas F1 Team,9.0,,0,3,2,2
+Alex Albon,ALB,2024,Austrian GP,15.0,0.3602,71.508,70.364,Williams,16.0,,1,3,2,2
+Liam Lawson,LAW,2024,Austrian GP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Lance Stroll,STR,2024,Austrian GP,13.0,0.5546,71.526,70.143,Aston Martin,17.0,,1,3,2,2
